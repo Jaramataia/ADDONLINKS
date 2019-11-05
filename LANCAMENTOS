@@ -1,0 +1,49 @@
+
+<item>
+<title>LANÇAMENTOS</title>
+<thumbnail>https://i.postimg.cc/j539NpFY/LANCAMENTOS.png</thumbnail>
+<link>https://</link>
+<info>
+
+Bay Ana Bela - Lançamentos 2019</info>
+</item>
+
+
+MODELO COM VARIOS LINKS 
+
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR oreange]HD[/COLOR] – LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR oreange]HD[/COLOR] – LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR oreange]HD[/COLOR] – LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$?usp=drivesdk</link>
+<fanart></fanart>
+<info></info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+MODELO UNIVERSAL 
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
