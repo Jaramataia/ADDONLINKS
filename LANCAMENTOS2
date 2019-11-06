@@ -1,0 +1,39 @@
+
+MODELO COM VARIOS LINKS 
+
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR oreange]HD[/COLOR] – LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR oreange]HD[/COLOR] – LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR oreange]HD[/COLOR] – LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$?usp=drivesdk</link>
+<fanart></fanart>
+<info></info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+MODELO UNIVERSAL 
+
+<item>
+<title>Coringa - 2019</title>
+<link>https://video.wixstatic.com/video/090812_c10a506a40814a8c8d19e43ea18ae81b/360p/mp4/file.mp4</link>
+<thumbnail>https://i.postimg.cc/Y9ngCzws/images.jpg</thumbnail>
+<fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
+<info>Coringa é uma história original do vilão nunca antes vista no cinema.</info>
+</item>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
