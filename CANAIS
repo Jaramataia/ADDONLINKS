@@ -111,6 +111,23 @@
 </item>
 
 <item>
+<title>COMBATE</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_9a5f6b128ba80f0eabbcfec7cceaf0c208526ba9/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY TURBO</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryturbo_ca3512f4_85206486082f3f2eb212f52a7898d63eb4972ebf/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
 <title>TV ARAPUAN HD PE</title>
 <link>https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/playlist.m3u8?DVR</link>
 <thumbnail>https://backupimages.files.wordpress.com/2019/10/arapuam.png</thumbnail>
