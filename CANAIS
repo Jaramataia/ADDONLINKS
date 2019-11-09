@@ -1,3 +1,12 @@
+
+<item>
+<title>ANIMAL PLANET</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_cb37a27db112c6b069f354d154b70d49f8d68ebd/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 <item>
 <title>GLOBO MG</title>
 <link>http://iptvhit.live/faustinotv/N7Pg0wcHCx/O6hb5EhhrF/358</link>
@@ -73,6 +82,22 @@
 <item>
 <title>BAND SPORTS</title>
 <link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bandsports_f53eac2e_2a0b901b3e39fa28239b435eade0dab309c7294f/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>SONY</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_cd0474d7e81378aa561b63be5b071deb00dab781/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>CANAL OFF</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canaloff_12f0de3d_c5682fcf6ed300a4a43be4e21dd31db5ea52a8a8.m3u8</link>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
 <info></info>
