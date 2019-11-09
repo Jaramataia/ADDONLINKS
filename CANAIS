@@ -71,6 +71,30 @@
 </item>
 
 <item>
+<title>SPORTV</title>
+<link>http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv_91dfde1d_3e51e93c6d982f2bbf0cc330757fc40f7a4db60d.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPORTV2</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2_22ab0e43_1a18b62f588a64bebe512a73db11501d155dad25/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPORTV3</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv3_e1a864f0_b86668e089378dc578966539289856c9b3850543/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>RECORD TV</title>
 <link>https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b4738048.m3u8</link>
 <thumbnail>https://backupimages.files.wordpress.com/2019/10/recordtv.png</thumbnail>
