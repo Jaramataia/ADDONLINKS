@@ -93,6 +93,38 @@
 <fanart></fanart>
 <info></info>
 </item>
+<item>
+<title>FOX SPORTS  /title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_33100552f8583fafed8dc19b869b217d7af46bfc/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX SPORTS HD /title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_3645fcef11da35869b1e63335e8702e3fe9097f3/playlist.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX SPORTS 2 HD</title>
+<link>http://edge-aws.aovivo.club/hls/s:78.47.3.135/foxsports2hd_2a7541ba_471324ff13dc8735c174535eda5d31b8812f0adf.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX SPORT 2</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_5cae9b83358499020a8868322eb893da9a9701ff.m3u8</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 
 <item>
 <title>SPORTV</title>
@@ -299,8 +331,6 @@
 <fanart></fanart>
 <info></info>
 </item>
-
-
 
 
 
