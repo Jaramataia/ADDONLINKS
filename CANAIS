@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA DE CANAIS ATUALIZADA EM 30.11.2019
+http://127.0.0.2 
+
+
 
 == TV ABERTA =========================================================================================================
 
@@ -473,7 +480,7 @@ http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/87
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="** ESPORTE **", FOX SPORT 2
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/85
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", TURBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", TV TURBO
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/54
  
 
