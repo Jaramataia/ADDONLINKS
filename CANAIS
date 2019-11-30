@@ -517,9 +517,6 @@ https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rtpi_c.png" group-title="PORTUGAL",RTP Internacional
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png" group-title=PORTUGAL",PORTUGAL
-http://fui.me
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 (Copyright © 2019 - TeamBlue)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
 
