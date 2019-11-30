@@ -389,4 +389,8 @@
 <info></info>
 </item>
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/tcm.jpg" group-title="Tv Aberta", TCM Mossoro
+http://live.tcm10.com.br/tcm10.m3u8
 
