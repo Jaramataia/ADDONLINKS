@@ -2,24 +2,6 @@
 
 
 
-
-#PLAYLISTV: pltv-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" pltv-name="---☛★Agregador de links★☚---" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.postimg.cc/g0yHmhJC/links.jpg" pltv-author="Desconhecido" 
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
-http://127.0.0.1
-
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 24.11.2019
-http://127.0.0.2 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE
-http://127.0.0.3
-
-
-
-
-
-
 == TV ABERTA =========================================================================================================
 
 
