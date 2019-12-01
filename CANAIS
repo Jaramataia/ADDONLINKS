@@ -477,7 +477,7 @@ http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/87
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="** ESPORTE **", FOX SPORT 2
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/85
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", TV TURBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", DISCOVERY TURBO
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/54
  
 
@@ -593,3 +593,4 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL",RTP INTERNACIONAL (Copyright © 2019 - TeamBlue)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+
