@@ -78,6 +78,9 @@ http://live.tcm10.com.br/tcm10.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbnwtdg/tv-Natal.png" group-title="Tv Aberta", TV Natal
 https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1583508114
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCIPD5NHmIrvUnijVKw18xq9saz1HgKERE9NQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Tv Aberta", TV KURTIÇÃO Caico
+https://5c64355d4b57c.streamlock.net:1936/alexandrekurticao/alexandrekurticao/chunklist_w436928674.m3u8
+
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/catve.png" group-title="Tv Aberta",Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
 
