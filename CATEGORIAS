@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/TV%20AO%20VIVO</externallink>
 <fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://i.postimg.cc/yNP26ghd/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/FILMES</externallink>
 <fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://i.postimg.cc/SQ53Kp9W/SERIE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/SERIES</externallink>
 <fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
@@ -46,7 +46,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]KIDS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]KIDS[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://i.postimg.cc/zBG6yzpk/KIDS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/INFANTIL</externallink>
 <fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
