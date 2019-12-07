@@ -44,6 +44,9 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAIS ABERTOS", GLOBO SP
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAIS ABERTOS", GLOBO SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_b50521ceb848fce740adbe19c9ef04f7ffe07769/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAIS ABERTOS", SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
