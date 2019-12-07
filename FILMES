@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://i.postimg.cc/j539NpFY/LANCAMENTOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/LANCAMENTOS2</externallink>
 <fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES NACIONAIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]FILMES NACIONAIS[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://i.postimg.cc/x8W4pKQs/NACIONAL.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/NACIONAL</externallink>
 <fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CLASSICOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]CLASSICOS[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/FCLASSICOS</externallink>
 <fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
