@@ -919,3 +919,34 @@
 </channel>
 
 </channels>
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ <item>
+ <title>[COLOR white][B]THOR[/B][/COLOR]</title>
+ <thumbnail>https://i.imgur.com/9j0AIdR.png</thumbnail>
+ <fanart>https://i.imgur.com/1bTeKgD.jpg</fanart>
+ <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=12iE3-grl6S7VleoxaKxdixEMleEKCt0D</link>
+ <info>Thor (Chris Hemsworth) estava prestes a receber o comando de Asgard das mãos de seu pai Odin (Anthony Hopkins) quando forças inimigas quebraram um acordo de paz. Disposto a se vingar do ocorrido, o jovem guerreiro desobedece as ordens do rei e quase dá início a uma nova guerra entre os reinos. Enfurecido com a atitude do filho e herdeiro, Odin retira seus poderes e o expulsa para a Terra. Lá, Thor acaba conhecendo a cientista Jane Foster (Natalie Portman) e precisa recuperar seu martelo, enquanto seu irmão Loki (Tom Hiddleston) elabora um plano para assumir o poder. Mas os guerreiros do Deus do Trovão fazem a mesma viagem para buscar o amigo e impedir que isso aconteça. Só que eles não vieram sozinhos e o inimigo está presente para uma batalha que está apenas começando.<info>
+ <genre>Aventura, Fantasia, Ação</genre>
+</item
+
+ <item>
+  <title>[COLOR white][B]THOR - O MUNDO SOMBRIO[/B][/COLOR]</title>
+  <thumbnail>https://i.imgur.com/5JtSON4.jpg</thumbnail>
+  <fanart>https://i.imgur.com/706Cqcd.jpg</fanart>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1ZgunQZEvBACeemRPBA5jUlJT8yeG5pTA</link>
+  <info>Enquanto Thor (Chris Hemsworth) liderava as últimas batalhas para conquistar a paz entre os Nove Reinos, o maldito elfo negro Malekith (Christopher Eccleston) acordava de um longo sono, sedento de vingança e louco para levar todos para a escuridão eterna. Alertado do perigo por Odin (Anthony Hopkins), o herói precisa contar com a ajuda dos companheiros Volstagg (Ray Stevenson), Sif (Jaimie Alexander), entre outros, e até de seu irmão, o traiçoeiro Loki (Tom Hiddleston), em um plano audacioso para salvar o universo do grande mal. Mas os caminhos de Thor e da amada Jane Foster (Natalie Portman) se cruzam novamente e, dessa vez, a vida dela está realmente em perigo.<info>
+  <genre>Ação, Aventura, Fantasia</genre>
+</item
+
+ <item>
+  <title>[COLOR white][B]THOR - RAGNAROK[/B][/COLOR]</title>
+  <thumbnail>https://i.imgur.com/M64fYQE.jpg</thumbnail>
+  <fanart>https://i.imgur.com/OzA2uYH.jpg</fanart>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1yMcgMeJfeXZjJAaMg4Eo7ytIc9OgKWaL</link>
+  <info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok, a destruição de seu lar e o fim da civilização asgardiana que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador, o Incrível Hulk.<info>
+  <genre>Ação, Aventura, Comédia, Fantasia</genre>
+</item
