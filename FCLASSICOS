@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/31/11/20395807.jpg" group-title="Filmes" ,Um Heroi de Brinquedos  - 1996
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMHRDBRNQDO.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/12/11/20/04/303255.jpg" group-title="Filmes" ,Um Heroi de Brinquedos 2 - 2014
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMHRDBRNQDO2.mp4?attachment=true
+
 #EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Classicos/7segundos%202005%20Dublado.jpg" group-title="Filmes" ,7segundos 2005 Dublado
 http://webtvcde.com/Filmes/Classicos/7segundos%202005%20Dublado.mp4
 #EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Classicos/30%20Dias%20de%20Noite%202%20-%20Dias%20Sombrios%202010.jpg" group-title="Filmes" ,30 Dias de Noite 2 - Dias Sombrios 2010
