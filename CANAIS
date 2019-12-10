@@ -10,7 +10,8 @@ http://127.0.0.2
 
 == TV ABERTA ============================================================================================
 
-
+#EXTINF:-1 tvg-ID="" tvg-logo="https://2.bp.blogspot.com/-55t23DaE4uk/XLNpPZ6w9BI/AAAAAAAAyr8/cgrWrH7VAb4qGK0rWUbtdR6tPguZLMy7gCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.43.jpeg" group-title="Tv Aberta", Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/115
