@@ -384,20 +384,19 @@ https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/kuriakos2bkids.png" group-title="INFANTIL", Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
-
+https://live.multicanais.com/live/discoverykidssd/video.m3u8?md5=BWI0DQvaWYYFYUC7DOUkcg&expires=1576456389
 
 #EXTINF:-1 tvg-ID="Baby TV" tvg-logo="https://i.imgur.com/g2mRHj5.jpg" group-title="INFANTIL", Baby TV
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/11
 
 #EXTINF:-1 tvg-ID="Boomerang" tvg-logo="https://i.imgur.com/ExQtCbB.jpg" group-title="INFANTIL", Boomerang
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/23
+https://live.multicanais.com/live/boomerangsd/video.m3u8?md5=MULChYPlp0qXG5qKsr5kOw&expires=1576455913
 
 #EXTINF:-1 tvg-ID="Cartoon Network" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="INFANTIL", Cartoon Network
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/26
+https://live.multicanais.com/mylive/cartoonnetworksd/video.m3u8?md5=_80IR6_4EFOij_srwhEyDA&expires=1576455788
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="INFANTIL", Disney Channel
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/58
+https://live.multicanais.com/mylive/disneysd/video.m3u8?md5=BZp1CI-LBGC18VcFNcrXNw&expires=1576455984
 
 #EXTINF:-1 tvg-ID="Disney Junior" tvg-logo="https://i.imgur.com/gUUnrE2.jpg" group-title="INFANTIL", Disney JR
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/61
@@ -406,16 +405,16 @@ http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/61
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/62
 
 #EXTINF:-1 tvg-ID="Gloob" tvg-logo="https://i.imgur.com/Q6jFJsf.jpg" group-title="INFANTIL", Gloob
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/125
+https://live.multicanais.com/live/gloobsd/video.m3u8?md5=GPGOE5wAjVEdCQ2tUqIWAQ&expires=1576456286
 
 #EXTINF:-1 tvg-ID="Nick Jr." tvg-logo="https://i.imgur.com/WBUAv5q.jpg" group-title="INFANTIL", Nick JR
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/171
+https://live.multicanais.com/live/nickjrsd/video.m3u8?md5=23t1HyPebvhC0_lrM8CCqw&expires=1576456168
 
 #EXTINF:-1 tvg-ID="Nickelodeon" tvg-logo="https://i.imgur.com/bhvxLAM.png" group-title="INFANTIL", Nickelodeon
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/173
 
 #EXTINF:-1 tvg-ID="Tooncast" tvg-logo="https://i.imgur.com/grRAhl7.jpg" group-title="INFANTIL", Tooncast
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/249
+https://live.multicanais.com/live/tooncastsd/video.m3u8?md5=rFPVXQOF3ZlZz0JysOPERg&expires=1576456108
 
 
 == INFANTIL 24H=======================================================
@@ -467,28 +466,28 @@ http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/31
 https://live.multicanais.com/mylive/combatesd/video.m3u8?md5=Q2DLNkyFI6RDKGSHUTn8AA&expires=1576454498
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="** ESPORTE **", ESPORTE TV
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/226
+https://live.multicanais.com/mylive/sportvhd/video.m3u8?md5=y6rq4MzfyTpSmfWJIRZztQ&expires=1576454928
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="** ESPORTE **", ESPORTE TV 2
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/222
+https://live.multicanais.com/mylive/sportv2sd/video.m3u8?md5=RVaHQP2KdDY88Juex5xn-g&expires=1576455075
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="** ESPORTE **", ESPORTE TV 3
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/224
+https://live.multicanais.com/mylive/sportv3sd/video.m3u8?md5=dS78SwI0CkvCzvNHW-WKwQ&expires=1576455128
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="** ESPORTE **", ESPN
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/69
+https://live.multicanais.com/mylive/espnhd1/video.m3u8?md5=tbxHgP8lWGf-pZL0fjSHLw&expires=1576455187
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="** ESPORTE **", ESPN BRASIL
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/67 
+https://live.multicanais.com/mylive/espnbrasilsd/video.m3u8?md5=z7LJ7BUxfhzkvZPTJT8EGw&expires=1576455270 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="** ESPORTE **", FOX SPORT 1
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/87
+https://live.multicanais.com/mylive/foxsportssd/video.m3u8?md5=JiHITlk7ASYBWddt6YG73Q&expires=1576455352
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="** ESPORTE **", FOX SPORT 2
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/85
+https://live.multicanais.com/live/foxsports2hd/video.m3u8?md5=mwZJElzx0C4vQmSgmWgEqQ&expires=1576455428
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", DISCOVERY TURBO
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/54
+https://live.multicanais.com/live/discoveryturbosd/video.m3u8?md5=dUwBTa0yG5n6SGYk6CL4Sg&expires=1576455674
  
 
 
@@ -498,6 +497,8 @@ http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/54
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBE 
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/193
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 
+https://live.multicanais.com/mylive/premiere1sd/video.m3u8?md5=RkS7lkCc38UsMRzhAlaIzQ&expires=1576455505
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 2
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/182
