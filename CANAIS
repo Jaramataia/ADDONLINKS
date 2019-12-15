@@ -463,6 +463,9 @@ https://r3---sn-bg07dnsl.c.2mdn.net/videoplayback/id/032af33a80d5b84c/itag/343/s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/31
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
+https://live.multicanais.com/mylive/combatesd/video.m3u8?md5=Q2DLNkyFI6RDKGSHUTn8AA&expires=1576454498
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="** ESPORTE **", ESPORTE TV
 http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/226
 
