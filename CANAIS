@@ -20,7 +20,7 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_039d3ebad5f96
 https://live.multicanais.com/live/globosp/video.m3u8?md5=dM-7eg0B5ygpB_LxF62oJQ&expires=1576454114
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_1e5bfa95d093973c9333c9a21a44006872b51905/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_e66280e03f906dd9686ca629a60f9b35781efe2e/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO 
 hhttps://live.multicanais.com/live/globosp/video.m3u8?md5=9L3JC6BXbEDNCdDDzYg7Ng&expires=1576454347
