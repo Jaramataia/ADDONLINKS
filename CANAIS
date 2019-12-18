@@ -24,6 +24,9 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_e66280e03f906
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO 
 hhttps://live.multicanais.com/live/globosp/video.m3u8?md5=9L3JC6BXbEDNCdDDzYg7Ng&expires=1576454347
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO NORDESTE
+https://origastream.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist.m3u8
