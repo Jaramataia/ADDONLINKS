@@ -10,23 +10,10 @@ http://127.0.0.2
 
 == TV ABERTA ============================================================================================
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://2.bp.blogspot.com/-55t23DaE4uk/XLNpPZ6w9BI/AAAAAAAAyr8/cgrWrH7VAb4qGK0rWUbtdR6tPguZLMy7gCLcBGAs/s320/WhatsApp%2BImage%2B2019-04-13%2Bat%2B22.12.43.jpeg" group-title="Tv Aberta", Canal Ricos
-http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_039d3ebad5f9631b6b025ce330a9333052472e51/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-https://live.multicanais.com/live/globosp/video.m3u8?md5=dM-7eg0B5ygpB_LxF62oJQ&expires=1576454114
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_e66280e03f906dd9686ca629a60f9b35781efe2e/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO 
-hhttps://live.multicanais.com/live/globosp/video.m3u8?md5=9L3JC6BXbEDNCdDDzYg7Ng&expires=1576454347
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO NORDESTE
-https://origastream.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/118.m3u8
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist.m3u8
@@ -89,7 +76,7 @@ http://live.tcm10.com.br/tcm10.m3u8
 https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1583508114
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCIPD5NHmIrvUnijVKw18xq9saz1HgKERE9NQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Tv Aberta", TV KURTIÇÃO Caico
-https://5c64355d4b57c.streamlock.net:1936/alexandrekurticao/alexandrekurticao/chunklist_w436928674.m3u8
+https://livefocamundo.com:8081/8202/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/catve.png" group-title="Tv Aberta",Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
@@ -466,34 +453,35 @@ https://r3---sn-bg07dnsl.c.2mdn.net/videoplayback/id/032af33a80d5b84c/itag/343/s
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/31
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
-https://live.multicanais.com/mylive/combatesd/video.m3u8?md5=Q2DLNkyFI6RDKGSHUTn8AA&expires=1576454498
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/34.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="** ESPORTE **", ESPORTE TV
-https://live.multicanais.com/mylive/sportvhd/video.m3u8?md5=y6rq4MzfyTpSmfWJIRZztQ&expires=1576454928
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/231.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="** ESPORTE **", ESPORTE TV 2
-https://live.multicanais.com/mylive/sportv2sd/video.m3u8?md5=RVaHQP2KdDY88Juex5xn-g&expires=1576455075
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/226.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="** ESPORTE **", ESPORTE TV 3
-https://live.multicanais.com/mylive/sportv3sd/video.m3u8?md5=dS78SwI0CkvCzvNHW-WKwQ&expires=1576455128
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/229.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="** ESPORTE **", ESPN
-https://live.multicanais.com/mylive/espnhd1/video.m3u8?md5=tbxHgP8lWGf-pZL0fjSHLw&expires=1576455187
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/229.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="** ESPORTE **", ESPN BRASIL
-https://live.multicanais.com/mylive/espnbrasilsd/video.m3u8?md5=z7LJ7BUxfhzkvZPTJT8EGw&expires=1576455270 
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/72.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="** ESPORTE **", FOX SPORT 1
-https://live.multicanais.com/mylive/foxsportssd/video.m3u8?md5=JiHITlk7ASYBWddt6YG73Q&expires=1576455352
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/90.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="** ESPORTE **", FOX SPORT 2
-https://live.multicanais.com/live/foxsports2hd/video.m3u8?md5=mwZJElzx0C4vQmSgmWgEqQ&expires=1576455428
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", DISCOVERY TURBO
-https://live.multicanais.com/live/discoveryturbosd/video.m3u8?md5=dUwBTa0yG5n6SGYk6CL4Sg&expires=1576455674
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3qnarKMEsOpjTxW2BXVxut7Jhz5mWhn7KnG0wjJjhlj0poz5" group-title="** ESPORTE **", ALL SPORTS
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
+ 
  
 
 
@@ -502,27 +490,31 @@ https://live.multicanais.com/live/discoveryturbosd/video.m3u8?md5=dUwBTa0yG5n6SG
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBE 
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/193
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 
-https://live.multicanais.com/mylive/premiere1sd/video.m3u8?md5=RkS7lkCc38UsMRzhAlaIzQ&expires=1576455505
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/199.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 2
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/182
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/188.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 3
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/184
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/190.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 4
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/186
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/192.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 5
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/188
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/194.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 6
-http://srv01.iptvquantum.co:80/live/murilo/murilo/11593.m3u8
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/195.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 7
-http://srv01.iptvquantum.co:80/live/murilo/murilo/11592.m3u8
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/196.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 8
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 9
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
 
 
 
