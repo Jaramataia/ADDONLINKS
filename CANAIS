@@ -14,6 +14,19 @@ http://127.0.0.2
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO 
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/118.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_79851504b5fe1f8c65e42d4b3a67c2f65a836b78/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_1f7deaa0063b1e197c5ec036e4f874978bab897a/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO NE
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/globonordeste_acf10f2c_068becb5ae30d6bc04c44d488209b43b384c0046/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist.m3u8
@@ -377,37 +390,41 @@ https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/kuriakos2bkids.png" group-title="INFANTIL", Kuriakos Kids
-https://live.multicanais.com/live/discoverykidssd/video.m3u8?md5=BWI0DQvaWYYFYUC7DOUkcg&expires=1576456389
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
+
 
 #EXTINF:-1 tvg-ID="Baby TV" tvg-logo="https://i.imgur.com/g2mRHj5.jpg" group-title="INFANTIL", Baby TV
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/11
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/14.m3u8
 
 #EXTINF:-1 tvg-ID="Boomerang" tvg-logo="https://i.imgur.com/ExQtCbB.jpg" group-title="INFANTIL", Boomerang
-https://live.multicanais.com/live/boomerangsd/video.m3u8?md5=MULChYPlp0qXG5qKsr5kOw&expires=1576455913
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/26.m3u8
 
 #EXTINF:-1 tvg-ID="Cartoon Network" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="INFANTIL", Cartoon Network
-https://live.multicanais.com/mylive/cartoonnetworksd/video.m3u8?md5=_80IR6_4EFOij_srwhEyDA&expires=1576455788
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/29.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="INFANTIL", Disney Channel
-https://live.multicanais.com/mylive/disneysd/video.m3u8?md5=BZp1CI-LBGC18VcFNcrXNw&expires=1576455984
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/61.m3u8
+
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_Pq_0fS1jU5C5eQQWEWm2ZOiDQnnAOPbxN7bl7Nf2V3PL_35x" group-title="INFANTIL", Discovery Kids
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/49.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Junior" tvg-logo="https://i.imgur.com/gUUnrE2.jpg" group-title="INFANTIL", Disney JR
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/61
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/63.m3u8
 
 #EXTINF:-1 tvg-ID="Disney XD" tvg-logo="https://i.imgur.com/CS1imJ2.jpg" group-title="INFANTIL", Disney XD
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/62
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/65.m3u8
 
 #EXTINF:-1 tvg-ID="Gloob" tvg-logo="https://i.imgur.com/Q6jFJsf.jpg" group-title="INFANTIL", Gloob
-https://live.multicanais.com/live/gloobsd/video.m3u8?md5=GPGOE5wAjVEdCQ2tUqIWAQ&expires=1576456286
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/130.m3u8
 
 #EXTINF:-1 tvg-ID="Nick Jr." tvg-logo="https://i.imgur.com/WBUAv5q.jpg" group-title="INFANTIL", Nick JR
-https://live.multicanais.com/live/nickjrsd/video.m3u8?md5=23t1HyPebvhC0_lrM8CCqw&expires=1576456168
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/176.m3u8
 
 #EXTINF:-1 tvg-ID="Nickelodeon" tvg-logo="https://i.imgur.com/bhvxLAM.png" group-title="INFANTIL", Nickelodeon
-http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/173
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/178.m3u8
 
 #EXTINF:-1 tvg-ID="Tooncast" tvg-logo="https://i.imgur.com/grRAhl7.jpg" group-title="INFANTIL", Tooncast
-https://live.multicanais.com/live/tooncastsd/video.m3u8?md5=rFPVXQOF3ZlZz0JysOPERg&expires=1576456108
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/255.m3u8
 
 
 == INFANTIL 24H=======================================================
