@@ -158,6 +158,8 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 == JORNALISMO ==============================================================================================================
 
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQHm0AqNLPwjYg/company-logo_200_200/0?e=2159024400&v=beta&t=Oljfz2UafKI9fwFdtLC4ha2a4GT8PcQw70i3OTfjqbI" group-title="Jornalismo",Globo News
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/107.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recnews.png" group-title="Jornalismo",Record News
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist.m3u8
