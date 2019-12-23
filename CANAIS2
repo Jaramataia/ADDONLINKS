@@ -686,9 +686,6 @@ http://192.99.150.31:8962/stream
 ########################################################### RÁDIOS
 
 
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio34123_1447066982.jpg" TVG-NAME=''RADIO=TRUE, Radio Povo FM 87.9
-http://149.56.167.236:8079/.ogg
-
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10705_1483434697.jpg" TVG-NAME=''RADIO=TRUE, Radio Caicó AM 1290
 http://149.56.167.236:8089/.ogg
 
@@ -703,9 +700,6 @@ http://149.56.167.236:8081/stream
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14474_1535454461.jpg" TVG-NAME=''RADIO=TRUE, Jovem Pan Seridó
 http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8
-
-
-
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1493299107.png" TVG-NAME=''RADIO=TRUE, Rádio Verdes Mares AM 810
 http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w483075415.m3u8
