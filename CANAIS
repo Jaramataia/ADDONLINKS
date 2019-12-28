@@ -1,32 +1,42 @@
 #EXTM3U
 
 
+#PLAYLISTV: pltv-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" pltv-name="---☛★Agregador de links★☚---" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.postimg.cc/g0yHmhJC/links.jpg" pltv-author="Ana Bela" 
 
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",.ATUALIZADA EM 22.12.2019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 28.12.2019
 http://127.0.0.2 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE
+http://127.0.0.3
 
 
-== TV ABERTA ============================================================================================
+
+
+
+
+== TV ABERTA =========================================================================================================
+
 
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO 
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/118.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_5300478038f06a655349ff8b10c3547b8f2c7f07/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_79851504b5fe1f8c65e42d4b3a67c2f65a836b78/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_1f7deaa0063b1e197c5ec036e4f874978bab897a/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-https://d3vgf6qih0jwkx.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/boborj.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO NE
-http://edge-aws.aovivo.club/hls/s:78.47.3.135/globonordeste_acf10f2c_068becb5ae30d6bc04c44d488209b43b384c0046/playlist.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/bobonordeste.m3u8?wmsAuthSign=
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist.m3u8
@@ -53,16 +63,19 @@ https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b5
 https://5ad482a77183d.streamlock.net/raniere73gmail.com/5d864557c902eb4a1e8def33/chunklist_w1009622126.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Tv Aberta",Band (SP)
-https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/19.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Tv Aberta",Band
-https://live.multicanais.com/mylive/bandcampinassd/video.m3u8?md5=PbzkYj_DelXSvO2zY91ytg&expires=1576456831
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Tv Aberta",Band (PA)
+https://evpp.mm.uol.com.br/geob_band/app/chunklist_w2109694991.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rba.png" group-title="Tv Aberta",Band - RBA TV (PA)
 https://video01.kshost.com.br/rbatv121/rbatv121/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv Aberta", RedeTV! (SP)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/213.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv Aberta", RedeTV! (SP)
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/arapuam.png" group-title="Tv Aberta", TV Arapuan HD (PB)
 https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/playlist.m3u8?DVR
@@ -88,7 +101,7 @@ http://live.tcm10.com.br/tcm10.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbnwtdg/tv-Natal.png" group-title="Tv Aberta", TV Natal
 https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1583508114
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCIPD5NHmIrvUnijVKw18xq9saz1HgKERE9NQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Tv Aberta", TV KURTIÇÃO Caico
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCIPD5NHmIrvUnijVKw18xq9saz1HgKERE9NQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Tv Aberta", TV Kurtição - Caico/RN
 https://livefocamundo.com:8081/8202/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/catve.png" group-title="Tv Aberta",Catve - Cultura (PR)
@@ -109,9 +122,19 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/topo_tv_opovo_desktop.png" group-title="Tv Aberta",TV O Povo - Futura
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSzcjqd.png" group-title="Tv Aberta",TV Sol (PB)
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+
+
+
 
 == PUBLICA ===============================================================================================================
 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMDR-oJIkt5R4Fj4KyDWRR4wFVzSWiJnx3J-oO_tTkOwLOEwHO" group-title="Pública",Tv Assembleia (RN)
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1973467823.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_da_tv_itararc3a9.png" group-title="Pública", TV Itararé - Cultura (PB)
 http://stream.tvitarare.com.br/hls/site/site.m3u8
@@ -158,6 +181,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 == JORNALISMO ==============================================================================================================
 
+
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQHm0AqNLPwjYg/company-logo_200_200/0?e=2159024400&v=beta&t=Oljfz2UafKI9fwFdtLC4ha2a4GT8PcQw70i3OTfjqbI" group-title="Jornalismo",Globo News
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/107.m3u8
 
@@ -181,6 +205,9 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/wfxt_boston_25_logo.png" group-title="Jornalismo", Boston 25 News
 https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy546zyRKEglaLXIIP_bDhQzCfM8px6NVQchlEqIlurEtkkEdt" group-title="Jornalismo", Al Jazeera English
+https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="Jornalismo", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
@@ -233,7 +260,11 @@ http://live.impresa.pt/live/sic/sic.m3u8
 
 
 
+
 == MUSICA =====================================================================================================================
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1hd.png" group-title="Música", 1HD Music
@@ -298,6 +329,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 == WEBTV ==============================================================================================================
 
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dZQxLQ_SavM/XT8orT0EjqI/AAAAAAAABX8/q77ZrakORn0sNxj3hw1UyeiVso899JniwCPcBGAYYCw/s320/Screenshot_2019-07-29-01-20-42.png" group-title="WebTV", TV da Gente
+https://595b85410a151.streamlock.net/tvdagenteoficial/tvdagenteoficial/chunklist_w854571981.m3u8
+
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo.jpg" group-title="WebTV", TV Guarani - WebTV
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
@@ -316,6 +350,13 @@ https://v3.ciclano.io:1443/tvjapi/_definst_/tvjapi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/screenshot_2019-08-16-14-24-07.png" group-title="WebTV",TV Massa
 http://stmv6.srvstm.com/gilson7193/gilson7193/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fyaxU5RL4f0/XbJFyWknp4I/AAAAAAAACME/4r9Ukgaw9gwdIDAbc5qykuIPaUWtM5HZgCLcBGAsYHQ/s320/Screenshot_2019-10-24-21-43-30.png" group-title="WebTV",Viva WebTv
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w343984701.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wLlSvdtf9Js/XP3UBaLX0bI/AAAAAAAAA_w/WTeaEjZJ0x8h95j51m3qR3bUbNQ2pwLBwCLcBGAs/s320/Screenshot_2019-06-10-00-48-32.png" group-title="webTV", TV Infor Bahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w111732487.m3u8
 
 
 
@@ -366,9 +407,44 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 == FILMES ===================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8IFnsWa1goE/XQlbcI9kegI/AAAAAAAABFw/dLsbP-zgyWU35cunbqFxaeJHZoUU-AGOACPcBGAYYCw/s320/Screenshot_2019-06-18-16-58-06.png" group-title="Filmes",Cine +
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w541394271.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hHTWYaIbBWw/XZLJDwyAG5I/AAAAAAAACBo/u2-CtcTjAbsITFD5vdOn4xj4GTqgdoIvgCLcBGAsYHQ/s320/Screenshot_2019-10-01-00-29-16.png" group-title="Filmes",Imperial TV
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w489091346_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/gospel.jpg" group-title="Filmes",Gospel Movie TV
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png" group-title="Filmes",Tv Carioca net
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w873806451.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="Filmes",ISTV
+https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="Filmes", TV J.Side Filmes 24horas
+https://stmv3.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=415836703
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3ge0TRG4CcU/XRkKMV3Kd_I/AAAAAAAABP0/0iOri3AC3wUU_xeZLpDwsBlgDIiE_2zwgCPcBGAYYCw/s320/Screenshot_2019-06-30-16-12-22.png" group-title="Filmes", Tv Japi
+https://5d2c98775bafe.streamlock.net/8220/8220/chunklist_w1354007540.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-dJWTibPZ1EE/XRkWoQqgi7I/AAAAAAAABQs/HZXMImajW9IMnwEXl5w7QJZgW3x9S0QkQCPcBGAYYCw/s320/Screenshot_2019-06-30-16-59-20.png" group-title="Filmes", Tv Guarany (CE)
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1485745044
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="Filmes", Classique TV
+https://stmv1.ifantasy.com.br/classique/classique/playlist.m3u8?wowzasessionid=1687832457
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2LYbTyB-jKQ/XRF-sPN8agI/AAAAAAAABOI/N9gBA0Bu-n4GnbIuhhacXPxS9i_v_t5NgCPcBGAYYCw/s320/Screenshot_2019-06-24-16-24-47.png" group-title="Filmes", Tv Capita777
+https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist_w212704106.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YZzjxuSIsAc/XXxQhEfqNuI/AAAAAAAAB0Y/17hPLzf4WfcEHi0S1pslnYD3hjeXYd8hwCLcBGAsYHQ/s320/Screenshot_2019-09-13-23-27-15.png" group-title="Filmes", TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1071480912.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9nmwxB94-9U/XZuMpvQX8RI/AAAAAAAACFg/QjkhB-OgkucRmHoxf78YaixlaCI4jjcVQCLcBGAsYHQ/s320/Screenshot_2019-10-07-16-04-13.png" group-title="Filmes", TV que Demais
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6ujEifqHhEM/XZuH3UPYiXI/AAAAAAAACFI/iwd_y-_n9MMrVvGDORBh4Lh2EugsC0WVwCLcBGAsYHQ/s320/2019-10-07%2B15.43.32.png" group-title="Filmes", Tv Jampa Jovens
+https://stmv6.srvstm.com/anderson2491/anderson2491/chunklist.m3u8?wowzasessionid=277540701
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rai.png" group-title="Filmes", RAI Movie (Itália)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -398,7 +474,6 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/kuriakos2bkids.png" group-title="INFANTIL", Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
 
-
 #EXTINF:-1 tvg-ID="Baby TV" tvg-logo="https://i.imgur.com/g2mRHj5.jpg" group-title="INFANTIL", Baby TV
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/14.m3u8
 
@@ -409,7 +484,7 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/26.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/29.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="INFANTIL", Disney Channel
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/61.m3u8
+https://live.multicanais.com/mylive/disneysd/video.m3u8?md5=cY0c0k8FUBvp3Q_4RXMi4Q&expires=1577533745
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_Pq_0fS1jU5C5eQQWEWm2ZOiDQnnAOPbxN7bl7Nf2V3PL_35x" group-title="INFANTIL", Discovery Kids
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/49.m3u8
@@ -478,6 +553,9 @@ https://r3---sn-bg07dnsl.c.2mdn.net/videoplayback/id/032af33a80d5b84c/itag/343/s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/34.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_8572d7109e06a1f23d395d055686a1dedfb4d2d0/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="** ESPORTE **", ESPORTE TV
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/231.m3u8
 
@@ -504,7 +582,6 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/57.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3qnarKMEsOpjTxW2BXVxut7Jhz5mWhn7KnG0wjJjhlj0poz5" group-title="** ESPORTE **", ALL SPORTS
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
- 
  
 
 
@@ -540,12 +617,12 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
 
 
-
-
-
 == CANAIS DE PORTUGAL =====================================================================================================================
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png" group-title=PORTUGAL",PORTUGAL
+http://fui.me
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rtp1_positivo_horiz_rgb.png" group-title="PORTUGAL",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/livestream.m3u8
@@ -576,7 +653,6 @@ http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI 
 http://video-auth8.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS 
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
@@ -625,4 +701,36 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL",RTP INTERNACIONAL 
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+
+
+
+== TV MUNDO ===========================================================================================================
+
+
+
+#EXTINF:0 tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Bloomberg.png?itok=Yi7zgFpO" group-title="TV MUNDO", BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XR3C9Nd.png?1" group-title="TV MUNDO", FOX 25
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ANRpSvd.png?1" group-title="TV MUNDO", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="TV MUNDO", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf2498c5f4acc68c6abe02e0047722b.jpg" group-title="TV MUNDO", REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
