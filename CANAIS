@@ -1,17 +1,12 @@
 #EXTM3U
 
 
-#PLAYLISTV: pltv-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" pltv-name="---☛★Agregador de links★☚---" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.postimg.cc/g0yHmhJC/links.jpg" pltv-author="Ana Bela" 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
-http://127.0.0.1
-
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 28.12.2019
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 18.01.2020
 http://127.0.0.2 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE
-http://127.0.0.3
+
 
 
 
@@ -24,22 +19,22 @@ http://127.0.0.3
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO 
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/118.m3u8
+https://live.multicanais.com/live/globosp/video.m3u8?md5=FZUYEfRtcFG-nlW3K_N6Iw&expires=1578537072
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_5300478038f06a655349ff8b10c3547b8f2c7f07/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_39e1ea8e2a70220233d1d271361a86982d8026c1/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-https://d2b8g5kuusn7xk.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
+http://198.255.23.18:2095/streams/25_.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
-https://d2b8g5kuusn7xk.cloudfront.net/hls1/boborj.m3u8?wmsAuthSign=
+http://198.255.23.18:2095/streams/22_.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO NE
-https://d2b8g5kuusn7xk.cloudfront.net/hls1/bobonordeste.m3u8?wmsAuthSign=
+https://d2xkw8f88yypbi.cloudfront.net/hls1/bobonordeste.m3u8?wmsAuthSign=
  
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Interior SP
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Jornal de Recife (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w862769389_b216000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta", SBT - TV Jornal Caruaru (PE)
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
@@ -56,17 +51,11 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta", SBT - TV Serra Dourada - (GO)
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv Aberta", RecordTV
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b4738048.m3u8
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv Aberta", RecordTV - Alternativo
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv Aberta", RecordTV 
 https://5ad482a77183d.streamlock.net/raniere73gmail.com/5d864557c902eb4a1e8def33/chunklist_w1009622126.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Tv Aberta",Band (SP)
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/19.m3u8
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Tv Aberta",Band (PA)
-https://evpp.mm.uol.com.br/geob_band/app/chunklist_w2109694991.m3u8
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Tv Aberta",Band 
+https://live.multicanais.com/mylive/bandcampinassd/video.m3u8?md5=T-jcJVyPeuG7a9tTvO9FaQ&expires=1577628458
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rba.png" group-title="Tv Aberta",Band - RBA TV (PA)
 https://video01.kshost.com.br/rbatv121/rbatv121/playlist.m3u8
@@ -407,6 +396,9 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 == FILMES ===================================================================================================================
 
+
+
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8IFnsWa1goE/XQlbcI9kegI/AAAAAAAABFw/dLsbP-zgyWU35cunbqFxaeJHZoUU-AGOACPcBGAYYCw/s320/Screenshot_2019-06-18-16-58-06.png" group-title="Filmes",Cine +
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w541394271.m3u8
 
@@ -418,9 +410,6 @@ http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png" group-title="Filmes",Tv Carioca net
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w873806451.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="Filmes",ISTV
-https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="Filmes", TV J.Side Filmes 24horas
 https://stmv3.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=415836703
@@ -475,16 +464,16 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
 
 #EXTINF:-1 tvg-ID="Baby TV" tvg-logo="https://i.imgur.com/g2mRHj5.jpg" group-title="INFANTIL", Baby TV
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/14.m3u8
+http://198.255.23.18:2095/streams/126_.m3u8
 
 #EXTINF:-1 tvg-ID="Boomerang" tvg-logo="https://i.imgur.com/ExQtCbB.jpg" group-title="INFANTIL", Boomerang
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/26.m3u8
+http://198.255.23.18:2095/streams/127_.m3u8
 
 #EXTINF:-1 tvg-ID="Cartoon Network" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="INFANTIL", Cartoon Network
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/29.m3u8
+http://198.255.23.18:2095/streams/128_.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="INFANTIL", Disney Channel
-https://live.multicanais.com/mylive/disneysd/video.m3u8?md5=cY0c0k8FUBvp3Q_4RXMi4Q&expires=1577533745
+http://198.255.23.18:2095/streams/129_.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_Pq_0fS1jU5C5eQQWEWm2ZOiDQnnAOPbxN7bl7Nf2V3PL_35x" group-title="INFANTIL", Discovery Kids
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/49.m3u8
@@ -499,13 +488,13 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/65.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/130.m3u8
 
 #EXTINF:-1 tvg-ID="Nick Jr." tvg-logo="https://i.imgur.com/WBUAv5q.jpg" group-title="INFANTIL", Nick JR
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/176.m3u8
+http://198.255.23.18:2095/streams/139_.m3u8
 
 #EXTINF:-1 tvg-ID="Nickelodeon" tvg-logo="https://i.imgur.com/bhvxLAM.png" group-title="INFANTIL", Nickelodeon
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/178.m3u8
+http://198.255.23.18:2095/streams/135_.m3u8
 
 #EXTINF:-1 tvg-ID="Tooncast" tvg-logo="https://i.imgur.com/grRAhl7.jpg" group-title="INFANTIL", Tooncast
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/255.m3u8
+http://198.255.23.18:2095/streams/222_.m3u8
 
 
 == INFANTIL 24H=======================================================
@@ -551,19 +540,19 @@ https://r3---sn-bg07dnsl.c.2mdn.net/videoplayback/id/032af33a80d5b84c/itag/343/s
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/34.m3u8
+http://198.255.23.18:2095/streams/49_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_8572d7109e06a1f23d395d055686a1dedfb4d2d0/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_8e640619e907d72fe66477dbc5d9c65cc1438f59/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="** ESPORTE **", ESPORTE TV
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/231.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="** ESPORTE **", SPORTE TV
+http://198.255.23.18:2095/streams/70_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="** ESPORTE **", ESPORTE TV 2
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/226.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="** ESPORTE **", SPORTE TV 2
+http://198.255.23.18:2095/streams/72_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="** ESPORTE **", ESPORTE TV 3
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/229.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="** ESPORTE **", SPORTE TV 3
+http://198.255.23.18:2095/streams/74_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="** ESPORTE **", ESPN
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/229.m3u8
@@ -572,13 +561,13 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/229.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/72.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="** ESPORTE **", FOX SPORT 1
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/90.m3u8
+http://198.255.23.18:2095/streams/56_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="** ESPORTE **", FOX SPORT 2
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/88.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", DISCOVERY TURBO
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/57.m3u8
+http://198.255.23.18:2095/streams/107_.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3qnarKMEsOpjTxW2BXVxut7Jhz5mWhn7KnG0wjJjhlj0poz5" group-title="** ESPORTE **", ALL SPORTS
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
@@ -722,6 +711,24 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf2498c5f4acc68c6abe02e0047722b.jpg" group-title="TV MUNDO", REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8404016711a6edd34954b89e1a39b84c.jpg" group-title="TV MUNDO", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1297458866_b1396000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-UQ7w-yM9xb4/XPMVYvb3GSI/AAAAAAAAA88/4s1Xti_TqQoqyFON6EEPfyqc49_TDTL_wCLcBGAs/s320/Screenshot_2019-06-01-21-14-27.png" group-title="TV MUNDO", 100% Auto Moto TV online 24
+http://100automoto.tv:1935/bgtv1/Stream1/chunklist_w801668255.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
