@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 18.01.2020
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 08.02.2020
 http://127.0.0.2 
 
 
@@ -13,25 +13,80 @@ http://127.0.0.2
 
 
 
+== BBB 2020 ===========================================================================================================
+
+
+BB 2020" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 2020
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11923.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 2020 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11924.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 1 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11925.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 2 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11926.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 2
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11927.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 *" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 1 *
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11928.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 3 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11929.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 3
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11930.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 4 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 4 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11931.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 4" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 4
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11932.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 5 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 5 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11933.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 5" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 5
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11934.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 6 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 6 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11935.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 6" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 6
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11936.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 10" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 10
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11937.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 10 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 10 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11938.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 9" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 9
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11939.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 9 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 9 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11940.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 8" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 8
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11941.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 8 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 8 HD
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11942.m3u8
+
+
 == TV ABERTA =========================================================================================================
 
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO 
-https://live.multicanais.com/live/globosp/video.m3u8?md5=FZUYEfRtcFG-nlW3K_N6Iw&expires=1578537072
-
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_39e1ea8e2a70220233d1d271361a86982d8026c1/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-http://198.255.23.18:2095/streams/25_.m3u8
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/827.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
-http://198.255.23.18:2095/streams/22_.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO NE
-https://d2xkw8f88yypbi.cloudfront.net/hls1/bobonordeste.m3u8?wmsAuthSign=
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/829.m3u8
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Jornal de Recife (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w862769389_b216000_sleng.m3u8
@@ -52,13 +107,13 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv Aberta", RecordTV 
-https://5ad482a77183d.streamlock.net/raniere73gmail.com/5d864557c902eb4a1e8def33/chunklist_w1009622126.m3u8
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Tv Aberta",Band 
-https://live.multicanais.com/mylive/bandcampinassd/video.m3u8?md5=T-jcJVyPeuG7a9tTvO9FaQ&expires=1577628458
+EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv Aberta", RecordTV Brasilia
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rba.png" group-title="Tv Aberta",Band - RBA TV (PA)
-https://video01.kshost.com.br/rbatv121/rbatv121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rba.png" group-title="Tv Aberta",Band
+https://cdnhd.iblups.com/hls/F2rvPOTsoY.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv Aberta", RedeTV! (SP)
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/213.m3u8
@@ -243,6 +298,10 @@ https://5d23bdca513db.streamlock.net/40graustv/40graustv/chunklist_w1659078724.m
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/bnzdrdjj.jpg" group-title="Variedades", TV Brusque (SC)
 https://hls.brasilstream.com.br/live/tvbrusque/tvbrusque/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9fwNqx.png" group-title="Variedades",TV CN AGITOS
+http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_sic_2018.png" group-title="Variedades", SIC (apenas em Portugal)
 http://live.impresa.pt/live/sic/sic.m3u8
 
@@ -344,7 +403,7 @@ http://stmv6.srvstm.com/gilson7193/gilson7193/playlist.m3u8
 https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w343984701.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wLlSvdtf9Js/XP3UBaLX0bI/AAAAAAAAA_w/WTeaEjZJ0x8h95j51m3qR3bUbNQ2pwLBwCLcBGAs/s320/Screenshot_2019-06-10-00-48-32.png" group-title="webTV", TV Infor Bahia
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wLlSvdtf9Js/XP3UBaLX0bI/AAAAAAAAA_w/WTeaEjZJ0x8h95j51m3qR3bUbNQ2pwLBwCLcBGAs/s320/Screenshot_2019-06-10-00-48-32.png" group-title="WebTV",TV Info Bahia
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w111732487.m3u8
 
 
@@ -717,9 +776,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1297458866_b1396000_
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-UQ7w-yM9xb4/XPMVYvb3GSI/AAAAAAAAA88/4s1Xti_TqQoqyFON6EEPfyqc49_TDTL_wCLcBGAs/s320/Screenshot_2019-06-01-21-14-27.png" group-title="TV MUNDO", 100% Auto Moto TV online 24
 http://100automoto.tv:1935/bgtv1/Stream1/chunklist_w801668255.m3u8
-
-
-
 
 
 
