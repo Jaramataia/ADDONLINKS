@@ -16,65 +16,26 @@ http://127.0.0.2
 == BBB 2020 ===========================================================================================================
 
 
-BB 2020" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 2020
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11923.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 2020 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11924.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 1 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11925.m3u8
+http://csrv.club:80/live/AY6GE/zQXhh/33430.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 2 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11926.m3u8
+http://csrv.club:80/live/AY6GE/zQXhh/33431.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 2
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 QUARTO
+http://csrv.club:80/live/AY6GE/zQXhh/33435.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 *" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 1 *
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 *" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 COINHA VIP
+http://csrv.club:80/live/AY6GE/zQXhh/33436.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 3 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 MOSAICO
+http://csrv.club:80/live/AY6GE/zQXhh/29879.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 3
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB ACOMPANHE A CASA HD
+http://csrv.club:80/live/AY6GE/zQXhh/33430.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 4 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 4 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11931.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 4" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 4
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11932.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 5 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 5 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11933.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 5" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 5
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11934.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 6 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 6 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11935.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 6" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 6
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11936.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 10" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 10
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11937.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 10 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 10 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11938.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 9" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 9
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11939.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 9 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 9 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11940.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 8" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 8
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11941.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 8 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 8 HD
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11942.m3u8
 
 
 == TV ABERTA =========================================================================================================
@@ -83,10 +44,22 @@ http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/11942.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/827.m3u8
+http://csrv.club:80/live/AY6GE/zQXhh/1615.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/829.m3u8
+http://csrv.club:80/live/AY6GE/zQXhh/1621.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO NE
+http://csrv.club:80/live/AY6GE/zQXhh/1628.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO TV Verdes Mares
+http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/5068.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://miro.medium.com/max/1200/1*3otmVimw5h_HMog5yElzZQ.png" group-title="Tv Aberta" TV Diario Fortaleza HD
+http://csrv.club:80/live/AY6GE/zQXhh/1659.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://miro.medium.com/max/1200/1*3otmVimw5h_HMog5yElzZQ.png" group-title="Tv Aberta" TV Diario Fortaleza SD
+http://csrv.club:80/live/AY6GE/zQXhh/1658.m3u8
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Jornal de Recife (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w862769389_b216000_sleng.m3u8
