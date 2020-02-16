@@ -1,15 +1,8 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 10.02.2020
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 16.02.2020
 http://127.0.0.2 
-
-
-
-
-
 
 
 
@@ -17,23 +10,26 @@ http://127.0.0.2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 1 HD
-http://csrv.club:80/live/AY6GE/zQXhh/33430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 1 SD
+http://mytvip.xyz:80/cesar1/cesar1/75268
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 2 HD
-http://csrv.club:80/live/AY6GE/zQXhh/33431.m3u8
+http://mytvip.xyz:80/cesar1/cesar1/76609
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 QUARTO
-http://csrv.club:80/live/AY6GE/zQXhh/33435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 10
+http://mytvip.xyz:80/cesar1/cesar1/76624
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 *" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 COINHA VIP
-http://csrv.club:80/live/AY6GE/zQXhh/33436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 *" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CONFECIONARIO
+http://mytvip.xyz:80/cesar1/cesar1/76611
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 MOSAICO
-http://csrv.club:80/live/AY6GE/zQXhh/29879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 QUARTO AZUL
+http://mytvip.xyz:80/cesar1/cesar1/76614
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB ACOMPANHE A CASA HD
-http://csrv.club:80/live/AY6GE/zQXhh/33430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 QUARTO
+http://mytvip.xyz:80/cesar1/cesar1/76615
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 PISCINA
+http://mytvip.xyz:80/cesar1/cesar1/76636
 
 
 
@@ -44,22 +40,13 @@ http://csrv.club:80/live/AY6GE/zQXhh/33430.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-http://csrv.club:80/live/AY6GE/zQXhh/1615.m3u8
+http://mytvip.xyz:80/cesar1/cesar1/76864
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
-http://csrv.club:80/live/AY6GE/zQXhh/1621.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO DF
+http://mytvip.xyz:80/cesar1/cesar1/76846
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO NE
-http://csrv.club:80/live/AY6GE/zQXhh/1628.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO TV Verdes Mares
-http://a.srvbr.me:8880/live/JpeQDe4IaL/hnfgdhrteyfhdhs/5068.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://miro.medium.com/max/1200/1*3otmVimw5h_HMog5yElzZQ.png" group-title="Tv Aberta" TV Diario Fortaleza HD
-http://csrv.club:80/live/AY6GE/zQXhh/1659.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://miro.medium.com/max/1200/1*3otmVimw5h_HMog5yElzZQ.png" group-title="Tv Aberta" TV Diario Fortaleza SD
-http://csrv.club:80/live/AY6GE/zQXhh/1658.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", INTERTV CABUGI
+http://mytvip.xyz:80/cesar1/cesar1/76842
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Jornal de Recife (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w862769389_b216000_sleng.m3u8
@@ -85,14 +72,20 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
 EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv Aberta", RecordTV Brasilia
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rba.png" group-title="Tv Aberta",Band
-https://cdnhd.iblups.com/hls/F2rvPOTsoY.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv Aberta",Band PA
+https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv Aberta",Band
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1431167_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv Aberta",Band GO
+http://mytvip.xyz:80/cesar1/cesar1/63393
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv Aberta", RedeTV! (SP)
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/213.m3u8
+http://mytvip.xyz:80/cesar1/cesar1/76790
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv Aberta", RedeTV! (SP)
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv Aberta", RedeTV! (RJ)
+http://mytvip.xyz:80/cesar1/cesar1/76816
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/arapuam.png" group-title="Tv Aberta", TV Arapuan HD (PB)
 https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/playlist.m3u8?DVR
@@ -105,6 +98,9 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rictv_logo.png" group-title="Tv Aberta",RICTV - RecordTV (SC)
 https://59566a7951f71.streamlock.net:8090/ricsc/ricsc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2017/2/programas/15665617161518343.png" group-title="Tv Aberta",TV Vitória - RecordTV " group-title="Tv Aberta" RecordTV 
+http://mytvip.xyz:80/cesar1/cesar1/75917
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rbtv-logo-rede-brasil.png" group-title="Tv Aberta", Rede Brasil (SP)
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
@@ -502,7 +498,7 @@ http://198.255.23.18:2095/streams/126_.m3u8
 http://198.255.23.18:2095/streams/127_.m3u8
 
 #EXTINF:-1 tvg-ID="Cartoon Network" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="INFANTIL", Cartoon Network
-http://198.255.23.18:2095/streams/128_.m3u8
+http://mytvip.xyz:80/cesar1/cesar1/63346
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="INFANTIL", Disney Channel
 http://198.255.23.18:2095/streams/129_.m3u8
@@ -511,7 +507,7 @@ http://198.255.23.18:2095/streams/129_.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/49.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Junior" tvg-logo="https://i.imgur.com/gUUnrE2.jpg" group-title="INFANTIL", Disney JR
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/63.m3u8
+http://mytvip.xyz:80/cesar1/cesar1/63247
 
 #EXTINF:-1 tvg-ID="Disney XD" tvg-logo="https://i.imgur.com/CS1imJ2.jpg" group-title="INFANTIL", Disney XD
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/65.m3u8
@@ -749,6 +745,21 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1297458866_b1396000_
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-UQ7w-yM9xb4/XPMVYvb3GSI/AAAAAAAAA88/4s1Xti_TqQoqyFON6EEPfyqc49_TDTL_wCLcBGAs/s320/Screenshot_2019-06-01-21-14-27.png" group-title="TV MUNDO", 100% Auto Moto TV online 24
 http://100automoto.tv:1935/bgtv1/Stream1/chunklist_w801668255.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
