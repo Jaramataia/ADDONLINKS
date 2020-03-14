@@ -1,12 +1,7 @@
 #EXTM3U
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="Informações",LISTA ATUALIZADA EM 14/03/2020
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="Informações",LISTA ATUALIZADA EM 14/03/2020 - Lista FaustinoTV
 https://127.0.0.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YuJQR03.png" group-title="Informações",Telegram: t.me/FaustinoTV
-https://127.0.0.3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ow2B1Fv.jpg" group-title="Informações",USAR: IPTV EXTREME
-https://127.0.0.4
-
 
 ###############################################################  ###########################################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",[COLOR yellow]||||||| BBB 20 |||||||[/COLOR]
