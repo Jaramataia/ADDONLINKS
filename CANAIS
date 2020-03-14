@@ -18,7 +18,7 @@ http://127.0.0.3
 
 
 ###################################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| BBB 20 |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="Big Brother Brasil 2020",[COLOR green]||||||| BBB 20 |||||||[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB 20 FHD
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69471
@@ -32,7 +32,7 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69622
@@ -137,7 +137,7 @@ http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| PÚBLICA |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | PÚBLICO",[COLOR green]||||||| PÚBLICA |||||||[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMDR-oJIkt5R4Fj4KyDWRR4wFVzSWiJnx3J-oO_tTkOwLOEwHO" group-title="Pública",Tv Assembleia (RN)
 https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1973467823.m3u8
@@ -186,7 +186,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| JORNALISMO |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | JORNALISMO",[COLOR green]||||||| JORNALISMO |||||||[/COLOR]
 
 
 #EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/bandnews.png" group-title="Jornalismo",BAND NEWS
@@ -225,7 +225,7 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?
 
 
 ###############################################################  ###########################################################################
-EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| VARIEDADES |||||||[/COLOR]
+EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | VARIEDADES",[COLOR green]||||||| VARIEDADES |||||||[/COLOR]
 
 
 
@@ -278,7 +278,7 @@ http://live.impresa.pt/live/sic/sic.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| MÚSICA |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | MÚSICA",[COLOR green]||||||| MÚSICA |||||||[/COLOR]
 
 
 
@@ -345,7 +345,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| WEB TV |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | WEB TV",[COLOR green]||||||| WEB TV |||||||[/COLOR]
 
 
 
@@ -381,7 +381,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/ch
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| RELIGIOSO |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | RELIGIOSOS",[COLOR green]||||||| RELIGIOSO |||||||[/COLOR]
 
 
 
@@ -427,7 +427,7 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| FILMES |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | FILMES",[COLOR green]||||||| FILMES |||||||[/COLOR]
 
 
 
@@ -474,7 +474,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| RÁDIO |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | RÁDIOS",[COLOR green]||||||| RÁDIO |||||||[/COLOR]
 
 
 
@@ -490,7 +490,7 @@ https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| INFANTIL |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | INFANTIS",[COLOR green]||||||| INFANTIL |||||||[/COLOR]
 
 
 
@@ -536,7 +536,7 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69514
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| ESPORTE |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | ESPORTES",[COLOR green]||||||| ESPORTE |||||||[/COLOR]
 
 
 
@@ -585,7 +585,7 @@ https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w34963
  
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| CANAL DE FUTEBOL |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | FUTEBOL",[COLOR green]||||||| CANAL DE FUTEBOL |||||||[/COLOR]
 
 
 
@@ -619,7 +619,7 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| PORTUGAL |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | PORTUGAL",[COLOR green]||||||| PORTUGAL |||||||[/COLOR]
 
 
 
@@ -708,7 +708,7 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/l
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| TV MUNDO |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | MUNDO",[COLOR green]||||||| TV MUNDO |||||||[/COLOR]
 
 
 
