@@ -1,564 +1,330 @@
 #EXTM3U
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="Informações",LISTA ATUALIZADA EM 14/03/2020
+https://127.0.0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YuJQR03.png" group-title="Informações",Telegram: t.me/FaustinoTV
+https://127.0.0.3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ow2B1Fv.jpg" group-title="Informações",USAR: IPTV EXTREME
+https://127.0.0.4
 
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 HD (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 HD (A Casa)
-http://list.deeplist.nl/live/fer001/techruthes021/58218.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 SD 1 (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 SD 1 (A Casa)
-http://list.deeplist.nl/live/fer001/techruthes021/58214.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 SD 2 (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 SD 2 (A Casa)
-http://list.deeplist.nl/live/fer001/techruthes021/58215.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 SD 3 (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 SD 3 (A Casa)
-http://list.deeplist.nl/live/fer001/techruthes021/58216.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 SD+ (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 SD+ (A Casa)
-http://list.deeplist.nl/live/fer001/techruthes021/58217.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 HD (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 HD (Jardim Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58263.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 SD 1 (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 SD 1 (Jardim Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58259.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 SD 2 (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 SD 2 (Jardim Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58260.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 SD 3 (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 SD 3 (Jardim Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58261.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 SD+ (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 SD+ (Jardim Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58262.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 HD (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 HD (Confessionário)
-http://list.deeplist.nl/live/fer001/techruthes021/58223.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 SD 1 (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 SD 1 (Confessionário)
-http://list.deeplist.nl/live/fer001/techruthes021/58219.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 SD 2 (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 SD 2 (Confessionário)
-http://list.deeplist.nl/live/fer001/techruthes021/58220.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 SD 3 (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 SD 3 (Confessionário)
-http://list.deeplist.nl/live/fer001/techruthes021/58221.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 SD+ (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 SD+ (Confessionário)
-http://list.deeplist.nl/live/fer001/techruthes021/58222.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 HD (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 HD (Quarto Céu)
-http://list.deeplist.nl/live/fer001/techruthes021/58228.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 SD 1 (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 SD 1 (Quarto Céu)
-http://list.deeplist.nl/live/fer001/techruthes021/58224.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 SD 2 (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 SD 2 (Quarto Céu)
-http://list.deeplist.nl/live/fer001/techruthes021/58225.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 SD 3 (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 SD 3 (Quarto Céu)
-http://list.deeplist.nl/live/fer001/techruthes021/58226.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 SD+ (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 SD+ (Quarto Céu)
-http://list.deeplist.nl/live/fer001/techruthes021/58227.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 HD (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 HD (Sala)
-http://list.deeplist.nl/live/fer001/techruthes021/58233.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 SD 1 (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 SD 1 (Sala)
-http://list.deeplist.nl/live/fer001/techruthes021/58229.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 SD 2 (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 SD 2 (Sala)
-http://list.deeplist.nl/live/fer001/techruthes021/58230.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 SD 3 (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 SD 3 (Sala)
-http://list.deeplist.nl/live/fer001/techruthes021/58231.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 SD+ (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 SD+ (Sala)
-http://list.deeplist.nl/live/fer001/techruthes021/58232.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 HD (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 HD (Cozinha Vip)
-http://list.deeplist.nl/live/fer001/techruthes021/58238.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 SD 1 (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 SD 1 (Cozinha Vip)
-http://list.deeplist.nl/live/fer001/techruthes021/58234.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 SD 2 (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 SD 2 (Cozinha Vip)
-http://list.deeplist.nl/live/fer001/techruthes021/58235.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 SD 3 (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 SD 3 (Cozinha Vip)
-http://list.deeplist.nl/live/fer001/techruthes021/58236.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 SD+ (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 SD+ (Cozinha Vip)
-http://list.deeplist.nl/live/fer001/techruthes021/58237.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 HD (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 HD (Cozinha Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58243.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 SD 1 (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 SD 1 (Cozinha Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58239.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 SD 2 (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 SD 2 (Cozinha Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58240.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 SD 3 (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 SD 3 (Cozinha Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58241.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 SD+ (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 SD+ (Cozinha Camarote)
-http://list.deeplist.nl/live/fer001/techruthes021/58242.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 HD (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 HD (Quarto Camarote 1)
-http://list.deeplist.nl/live/fer001/techruthes021/58248.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 SD 1 (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 SD 1 (Quarto Camarote 1)
-http://list.deeplist.nl/live/fer001/techruthes021/58244.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 SD 2 (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 SD 2 (Quarto Camarote 1)
-http://list.deeplist.nl/live/fer001/techruthes021/58245.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 SD 3 (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 SD 3 (Quarto Camarote 1)
-http://list.deeplist.nl/live/fer001/techruthes021/58246.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 SD+ (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 SD+ (Quarto Camarote 1)
-http://list.deeplist.nl/live/fer001/techruthes021/58247.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 HD (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 HD (Piscina)
-http://list.deeplist.nl/live/fer001/techruthes021/58253.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 SD 1 (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 SD 1 (Piscina)
-http://list.deeplist.nl/live/fer001/techruthes021/58249.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 SD 2 (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 SD 2 (Piscina)
-http://list.deeplist.nl/live/fer001/techruthes021/58250.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 SD 3 (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 SD 3 (Piscina)
-http://list.deeplist.nl/live/fer001/techruthes021/58251.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 SD+ (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 SD+ (Piscina)
-http://list.deeplist.nl/live/fer001/techruthes021/58252.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 HD (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 HD (Quarto Camarote 2)
-http://list.deeplist.nl/live/fer001/techruthes021/58258.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 SD 1 (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 SD 1 (Quarto Camarote 2)
-http://list.deeplist.nl/live/fer001/techruthes021/58254.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 SD 2 (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 SD 2 (Quarto Camarote 2)
-http://list.deeplist.nl/live/fer001/techruthes021/58255.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 SD 3 (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 SD 3 (Quarto Camarote 2)
-http://list.deeplist.nl/live/fer001/techruthes021/58256.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 SD+ (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 SD+ (Quarto Camarote 2)
-http://list.deeplist.nl/live/fer001/techruthes021/58257.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE HD
-http://list.deeplist.nl/live/fer001/techruthes021/49721.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/49720.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/49722.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/49723.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD+
-http://list.deeplist.nl/live/fer001/techruthes021/49724.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ HD
-http://list.deeplist.nl/live/fer001/techruthes021/49729.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/49725.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/49726.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/49727.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD+
-http://list.deeplist.nl/live/fer001/techruthes021/49728.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS HD" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS HD
-http://list.deeplist.nl/live/fer001/techruthes021/38452.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD 1" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38670.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD 2" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38671.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD 3" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/9580.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD 4" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD 4
-http://list.deeplist.nl/live/fer001/techruthes021/40436.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD+" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38451.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA HD" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA HD
-http://list.deeplist.nl/live/fer001/techruthes021/58122.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD 1" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/52684.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD 2" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58119.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD 3" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58120.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD+" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58121.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD
-http://list.deeplist.nl/live/fer001/techruthes021/17121.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD+
-http://list.deeplist.nl/live/fer001/techruthes021/21804.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38664.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38665.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/38666.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 4
-http://list.deeplist.nl/live/fer001/techruthes021/2512.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/22363.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ HD" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ HD
-http://list.deeplist.nl/live/fer001/techruthes021/58126.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ SD 1" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/52681.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ SD 2" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58123.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ SD 3" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58124.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ SD+" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58125.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO
-http://list.deeplist.nl/live/fer001/techruthes021/48800.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV SAO CARLOS" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV SAO CARLOS
-http://list.deeplist.nl/live/fer001/techruthes021/56877.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO HD" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO HD
-http://list.deeplist.nl/live/fer001/techruthes021/58131.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO SD 1" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/58127.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO SD 2" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58128.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO SD 3" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58129.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO SD+" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58130.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS HD" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS HD
-http://list.deeplist.nl/live/fer001/techruthes021/49719.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS SD 1" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/49716.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS SD 2" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/49717.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS SD 3" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/2511.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS SD+" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS SD+
-http://list.deeplist.nl/live/fer001/techruthes021/49718.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO HD" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO HD
-http://list.deeplist.nl/live/fer001/techruthes021/58140.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO SD 1" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/58136.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO SD 2" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58137.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO SD 3" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58138.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO SD+" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58139.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS HD
-http://list.deeplist.nl/live/fer001/techruthes021/17129.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS HD+
-http://list.deeplist.nl/live/fer001/techruthes021/21803.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38654.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38655.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/38656.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD 4
-http://list.deeplist.nl/live/fer001/techruthes021/2412.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD+
-http://list.deeplist.nl/live/fer001/techruthes021/22367.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS HD
-http://list.deeplist.nl/live/fer001/techruthes021/5085.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 1" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38716.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 2" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38715.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 3" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/38714.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD+" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD+
-http://list.deeplist.nl/live/fer001/techruthes021/23980.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ HD" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ HD
-http://list.deeplist.nl/live/fer001/techruthes021/58105.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ SD 1" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/58101.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ SD 2" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58102.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ SD 3" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58103.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ SD+" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58104.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ HD" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ HD
-http://list.deeplist.nl/live/fer001/techruthes021/58113.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ SD 1" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/52606.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ SD 2" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58060.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ SD 3" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58111.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ SD+" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58112.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO HD
-http://list.deeplist.nl/live/fer001/techruthes021/17130.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38667.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38668.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/38669.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD 4
-http://list.deeplist.nl/live/fer001/techruthes021/15405.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD+
-http://list.deeplist.nl/live/fer001/techruthes021/22371.m3u8
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RBS TV PORTO ALEGRE
-http://list.deeplist.nl/live/fer001/techruthes021/58695.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO FULL HD
-http://list.deeplist.nl/live/fer001/techruthes021/52618.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO HD
-http://list.deeplist.nl/live/fer001/techruthes021/1207.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO HD+
-http://list.deeplist.nl/live/fer001/techruthes021/21801.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38661.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38662.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/38663.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD 4
-http://list.deeplist.nl/live/fer001/techruthes021/2508.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD+
-http://list.deeplist.nl/live/fer001/techruthes021/22209.m3u8
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE HD" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE HD
-http://list.deeplist.nl/live/fer001/techruthes021/58135.m3u8
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE SD 1" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/52685.m3u8
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE SD 2" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58132.m3u8
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE SD 3" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58133.m3u8
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE SD+" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58134.m3u8
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL HD" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL HD
-http://list.deeplist.nl/live/fer001/techruthes021/58110.m3u8
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL SD 1" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/58106.m3u8
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL SD 2" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58107.m3u8
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL SD 3" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58108.m3u8
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL SD+" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58109.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO RONDÔNIA SD 1" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO RONDÔNIA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/49715.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO RONDÔNIA SD 3" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO RONDÔNIA SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/49714.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO RONDÔNIA SD+" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO RONDÔNIA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/49713.m3u8
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/49730.m3u8
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/49731.m3u8
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/49732.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO RPC" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC
-http://list.deeplist.nl/live/fer001/techruthes021/58696.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO RPC HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC HD
-http://list.deeplist.nl/live/fer001/techruthes021/58719.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA HD" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA HD
-http://list.deeplist.nl/live/fer001/techruthes021/58118.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA SD 1" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/58114.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA SD 2" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/58115.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA SD 3" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/58116.m3u8
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA SD+" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/58117.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO FULL HD
-http://list.deeplist.nl/live/fer001/techruthes021/58698.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO HD
-http://list.deeplist.nl/live/fer001/techruthes021/17122.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO HD+
-http://list.deeplist.nl/live/fer001/techruthes021/21800.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38657.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38658.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/38659.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD 4
-http://list.deeplist.nl/live/fer001/techruthes021/1024.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD+
-http://list.deeplist.nl/live/fer001/techruthes021/22359.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO SP EPTV CAMPINAS HD" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO SP EPTV CAMPINAS HD
-http://list.deeplist.nl/live/fer001/techruthes021/60743.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO SP EPTV CAMPINAS HD+" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO SP EPTV CAMPINAS HD+
-http://list.deeplist.nl/live/fer001/techruthes021/60744.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO SP EPTV CAMPINAS SD 1" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO SP EPTV CAMPINAS SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/60740.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO SP EPTV CAMPINAS SD 2" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO SP EPTV CAMPINAS SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/60741.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO SP EPTV CAMPINAS SD 3" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO SP EPTV CAMPINAS SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/60742.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO SP EPTV CAMPINAS SD+" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO SP EPTV CAMPINAS SD+
-http://list.deeplist.nl/live/fer001/techruthes021/17962.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM BAURU" tvg-name="GLOBO SP TV TEM BAURU HD" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM BAURU HD
-http://list.deeplist.nl/live/fer001/techruthes021/60776.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM BAURU" tvg-name="GLOBO SP TV TEM BAURU HD+" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM BAURU HD+
-http://list.deeplist.nl/live/fer001/techruthes021/60777.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM BAURU" tvg-name="GLOBO SP TV TEM BAURU SD 1" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM BAURU SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/60771.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM BAURU" tvg-name="GLOBO SP TV TEM BAURU SD 2" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM BAURU SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/60772.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM BAURU" tvg-name="GLOBO SP TV TEM BAURU SD 3" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM BAURU SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/60773.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM BAURU" tvg-name="GLOBO SP TV TEM BAURU SD+" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM BAURU SD+
-http://list.deeplist.nl/live/fer001/techruthes021/60775.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM ITAPETININGA" tvg-name="GLOBO SP TV TEM ITAPETININGA HD" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM ITAPETININGA HD
-http://list.deeplist.nl/live/fer001/techruthes021/60767.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM ITAPETININGA" tvg-name="GLOBO SP TV TEM ITAPETININGA HD+" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM ITAPETININGA HD+
-http://list.deeplist.nl/live/fer001/techruthes021/60768.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM ITAPETININGA" tvg-name="GLOBO SP TV TEM ITAPETININGA SD 1" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM ITAPETININGA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/60763.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM ITAPETININGA" tvg-name="GLOBO SP TV TEM ITAPETININGA SD 2" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM ITAPETININGA SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/60764.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM ITAPETININGA" tvg-name="GLOBO SP TV TEM ITAPETININGA SD 3" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM ITAPETININGA SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/60765.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM ITAPETININGA" tvg-name="GLOBO SP TV TEM ITAPETININGA SD+" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM ITAPETININGA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/60766.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-name="GLOBO SP TV TEM SJRP HD" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SJRP HD
-http://list.deeplist.nl/live/fer001/techruthes021/60761.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-name="GLOBO SP TV TEM SJRP HD+" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SJRP HD+
-http://list.deeplist.nl/live/fer001/techruthes021/60762.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-name="GLOBO SP TV TEM SJRP SD 1" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SJRP SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/60757.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-name="GLOBO SP TV TEM SJRP SD 2" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SJRP SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/60758.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-name="GLOBO SP TV TEM SJRP SD 3" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SJRP SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/60759.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-name="GLOBO SP TV TEM SJRP SD+" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SJRP SD+
-http://list.deeplist.nl/live/fer001/techruthes021/60760.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA" tvg-name="GLOBO SP TV TEM SOROCABA HD" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SOROCABA HD
-http://list.deeplist.nl/live/fer001/techruthes021/60755.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA" tvg-name="GLOBO SP TV TEM SOROCABA HD+" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SOROCABA HD+
-http://list.deeplist.nl/live/fer001/techruthes021/60756.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA" tvg-name="GLOBO SP TV TEM SOROCABA SD 1" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SOROCABA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/60751.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA" tvg-name="GLOBO SP TV TEM SOROCABA SD 2" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SOROCABA SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/60752.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA" tvg-name="GLOBO SP TV TEM SOROCABA SD 3" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SOROCABA SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/60753.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TEM SOROCABA" tvg-name="GLOBO SP TV TEM SOROCABA SD+" tvg-logo="http://img.starbr.in/1559759910_c91ebe7d234ec9342cb62441407aec2ee6d780b7.jpg" group-title="Canais Abertos",GLOBO SP TV TEM SOROCABA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/60754.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS" tvg-name="GLOBO SP TV TRIBUNA SANTOS HD" tvg-logo="http://img.starbr.in/1561321355_59ee62b22bce715fe0cd0d924c37017ab7adc239.jpg" group-title="Canais Abertos",GLOBO SP TV TRIBUNA SANTOS HD
-http://list.deeplist.nl/live/fer001/techruthes021/60749.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS" tvg-name="GLOBO SP TV TRIBUNA SANTOS HD+" tvg-logo="http://img.starbr.in/1561321355_59ee62b22bce715fe0cd0d924c37017ab7adc239.jpg" group-title="Canais Abertos",GLOBO SP TV TRIBUNA SANTOS HD+
-http://list.deeplist.nl/live/fer001/techruthes021/60750.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS" tvg-name="GLOBO SP TV TRIBUNA SANTOS SD 1" tvg-logo="http://img.starbr.in/1561321355_59ee62b22bce715fe0cd0d924c37017ab7adc239.jpg" group-title="Canais Abertos",GLOBO SP TV TRIBUNA SANTOS SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/60745.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS" tvg-name="GLOBO SP TV TRIBUNA SANTOS SD 2" tvg-logo="http://img.starbr.in/1561321355_59ee62b22bce715fe0cd0d924c37017ab7adc239.jpg" group-title="Canais Abertos",GLOBO SP TV TRIBUNA SANTOS SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/60746.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS" tvg-name="GLOBO SP TV TRIBUNA SANTOS SD 3" tvg-logo="http://img.starbr.in/1561321355_59ee62b22bce715fe0cd0d924c37017ab7adc239.jpg" group-title="Canais Abertos",GLOBO SP TV TRIBUNA SANTOS SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/60747.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV TRIBUNA SANTOS" tvg-name="GLOBO SP TV TRIBUNA SANTOS SD+" tvg-logo="http://img.starbr.in/1561321355_59ee62b22bce715fe0cd0d924c37017ab7adc239.jpg" group-title="Canais Abertos",GLOBO SP TV TRIBUNA SANTOS SD+
-http://list.deeplist.nl/live/fer001/techruthes021/60748.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV CENTRO AMERICA" tvg-name="GLOBO TV CENTRO AMERICA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759583_f31255faf1deb50addda12d3a3727c4d68299b35.png" group-title="Variedades e Musicas",GLOBO TV CENTRO AMERICA
-http://list.deeplist.nl/live/fer001/techruthes021/52683.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO TV GAZETA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO TV GAZETA
-http://list.deeplist.nl/live/fer001/techruthes021/58717.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV SERGIPE" tvg-name="GLOBO TV SERGIPE" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1561325788_1e4af107b84d8d13d278c050bcd56d66703ae63c.jpg" group-title="Canais Abertos",GLOBO TV SERGIPE
-http://list.deeplist.nl/live/fer001/techruthes021/58697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759996_99ccece1b6f8192e552f11b4ed679715ec7fd112.jpg" group-title="Noticias",GLOBO TV VANGUARDA
-http://list.deeplist.nl/live/fer001/techruthes021/52682.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO TV VERDES MARES FORTALEZA
-http://list.deeplist.nl/live/fer001/techruthes021/58699.m3u8
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",[COLOR yellow]||||||| BBB 20 |||||||[/COLOR]
+https://127.0.0.7
 
-http://list.deeplist.nl/live/fer001/techruthes021/969.m3u8
-#EXTINF:-1 tvg-id="RECORD BA" tvg-name="RECORD BA HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD BA HD
-http://list.deeplist.nl/live/fer001/techruthes021/29367.m3u8
-#EXTINF:-1 tvg-id="RECORD BA" tvg-name="RECORD BA SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD BA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38836.m3u8
-#EXTINF:-1 tvg-id="RECORD BA" tvg-name="RECORD BA SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD BA SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/29366.m3u8
-#EXTINF:-1 tvg-id="RECORD BA" tvg-name="RECORD BA SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD BA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38431.m3u8
-#EXTINF:-1 tvg-id="RECORD DF" tvg-name="RECORD DF HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD DF HD
-http://list.deeplist.nl/live/fer001/techruthes021/29364.m3u8
-#EXTINF:-1 tvg-id="RECORD DF" tvg-name="RECORD DF SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD DF SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38780.m3u8
-#EXTINF:-1 tvg-id="RECORD DF" tvg-name="RECORD DF SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD DF SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/29365.m3u8
-#EXTINF:-1 tvg-id="RECORD DF" tvg-name="RECORD DF SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD DF SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38418.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO HD
-http://list.deeplist.nl/live/fer001/techruthes021/47529.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/47532.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/47531.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD+
-http://list.deeplist.nl/live/fer001/techruthes021/47530.m3u8
-#EXTINF:-1 tvg-id="RECORD MG" tvg-name="RECORD MG HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD MG HD
-http://list.deeplist.nl/live/fer001/techruthes021/29369.m3u8
-#EXTINF:-1 tvg-id="RECORD MG" tvg-name="RECORD MG SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD MG SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38782.m3u8
-#EXTINF:-1 tvg-id="RECORD MG" tvg-name="RECORD MG SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD MG SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/29368.m3u8
-#EXTINF:-1 tvg-id="RECORD MG" tvg-name="RECORD MG SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD MG SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38430.m3u8
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS HD" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS HD
-http://list.deeplist.nl/live/fer001/techruthes021/2400.m3u8
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS SD 1" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38784.m3u8
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS SD 2" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/966.m3u8
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS SD+" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38443.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD PA HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD PA HD
-http://list.deeplist.nl/live/fer001/techruthes021/47555.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD PA SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD PA SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/47553.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD PA SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD PA SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/47552.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD PA SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD PA SD+
-http://list.deeplist.nl/live/fer001/techruthes021/47554.m3u8
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ HD
-http://list.deeplist.nl/live/fer001/techruthes021/29371.m3u8
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38767.m3u8
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/29370.m3u8
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38419.m3u8
-#EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS HD
-http://list.deeplist.nl/live/fer001/techruthes021/29373.m3u8
-#EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38838.m3u8
-#EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/29372.m3u8
-#EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38433.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP HD
-http://list.deeplist.nl/live/fer001/techruthes021/1210.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38765.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/1710.m3u8
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38429.m3u8
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559765800_8740620e54be3fbe06099508f0896df62c3daaa3.jpg" group-title="Canais Abertos",REDE BRASIL
-http://list.deeplist.nl/live/fer001/techruthes021/52676.m3u8
-#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="http://img.starbr.in/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV
-http://list.deeplist.nl/live/fer001/techruthes021/963.m3u8
-#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV FULL HD
-http://list.deeplist.nl/live/fer001/techruthes021/52601.m3u8
-#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV HD
-http://list.deeplist.nl/live/fer001/techruthes021/52587.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB 20 FHD
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69471
 
-http://list.deeplist.nl/live/fer001/techruthes021/52680.m3u8
-#EXTINF:-1 tvg-id="SBT DIFUSORA" tvg-name="SBT DIFUSORA" tvg-logo="http://img.starbr.in/1559766096_2afe16915481b045e888571e41f697ee42089a6f.png" group-title="Canais Abertos",SBT DIFUSORA
-http://list.deeplist.nl/live/fer001/techruthes021/37793.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FULL HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT FULL HD
-http://list.deeplist.nl/live/fer001/techruthes021/52638.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT GOIAS HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT GOIAS HD
-http://list.deeplist.nl/live/fer001/techruthes021/58706.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT HD
-http://list.deeplist.nl/live/fer001/techruthes021/1208.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD+" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT HD+
-http://list.deeplist.nl/live/fer001/techruthes021/38919.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT NORDESTE HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT NORDESTE HD
-http://list.deeplist.nl/live/fer001/techruthes021/58707.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 1" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38920.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 2" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38921.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 3" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/955.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD+" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD+
-http://list.deeplist.nl/live/fer001/techruthes021/38450.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB CAM 1 HD
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69472
 
-#EXTINF:-1h tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Noticias",BAND NEWS
-http://list.deeplist.nl/live/fer001/techruthes021/1107.m3u8
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS FULL HD" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Noticias",BAND NEWS FULL HD
-http://list.deeplist.nl/live/fer001/techruthes021/17951.m3u8
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS HD" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Noticias",BAND NEWS HD
-http://list.deeplist.nl/live/fer001/techruthes021/58683.m3u8
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP
-http://list.deeplist.nl/live/fer001/techruthes021/1713.m3u8
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP HD
-http://list.deeplist.nl/live/fer001/techruthes021/52595.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS
-http://list.deeplist.nl/live/fer001/techruthes021/1106.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS FULL HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS FULL HD
-http://list.deeplist.nl/live/fer001/techruthes021/52609.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS HD
-http://list.deeplist.nl/live/fer001/techruthes021/2407.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB MOSAICO
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
-http://list.deeplist.nl/live/fer001/techruthes021/5080.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE FULL HD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE FULL HD
-http://list.deeplist.nl/live/fer001/techruthes021/52650.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE HD
-http://list.deeplist.nl/live/fer001/techruthes021/1088.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 1" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 1
-http://list.deeplist.nl/live/fer001/techruthes021/38746.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 2" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 2
-http://list.deeplist.nl/live/fer001/techruthes021/38745.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 3" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 3
-http://list.deeplist.nl/live/fer001/techruthes021/38744.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD+" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD+
-http://list.deeplist.nl/live/fer001/techruthes021/22442.m3u8
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | TV ABERTA",[COLOR yellow]||||||| TV ABERTA |||||||[/COLOR]
+https://127.0.0.8
 
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO
-http://list.deeplist.nl/live/fer001/techruthes021/1072.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO FULL HD
-http://list.deeplist.nl/live/fer001/techruthes021/58689.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO HD
-http://list.deeplist.nl/live/fer001/techruthes021/2411.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOTjtrp.png" group-title="CANAIS | TV ABERTA",BAND
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69592
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtH8wAm.png" group-title="CANAIS | TV ABERTA",GLOBO RIO
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69622
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj2CpP5.png" group-title="CANAIS | TV ABERTA",RECORD TV
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69672
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDMjRaf.png" group-title="CANAIS | TV ABERTA",SBT
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69683
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rUxEVr8.png" group-title="CANAIS | TV ABERTA",REDE TV
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69678
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | FILMES e SÉRIES",[COLOR yellow]||||||| FILMES E SERIES |||||||[/COLOR]
+https://127.0.0.9
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/a&e.png" group-title="CANAIS | FILMES e SÉRIES",A&E
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69707
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/amc.png" group-title="CANAIS | FILMES e SÉRIES",AMC
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69710
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/axn.png" group-title="CANAIS | FILMES e SÉRIES",AXN
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69587
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/cinemax.png" group-title="CANAIS | FILMES e SÉRIES",CINEMAX
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/72
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/fox.png" group-title="CANAIS | FILMES e SÉRIES",FOX
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69669
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/foxlife.png" group-title="CANAIS | FILMES e SÉRIES",FOX LIFE
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69647
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/foxpremium1.png" group-title="CANAIS | FILMES e SÉRIES",FOX PREMIUM 1
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69670
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/foxpremium2.png" group-title="CANAIS | FILMES e SÉRIES",FOX PREMIUM 2
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69648
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/fx.png" group-title="CANAIS | FILMES e SÉRIES",FX
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69679
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/hbo.png" group-title="CANAIS | FILMES e SÉRIES",HBO
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69650
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/hbo2.png" group-title="CANAIS | FILMES e SÉRIES",HBO 2
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69651
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/hbofamily.png" group-title="CANAIS | FILMES e SÉRIES",HBO FAMILY
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69675
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/hboplus.png" group-title="CANAIS | FILMES e SÉRIES",HBO PLUS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69652
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/hbosignature.png" group-title="CANAIS | FILMES e SÉRIES",HBO SIGNATURE
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69664
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/max.png" group-title="CANAIS | FILMES e SÉRIES",MAX
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/220
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/maxup.png" group-title="CANAIS | FILMES e SÉRIES",MAX UP
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69697
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/maxprime.png" group-title="CANAIS | FILMES e SÉRIES",MAX PRIME
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69657
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/maxprime.png" group-title="CANAIS | FILMES e SÉRIES",MEGAPIX
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69698
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/space.png" group-title="CANAIS | FILMES e SÉRIES",SPACE
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69667
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/syfy.png" group-title="CANAIS | FILMES e SÉRIES",SYFY
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69662
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/telecineaction.png" group-title="CANAIS | FILMES e SÉRIES",TELECINE ACTION
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69551
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/telecinecult.png" group-title="CANAIS | FILMES e SÉRIES",TELECINE CULT
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69661
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/telecinefun.png" group-title="CANAIS | FILMES e SÉRIES",TELECINE FUN
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69550
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/telecinepipoca.png" group-title="CANAIS | FILMES e SÉRIES",TELECINE PIPOCA
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69703
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/telecinepremium.png" group-title="CANAIS | FILMES e SÉRIES",TELECINE PREMIUM
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69705
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/telecinetouch.png" group-title="CANAIS | FILMES e SÉRIES",TELECINE TOUCH
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69706
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/tnt.png" group-title="CANAIS | FILMES e SÉRIES",TNT
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69655
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/tntseries.png" group-title="CANAIS | FILMES e SÉRIES",TNT SERIES
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69702
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/tcm.png" group-title="CANAIS | FILMES e SÉRIES",TCM
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69607
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/paramount.png" group-title="CANAIS | FILMES e SÉRIES",PARAMOUNT
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69681
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/universalchannel.png" group-title="CANAIS | FILMES e SÉRIES",STUDIO UNIVERSAL
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69709
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/warner.png" group-title="CANAIS | FILMES e SÉRIES",WARNER CHANNEL
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69654
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR yellow]||||||| DOCUMENTÁRIOS |||||||[/COLOR]
+https://127.0.0.10
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/animalplanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69520
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/discoverychannel.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69525
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/discoverycivilization.png" group-title="CANAIS | DOCUMENTÁRIOS",DISOCVERY CIVILIZATION
+
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/discoveryh&h.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69528
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/discoveryscience.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69531
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/discoverytheater.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69537
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69567
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/discoveryworld.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69569
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/h2.png" group-title="CANAIS | DOCUMENTÁRIOS",H2
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69572
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/history.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69589
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/id.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69576
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/natgeowild.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69584
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/nationalgeographic.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/tlc.png" group-title="CANAIS | DOCUMENTÁRIOS",TLC
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69560
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/trutv.png" group-title="CANAIS | DOCUMENTÁRIOS",TRU TV
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/623
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | INFANTIS",[COLOR yellow]||||||| CANAIS INFANTIS |||||||[/COLOR]
+https://127.0.0.19
+
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/babytv.png" group-title="CANAIS | INFANTIS",BABY TV
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69483
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69485
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/cartoon.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69488
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/disney.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69494
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/disneyjr.png" group-title="CANAIS | INFANTIS",DISNEY JR
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69497
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69500
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69503
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69509
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/nickelodeon.png" group-title="CANAIS | INFANTIS",NICKELODEON
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69512
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69514
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | ESPORTES",[COLOR yellow]||||||| ESPORTES |||||||[/COLOR]
+https://127.0.0.11
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4AV04.jpg" group-title="CANAIS | ESPORTES",DAZN 1
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69754
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="CANAIS | ESPORTES",BAND SPORTS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69789
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="CANAIS | ESPORTES",COMBATE
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69749
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="CANAIS | ESPORTES",ESPN BRASIL
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/239
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xk5zezL.png" group-title="CANAIS | ESPORTES",ESPN EXTRA
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/249
+
+#EXTINF:-1 group-title="CANAIS | ESPORTES",ESPN 2
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/232
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="CANAIS | ESPORTES",FOX SPORTS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69746
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="CANAIS | ESPORTES",FOX SPORTS 2
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69748
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="CANAIS | ESPORTES",SPORTV
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69743
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="CANAIS | ESPORTES",SPORTV 2
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69744
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="CANAIS | ESPORTES",SPORTV 3
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69745
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | PREMIERE",[COLOR yellow]||||||| PREMIERE |||||||[/COLOR]
+https://127.0.0.11
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE  CLUBES H265
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69756
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE  CLUBES
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69737
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE  2
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69739
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE  3
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69740
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | VARIEDADES",[COLOR yellow]||||||| VARIEDADES |||||||[/COLOR]
+https://127.0.0.11
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69523
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69764
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/bis.png" group-title="CANAIS | VARIEDADES",BIS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69761
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/curta.png" group-title="CANAIS | VARIEDADES",CURTA
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/611
+
+#EXTINF:-1tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="CANAIS | VARIEDADES",MULTISHOW
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69782
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69780
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69805
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/viva.png" group-title="CANAIS | VARIEDADES",VIVA
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69804
+
+
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAYUg0I.png" group-title="CANAIS | NOTÍCIAS",[COLOR yellow]||||||| NOTÍCIAS |||||||[/COLOR]
+https://127.0.0.11
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69464
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69467
+
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69468
+
+###############################################################  ###########################################################################
+################# FaustinoTV // Free4ALL ################
+# Se for pra copiar, pelo menos dê os devidos créditos. #
