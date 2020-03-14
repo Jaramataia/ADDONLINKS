@@ -1,36 +1,33 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 16.03.2020
+
+
+#PLAYLISTV: pltv-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" pltv-name="---☛★Agregador de links★☚---" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.postimg.cc/g0yHmhJC/links.jpg" pltv-author="Ana Bela" 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 14.03.2020
 http://127.0.0.2 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE
+
+http://127.0.0.3
 
 
 == BBB 2020 ===========================================================================================================
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB 20 FHD
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69471
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 1 SD
-http://mytvip.xyz:80/cesar1/cesar1/75268
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB CAM 1 HD
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69472
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 2 HD
-http://mytvip.xyz:80/cesar1/cesar1/76609
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CAM 10
-http://mytvip.xyz:80/cesar1/cesar1/76624
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 *" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 CONFECIONARIO
-http://mytvip.xyz:80/cesar1/cesar1/76611
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 QUARTO AZUL
-http://mytvip.xyz:80/cesar1/cesar1/76614
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 QUARTO
-http://mytvip.xyz:80/cesar1/cesar1/76615
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="BBB 2020",BBB 20 PISCINA
-http://mytvip.xyz:80/cesar1/cesar1/76636
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB MOSAICO
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
 
@@ -39,8 +36,8 @@ http://mytvip.xyz:80/cesar1/cesar1/76636
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO SP
-http://mytvip.xyz:80/cesar1/cesar1/76864
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69622
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO DF
 http://mytvip.xyz:80/cesar1/cesar1/76846
@@ -194,12 +191,14 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 == JORNALISMO ==============================================================================================================
 
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/bandnews.png" group-title="Jornalismo",BAND NEWS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69464
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQHm0AqNLPwjYg/company-logo_200_200/0?e=2159024400&v=beta&t=Oljfz2UafKI9fwFdtLC4ha2a4GT8PcQw70i3OTfjqbI" group-title="Jornalismo",Globo News
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/107.m3u8
+#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/globonews.png" group-title="Jornalismo",Globo News
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69467
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recnews.png" group-title="Jornalismo",Record News
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69468
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_tv_guarc3a1.png" group-title="Jornalismo",Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
@@ -492,92 +491,61 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
 
 #EXTINF:-1 tvg-ID="Baby TV" tvg-logo="https://i.imgur.com/g2mRHj5.jpg" group-title="INFANTIL", Baby TV
-http://198.255.23.18:2095/streams/126_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69483
 
 #EXTINF:-1 tvg-ID="Boomerang" tvg-logo="https://i.imgur.com/ExQtCbB.jpg" group-title="INFANTIL", Boomerang
-http://198.255.23.18:2095/streams/127_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69485
 
 #EXTINF:-1 tvg-ID="Cartoon Network" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="INFANTIL", Cartoon Network
-http://mytvip.xyz:80/cesar1/cesar1/63346
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69488
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="INFANTIL", Disney Channel
-http://198.255.23.18:2095/streams/129_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69494
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_Pq_0fS1jU5C5eQQWEWm2ZOiDQnnAOPbxN7bl7Nf2V3PL_35x" group-title="INFANTIL", Discovery Kids
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/49.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Junior" tvg-logo="https://i.imgur.com/gUUnrE2.jpg" group-title="INFANTIL", Disney JR
-http://mytvip.xyz:80/cesar1/cesar1/63247
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69497
 
 #EXTINF:-1 tvg-ID="Disney XD" tvg-logo="https://i.imgur.com/CS1imJ2.jpg" group-title="INFANTIL", Disney XD
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/65.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69500
 
 #EXTINF:-1 tvg-ID="Gloob" tvg-logo="https://i.imgur.com/Q6jFJsf.jpg" group-title="INFANTIL", Gloob
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/130.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69503
 
 #EXTINF:-1 tvg-ID="Nick Jr." tvg-logo="https://i.imgur.com/WBUAv5q.jpg" group-title="INFANTIL", Nick JR
-http://198.255.23.18:2095/streams/139_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69509
 
 #EXTINF:-1 tvg-ID="Nickelodeon" tvg-logo="https://i.imgur.com/bhvxLAM.png" group-title="INFANTIL", Nickelodeon
-http://198.255.23.18:2095/streams/135_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69512
 
 #EXTINF:-1 tvg-ID="Tooncast" tvg-logo="https://i.imgur.com/grRAhl7.jpg" group-title="INFANTIL", Tooncast
-http://198.255.23.18:2095/streams/222_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69514
 
-
-== INFANTIL 24H=======================================================
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="Tom & Jerry  24H" tvg-logo="" group-title="Infantil 24 horas",Tom & Jerry  24H
-http://maxptv.ddns.net:25461/live/gerson/123/557.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="The Backyardigans 24H" tvg-logo="" group-title="Infantil 24 horas",The Backyardigans 24H
-http://maxptv.ddns.net:25461/live/gerson/123/558.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Show da Luna 24H" tvg-logo="" group-title="Infantil 24 horas",Show da Luna 24H
-http://maxptv.ddns.net:25461/live/gerson/123/559.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Pokemon 24H" tvg-logo="" group-title="Infantil 24 horas",Pokemon 24H
-http://maxptv.ddns.net:25461/live/gerson/123/560.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="POCOYO 24H" tvg-logo="" group-title="Infantil 24 horas",POCOYO 24H
-http://maxptv.ddns.net:25461/live/gerson/123/561.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Peppa Pig 24H" tvg-logo="" group-title="Infantil 24 horas",Peppa Pig 24H
-http://maxptv.ddns.net:25461/live/gerson/123/562.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Os Simpsons 24H" tvg-logo="" group-title="Infantil 24 horas",Os Simpsons 24H
-http://maxptv.ddns.net:25461/live/gerson/123/563.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Naruto 24H" tvg-logo="" group-title="Infantil 24 horas",Naruto 24H
-
-http://maxptv.ddns.net:25461/live/gerson/123/564.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Looney Tunnes 24H" tvg-logo="" group-title="Infantil 24 horas",Looney Tunnes 24H
-http://maxptv.ddns.net:25461/live/gerson/123/565.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Homem-Aranha 24H" tvg-logo="" group-title="Infantil 24 horas",Homem-Aranha 24H
-http://maxptv.ddns.net:25461/live/gerson/123/566.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Retro Cartoon 24H" tvg-logo="" group-title="Infantil 24 horas",Retro Cartoon
-https://r3---sn-bg07dnsl.c.2mdn.net/videoplayback/id/032af33a80d5b84c/itag/343/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3715787203/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/20FD07218676D7478D194498E7F3BDBAA9D6F148.1205D4A70F29B237423E28229F7EEB8457A24662/key/cms1/cms_redirect/yes/mip/170.81.83.103/mm/42/mn/sn-bg07dnsl/ms/onc/mt/1574377588/mv/m/mvi/2/pl/24/file/file.mp4
 
 
 == ESPORTE =======================================================
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="** ESPORTE **",BAND SPORTS
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69789
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
-http://198.255.23.18:2095/streams/49_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69749
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_8e640619e907d72fe66477dbc5d9c65cc1438f59/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4AV04.jpg" group-title="** ESPORTE **",DAZN 1
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69754
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="** ESPORTE **", SPORTE TV
-http://198.255.23.18:2095/streams/70_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69743
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="** ESPORTE **", SPORTE TV 2
-http://198.255.23.18:2095/streams/72_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69748
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="** ESPORTE **", SPORTE TV 3
 http://198.255.23.18:2095/streams/74_.m3u8
@@ -585,17 +553,20 @@ http://198.255.23.18:2095/streams/74_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="** ESPORTE **", ESPN
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/229.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xk5zezL.png" group-title="** ESPORTE **",ESPN EXTRA
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/249
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="** ESPORTE **", ESPN BRASIL
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/72.m3u8 
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/239
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="** ESPORTE **", FOX SPORT 1
-http://198.255.23.18:2095/streams/56_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69746
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="** ESPORTE **", FOX SPORT 2
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/88.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69748
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", DISCOVERY TURBO
-http://198.255.23.18:2095/streams/107_.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69567
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3qnarKMEsOpjTxW2BXVxut7Jhz5mWhn7KnG0wjJjhlj0poz5" group-title="** ESPORTE **", ALL SPORTS
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
@@ -606,14 +577,14 @@ https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w34963
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBE 
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/199.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBEs 
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69737
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 2
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/188.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69739
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 3
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/190.m3u8
+http://mixsrv.me:80/BYd5d7ztaN/multi@user/69740
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 4
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/192.m3u8
@@ -745,6 +716,17 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1297458866_b1396000_
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-UQ7w-yM9xb4/XPMVYvb3GSI/AAAAAAAAA88/4s1Xti_TqQoqyFON6EEPfyqc49_TDTL_wCLcBGAs/s320/Screenshot_2019-06-01-21-14-27.png" group-title="TV MUNDO", 100% Auto Moto TV online 24
 http://100automoto.tv:1935/bgtv1/Stream1/chunklist_w801668255.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
