@@ -32,7 +32,7 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | DOCUMENTÁRIOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | ABERTOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69622
@@ -590,7 +590,7 @@ https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w34963
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBEs 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBES 
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69737
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 2
@@ -616,95 +616,6 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 9
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
-
-
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | PORTUGAL",[COLOR green]||||||| PORTUGAL |||||||[/COLOR]
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png" group-title=PORTUGAL",PORTUGAL
-http://fui.me
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rtp1_positivo_horiz_rgb.png" group-title="PORTUGAL",RTP 1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rtpi_c.png" group-title="PORTUGAL",RTP Internacional
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="PORTUGAL",RTP 2 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC 
-http://live.impresa.pt/live/sic/sic.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC 
-http://live.impresa.pt/live/sic/sic540p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC 
-http://live.impresa.pt/live/sic/sic360p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI 
-http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI 
-http://video-auth8.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS 
-http://live.impresa.pt/live/sicnot/sicnot.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS 
-http://live.impresa.pt/live/sicnot/sicnot540p.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",RTP 3 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",RTP 3 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" group-title="PORTUGAL",TVI24 
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" group-title="PORTUGAL",TVI24 
-http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL",SIC RADICAL 
-http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL",SIC RADICAL 
-http://live.impresa.pt/live/sicrad/sicrad.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL",RTP MEMORIA 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" group-title="PORTUGAL",SIC K 
-http://live.impresa.pt/live/sick/sick540p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" group-title="PORTUGAL",SIC K 
-http://live.impresa.pt/live/sick/sick540p.m3u8?isnplk=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png" group-title="PORTUGAL",TVI REALITY 
-http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL180.png" group-title="PORTUGAL",Canal 180 
-http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL",RTP AFRICA 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL",RTP AFRICA 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL",RTP INTERNACIONAL 
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-
 
 
 ###############################################################  ###########################################################################
