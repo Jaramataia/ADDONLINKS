@@ -9,16 +9,18 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",ATUALIZADA 14.03.2020
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 14.03.2020
 http://127.0.0.2 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE 
 
 http://127.0.0.3
 
 
 ###################################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="Big Brother Brasil 2020",[COLOR green]||||||| BBB 20 |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="Big Brother Brasil 2020",[COLOR green]||||||| BBB 20 |||||||[/COLOR]
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB 20 FHD
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69471
@@ -32,22 +34,17 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | ABERTOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | ABERTOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
+
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69622
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO DF
-http://mytvip.xyz:80/cesar1/cesar1/76846
-
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", INTERTV CABUGI
 http://mytvip.xyz:80/cesar1/cesar1/76842
- 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT Jornal de Recife (PE)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w862769389_b216000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta", SBT - TV Jornal Caruaru (PE)
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta", SBT - TV Cidade Verde - (PI)
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
@@ -55,9 +52,6 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOW
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT - TV Difusora (MA)
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta", SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta", SBT - TV Serra Dourada - (GO)
 https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/playlist.m3u8
 
@@ -94,7 +88,7 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rictv_logo.png" group-title="Tv Aberta",RICTV - RecordTV (SC)
 https://59566a7951f71.streamlock.net:8090/ricsc/ricsc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2017/2/programas/15665617161518343.png" group-title="Tv Aberta",TV Vitória - RecordTV " group-title="Tv Aberta" RecordTV 
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2017/2/programas/15665617161518343.png" group-title="Tv Aberta",TV Vitória - RecordTV (ES) 
 http://mytvip.xyz:80/cesar1/cesar1/75917
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rbtv-logo-rede-brasil.png" group-title="Tv Aberta", Rede Brasil (SP)
@@ -137,7 +131,10 @@ http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | PÚBLICO",[COLOR green]||||||| PÚBLICA |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | PUBLICO",[COLOR green]||||||| PÚBLICA |||||||[/COLOR]
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMDR-oJIkt5R4Fj4KyDWRR4wFVzSWiJnx3J-oO_tTkOwLOEwHO" group-title="Pública",Tv Assembleia (RN)
 https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1973467823.m3u8
@@ -185,8 +182,11 @@ https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
+
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | JORNALISMO",[COLOR green]||||||| JORNALISMO |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | JORNAIS",[COLOR green]||||||| JORNALISMO |||||||[/COLOR]
+
+
 
 
 #EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/bandnews.png" group-title="Jornalismo",BAND NEWS
@@ -225,7 +225,7 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?
 
 
 ###############################################################  ###########################################################################
-EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | VARIEDADES",[COLOR green]||||||| VARIEDADES |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | VARIEDADES",[COLOR green]||||||| VARIEDADES |||||||[/COLOR]
 
 
 
@@ -278,8 +278,7 @@ http://live.impresa.pt/live/sic/sic.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | MÚSICA",[COLOR green]||||||| MÚSICA |||||||[/COLOR]
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | MÚSICAS",[COLOR green]||||||| MÚSICA |||||||[/COLOR]
 
 
 
@@ -345,7 +344,8 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | WEB TV",[COLOR green]||||||| WEB TV |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | WEBTV",[COLOR green]||||||| WEBTV |||||||[/COLOR]
+
 
 
 
@@ -380,9 +380,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/ch
 
 
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | RELIGIOSOS",[COLOR green]||||||| RELIGIOSO |||||||[/COLOR]
 
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | RELIGIOSOS",[COLOR green]||||||| RELIGIOSO |||||||[/COLOR]
 
 
 
@@ -427,8 +427,7 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | FILMES",[COLOR green]||||||| FILMES |||||||[/COLOR]
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | FILMES",[COLOR green]||||||| FILMES |||||||[/COLOR]
 
 
 
@@ -473,8 +472,9 @@ https://stmv6.srvstm.com/anderson2491/anderson2491/chunklist.m3u8?wowzasessionid
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
+
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | RÁDIOS",[COLOR green]||||||| RÁDIO |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | RÁDIOS",[COLOR green]||||||| RÁDIOS |||||||[/COLOR]
 
 
 
@@ -489,8 +489,10 @@ https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 
 
+
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | INFANTIS",[COLOR green]||||||| INFANTIL |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | INFANTIS",[COLOR green]||||||| INFANTIL |||||||[/COLOR]
+
 
 
 
@@ -536,7 +538,7 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69514
 
 
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | ESPORTES",[COLOR green]||||||| ESPORTE |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | ESPORTES",[COLOR green]||||||| ESPORTE |||||||[/COLOR]
 
 
 
@@ -584,13 +586,14 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69567
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
  
 
+
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | FUTEBOL",[COLOR green]||||||| CANAL DE FUTEBOL |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | FUTEBOS",[COLOR green]||||||| FUTEBOL |||||||[/COLOR]
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBES 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBEs 
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69737
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 2
@@ -618,8 +621,9 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
 
 
+
 ###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="CANAIS | MUNDO",[COLOR green]||||||| TV MUNDO |||||||[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | MUNDO",[COLOR green]||||||| MUNDO |||||||[/COLOR]
 
 
 
@@ -644,43 +648,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1297458866_b1396000_
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-UQ7w-yM9xb4/XPMVYvb3GSI/AAAAAAAAA88/4s1Xti_TqQoqyFON6EEPfyqc49_TDTL_wCLcBGAs/s320/Screenshot_2019-06-01-21-14-27.png" group-title="TV MUNDO", 100% Auto Moto TV online 24
 http://100automoto.tv:1935/bgtv1/Stream1/chunklist_w801668255.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
