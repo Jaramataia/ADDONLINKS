@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 14.03.2020
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 24.03.2020
 http://127.0.0.2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE 
@@ -22,13 +22,13 @@ http://127.0.0.3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB 20 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB 20 FHD
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69471
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB CAM 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB CAM 1 HD
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69472
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="Big Brother Brasil 2020",BBB MOSAICO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB MOSAICO
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
@@ -39,96 +39,125 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", GLOBO RJ
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO SP
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_545751c82a34a6edec8f0ae50b8c1090fbc4366e/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69622
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv Aberta", INTERTV CABUGI
-http://mytvip.xyz:80/cesar1/cesar1/76842
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", INTERTV CABUGI
+http://udq.me:8880/live/UMNpu/nBKFH/1560.m3u8
 
- 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta", SBT - TV Cidade Verde - (PI)
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
- 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta",SBT - TV Difusora (MA)
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv Aberta", SBT - TV Serra Dourada - (GO)
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv Aberta", RecordTV 
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
-
-EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv Aberta", RecordTV Brasilia
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv Aberta",Band PA
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (PA)
 https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv Aberta",Band
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1431167_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv Aberta",Band GO
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (GO)
 http://mytvip.xyz:80/cesar1/cesar1/63393
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv Aberta", RedeTV! (SP)
-http://mytvip.xyz:80/cesar1/cesar1/76790
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Tv ABERTA",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv ABERTA", SBT - TV Cidade Verde - (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
+ 
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv ABERTA",SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv ABERTA", SBT - TV Serra Dourada - (GO)
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv Aberta", RedeTV! (RJ)
-http://mytvip.xyz:80/cesar1/cesar1/76816
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv ABERTA", RecordTV 
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/arapuam.png" group-title="Tv Aberta", TV Arapuan HD (PB)
-https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv ABERTA", RecordTV Brasilia
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/gazeta.png" group-title="Tv Aberta", TV Gazeta (SP)
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv ABERTA", RecordTV Natal (RN)
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvvitoria.png" group-title="Tv Aberta",TV Vitória - RecordTV (ES)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvvitoria.png" group-title="Tv ABERTA",TV Vitória - RecordTV (ES)
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rictv_logo.png" group-title="Tv Aberta",RICTV - RecordTV (SC)
-https://59566a7951f71.streamlock.net:8090/ricsc/ricsc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2017/2/programas/15665617161518343.png" group-title="Tv Aberta",TV Vitória - RecordTV (ES) 
-http://mytvip.xyz:80/cesar1/cesar1/75917
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rbtv-logo-rede-brasil.png" group-title="Tv Aberta", Rede Brasil (SP)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Distrito Federal
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Tv ABERTA", RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv ABERTA", RedeTV! (SP)
+http://mytvip.xyz:80/cesar1/cesar1/76790
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv ABERTA", RedeTV! (RJ)
+http://mytvip.xyz:80/cesar1/cesar1/76816
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Tv ABERTA", TV Pampa - RedeTV! RS
+https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/arapuam.png" group-title="Tv ABERTA", TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/gazeta.png" group-title="Tv ABERTA", TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rbtv-logo-rede-brasil.png" group-title="Tv ABERTA", Rede Brasil (SP)
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1180px-cultura_logo_2013.svg_.png" group-title="Tv Aberta", Cultura Pará
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1180px-cultura_logo_2013.svg_.png" group-title="Tv ABERTA", Cultura Pará
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/tcm.jpg" group-title="Tv Aberta", TCM Mossoro
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/tcm.jpg" group-title="Tv ABERTA", TCM Mossoro
 http://live.tcm10.com.br/tcm10.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbnwtdg/tv-Natal.png" group-title="Tv Aberta", TV Natal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbnwtdg/tv-Natal.png" group-title="Tv ABERTA", TV Natal
 https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1583508114
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCIPD5NHmIrvUnijVKw18xq9saz1HgKERE9NQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Tv Aberta", TV Kurtição - Caico/RN
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCIPD5NHmIrvUnijVKw18xq9saz1HgKERE9NQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Tv ABERTA", TV Kurtição - Caico/RN
 https://livefocamundo.com:8081/8202/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/catve.png" group-title="Tv Aberta",Catve - Cultura (PR)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/catve.png" group-title="Tv ABERTA",Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_topo.png" group-title="Tv Aberta", TV União (CE)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_topo.png" group-title="Tv ABERTA", TV União (CE)
 https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="Tv Aberta", Rede Família
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="Tv ABERTA", Rede Família
 https://cdn0.showcase.com.br/hls/redefamilia/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvmarajoara.png" group-title="Tv Aberta", Rede Brasil - TV Marajoara (PA)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvmarajoara.png" group-title="Tv ABERTA", Rede Brasil - TV Marajoara (PA)
 http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/futura.png" group-title="Tv Aberta",Futura - TVUP
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/futura.png" group-title="Tv ABERTA",Futura - TVUP
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/topo_tv_opovo_desktop.png" group-title="Tv Aberta",TV O Povo - Futura
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/topo_tv_opovo_desktop.png" group-title="Tv ABERTA",TV O Povo - Futura
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSzcjqd.png" group-title="Tv Aberta",TV Sol (PB)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSzcjqd.png" group-title="Tv ABERTA",TV Sol (PB)
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-
-
-
 
 ###############################################################  ###########################################################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | PUBLICO",[COLOR green]||||||| PÚBLICA |||||||[/COLOR]
@@ -136,51 +165,53 @@ http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMDR-oJIkt5R4Fj4KyDWRR4wFVzSWiJnx3J-oO_tTkOwLOEwHO" group-title="Pública",Tv Assembleia (RN)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMDR-oJIkt5R4Fj4KyDWRR4wFVzSWiJnx3J-oO_tTkOwLOEwHO" group-title="PÚBLICA",Tv Assembleia (RN)
 https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1973467823.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_da_tv_itararc3a9.png" group-title="Pública", TV Itararé - Cultura (PB)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfuro.png" group-title="PÚBLICA", TV Futuro Natal
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_da_tv_itararc3a9.png" group-title="PÚBLICA", TV Itararé - Cultura (PB)
 http://stream.tvitarare.com.br/hls/site/site.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tve.jpg" group-title="Pública", TVE Bahia
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tve.jpg" group-title="PÚBLICA", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede-minas-original.jpg" group-title="Pública", Rede Minas
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede-minas-original.jpg" group-title="PÚBLICA", Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvaperipe.png" group-title="Pública",TV Aperipê (SE)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvaperipe.png" group-title="PÚBLICA",TV Aperipê (SE)
 http://cdn.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_da_tv_metrc3b3pole.png" group-title="Pública",TV Metrópole
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_da_tv_metrc3b3pole.png" group-title="PÚBLICA",TV Metrópole
 http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_redeparanaeducativa.png" group-title="Pública",Paraná Educativa
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_redeparanaeducativa.png" group-title="PÚBLICA",Paraná Educativa
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede-fonte.png" group-title="Pública", FonteTV (GO)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede-fonte.png" group-title="PÚBLICA", FonteTV (GO)
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/camara.png" group-title="Pública",TV Câmara
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/camara.png" group-title="PÚBLICA",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/200px-logotipo_da_tv_brasil.png" group-title="Pública", TV Brasil 2
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/200px-logotipo_da_tv_brasil.png" group-title="PÚBLICA", TV Brasil 2
 https://video-rvd-pe-cdc-gw-3-1.rnp.br/live/ocp(t(FcrlXFFfl1Q)r(TOqkzw)a(inofWA)p(d(Ujo)k(l0c)m(t_8BxdyWsjOyzHbW7Mr0zQ)n(a(O0uXNg)s(Eus)'a(nMFkKQ)s(Psk)'a(JaC0Sg)s(9eQ)'a(3CWRng)s(oKw)))s(s(-G4)b(WMrMRZSSY26w2zjN9uWlZflrW8lu_Of_xUVDySQSqu119OM0YdqY6FxCGZJIkIT-q2bWtBBNYG4vKd244Q)'s(uTc)b(hyn05iJI0yUJ9E7kErmNYcOkMksLoSMX9n7dYbzaXNRWR_SVkw9zcYsyeb5GobrKqunathKGmWfE1L-IGtruhuR_C3yzLl6kxKRWtNqu)'s(wT0)b(gtBhVMKM))m(0))/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvescola.png" group-title="Pública", TV Escola
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvescola.png" group-title="PÚBLICA", TV Escola
 https://bkp-slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sesctv_28201329.png" group-title="Pública", SescTV HD
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sesctv_28201329.png" group-title="PÚBLICA", SescTV HD
 https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_-_canal_sac3bade.jpg" group-title="Pública", Canal Saúde
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_-_canal_sac3bade.jpg" group-title="PÚBLICA", Canal Saúde
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvmaceio.jpg" group-title="Pública",TV Maceió (AL)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvmaceio.jpg" group-title="PÚBLICA",TV Maceió (AL)
 https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvfaap.png" group-title="Pública",TV Faap
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvfaap.png" group-title="PÚBLICA",TV Faap
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-
 
 
 ###############################################################  ###########################################################################
@@ -189,38 +220,23 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/bandnews.png" group-title="Jornalismo",BAND NEWS
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="JORNALISMO",BAND NEWS - TEMPORÁRIO
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69464
 
-#EXTINF:-1 tvg-logo="https://faustinotv.me/kodi/img/globonews.png" group-title="Jornalismo",Globo News
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="JORNALISMO",CNN BRASIL FHD - TEMPORÁRIO
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 tvg-logo="http://s.glbimg.com/jo/g1/f/original/2010/10/14/globonewslogo.jpg" group-title="JORNALISMO",Globo News - TEMPORÁRIO
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69467
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recnews.png" group-title="Jornalismo",Record News
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recnews.png" group-title="JORNALISMO",Record News
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69468
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_tv_guarc3a1.png" group-title="Jornalismo",Record News - TV Guará (MA)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_tv_guarc3a1.png" group-title="JORNALISMO",Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/635px-france24.png" group-title="Jornalismo", France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="Jornalismo", Al Jazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/arirang_logo.png" group-title="Jornalismo", Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/bnr_world.png" group-title="Jornalismo", NHK Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/wfxt_boston_25_logo.png" group-title="Jornalismo", Boston 25 News
-https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy546zyRKEglaLXIIP_bDhQzCfM8px6NVQchlEqIlurEtkkEdt" group-title="Jornalismo", Al Jazeera English
-https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="Jornalismo", rtve 24 HORAS (ESPANHA)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
 
 
 
@@ -230,49 +246,48 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?
 
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_da_tv_a_crc3adtica.png" group-title="Variedades", TV A Crítica
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_da_tv_a_crc3adtica.png" group-title="VARIEDADES", TV A Crítica
 https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo-tv8.png" group-title="Variedades", TV8 Brasil
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo-tv8.png" group-title="VARIEDADES", TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvjornallimeira.png" group-title="Variedades", TV Jornal - Limeira SP
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvjornallimeira.png" group-title="VARIEDADES", TV Jornal - Limeira SP
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvdagente.png" group-title="Variedades", TV da Gente
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvdagente.png" group-title="VARIEDADES", TV da Gente
 https://595b85410a151.streamlock.net/tvdagenteoficial/tvdagenteoficial/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/533047_b6dbc13030db4542a3b77df1f2a75435mv2.png" group-title="Variedades",TV Transamérica (PR)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/533047_b6dbc13030db4542a3b77df1f2a75435mv2.png" group-title="VARIEDADES",TV Transamérica (PR)
 http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rvbifdo.png" group-title="Variedades", YEEAAH TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rvbifdo.png" group-title="VARIEDADES", YEEAAH TV
 https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/jn5adsaa.jpg" group-title="Variedades", RDC
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/jn5adsaa.jpg" group-title="VARIEDADES", RDC
 https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/canalrural.png" group-title="Variedades",Canal Rural (SP)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/canalrural.png" group-title="VARIEDADES",Canal Rural (SP)
 http://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1280px-terra_viva_logo.svg_.png" group-title="VARIEDADES",Terra Viva
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1255312138.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/santacecilia.png" group-title="Variedades",TV Santa Cecília (SP)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/santacecilia.png" group-title="VARIEDADES",TV Santa Cecília (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo-circular.png" group-title="Variedades", 40 Graus TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo-circular.png" group-title="VARIEDADES", 40 Graus TV
 https://5d23bdca513db.streamlock.net/40graustv/40graustv/chunklist_w1659078724.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/bnzdrdjj.jpg" group-title="Variedades", TV Brusque (SC)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/bnzdrdjj.jpg" group-title="VARIEDADES", TV Brusque (SC)
 https://hls.brasilstream.com.br/live/tvbrusque/tvbrusque/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i9fwNqx.png" group-title="Variedades",TV CN AGITOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9fwNqx.png" group-title="VARIEDADES",TV CN AGITOS (RN)
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_sic_2018.png" group-title="Variedades", SIC (apenas em Portugal)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_sic_2018.png" group-title="VARIEDADES", SIC (apenas em Portugal)
 http://live.impresa.pt/live/sic/sic.m3u8
-
 
 
 
@@ -284,61 +299,61 @@ http://live.impresa.pt/live/sic/sic.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1hd.png" group-title="Música", 1HD Music
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1hd.png" group-title="MÚSICA", 1HD Music
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/hit_music_channel1.png" group-title="Música", H!T Music
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/hit_music_channel1.png" group-title="MÚSICA", H!T Music
 http://hitmusic.hu/hitmusic.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/hit_music_channel1.png" group-title="Música", H!T Music Alternativo
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/hit_music_channel1.png" group-title="MÚSICA", H!T Music Alternativo
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/mc_red.png" group-title="Música", Music Channel
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/mc_red.png" group-title="MÚSICA", Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w1209789405.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/retro-logo-bile2.png" group-title="Música", Retrô TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/retro-logo-bile2.png" group-title="MÚSICA", Retrô TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_capital_1024x1024-768x384.png" group-title="Música", Capital TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_capital_1024x1024-768x384.png" group-title="MÚSICA", Capital TV
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="Música", M2O
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="MÚSICA", M2O
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/oadvlb8.png" group-title="Música", Music Top
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/oadvlb8.png" group-title="MÚSICA", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/njhits.png" group-title="Música",NRJ Hits
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/njhits.png" group-title="MÚSICA",NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/toptv.png" group-title="Música",TopTV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/toptv.png" group-title="MÚSICA",TopTV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rtl.png" group-title="Música", RTL (Itália)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rtl.png" group-title="MÚSICA", RTL (Itália)
 https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/music-box.png" group-title="Música", Music Box (Rússia)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/music-box.png" group-title="MÚSICA", Music Box (Rússia)
 http://212.26.132.86/hls/mb_ua_2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1471439396922.jpg" group-title="Música", Radio Monte Carlo TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1471439396922.jpg" group-title="MÚSICA", Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_top_latino_png_2017_-_500px.png" group-title="Música", Top Latino TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo_top_latino_png_2017_-_500px.png" group-title="MÚSICA", Top Latino TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo.png" group-title="Música", DJing
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo.png" group-title="MÚSICA", DJing
 https://www.djing.com/tv/d-28904-04.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo.png" group-title="Música", DJing Animation
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo.png" group-title="MÚSICA", DJing Animation
 https://www.djing.com/tv/a-28904-04.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo-1.png" group-title="Música", Retro Plus
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo-1.png" group-title="MÚSICA", Retro Plus
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/theretrofb.jpg" group-title="Música", The Retro Channel
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/theretrofb.jpg" group-title="MÚSICA", The Retro Channel
 http://198.24.183.198:1936/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="Música", KroneHIT
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="MÚSICA", KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
@@ -349,33 +364,33 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dZQxLQ_SavM/XT8orT0EjqI/AAAAAAAABX8/q77ZrakORn0sNxj3hw1UyeiVso899JniwCPcBGAYYCw/s320/Screenshot_2019-07-29-01-20-42.png" group-title="WebTV", TV da Gente
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dZQxLQ_SavM/XT8orT0EjqI/AAAAAAAABX8/q77ZrakORn0sNxj3hw1UyeiVso899JniwCPcBGAYYCw/s320/Screenshot_2019-07-29-01-20-42.png" group-title="WEBTV", TV da Gente
 https://595b85410a151.streamlock.net/tvdagenteoficial/tvdagenteoficial/chunklist_w854571981.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo.jpg" group-title="WebTV", TV Guarani - WebTV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo.jpg" group-title="WEBTV", TV Guarani - WebTV
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo2btv-0.png" group-title="WebTV", TV Aracati
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logo2btv-0.png" group-title="WEBTV", TV Aracati
 https://5c64355d4b57c.streamlock.net:1936/8364/8364/chunklist_w1940814926.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvdigitalbirigui.jpg" group-title="WebTV", TV Birigui
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvdigitalbirigui.jpg" group-title="WEBTV", TV Birigui
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvjsid.png" group-title="WebTV", TV Sjid (BA)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvjsid.png" group-title="WEBTV", TV Sjid (BA)
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvjapi.png" group-title="WebTV",TV Japi
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvjapi.png" group-title="WEBTV",TV Japi
 https://v3.ciclano.io:1443/tvjapi/_definst_/tvjapi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/screenshot_2019-08-16-14-24-07.png" group-title="WebTV",TV Massa
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/screenshot_2019-08-16-14-24-07.png" group-title="WEBTV",TV Massa
 http://stmv6.srvstm.com/gilson7193/gilson7193/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fyaxU5RL4f0/XbJFyWknp4I/AAAAAAAACME/4r9Ukgaw9gwdIDAbc5qykuIPaUWtM5HZgCLcBGAsYHQ/s320/Screenshot_2019-10-24-21-43-30.png" group-title="WebTV",Viva WebTv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fyaxU5RL4f0/XbJFyWknp4I/AAAAAAAACME/4r9Ukgaw9gwdIDAbc5qykuIPaUWtM5HZgCLcBGAsYHQ/s320/Screenshot_2019-10-24-21-43-30.png" group-title="WEBTV",Viva WebTv
 https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w343984701.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wLlSvdtf9Js/XP3UBaLX0bI/AAAAAAAAA_w/WTeaEjZJ0x8h95j51m3qR3bUbNQ2pwLBwCLcBGAs/s320/Screenshot_2019-06-10-00-48-32.png" group-title="WebTV",TV Info Bahia
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wLlSvdtf9Js/XP3UBaLX0bI/AAAAAAAAA_w/WTeaEjZJ0x8h95j51m3qR3bUbNQ2pwLBwCLcBGAs/s320/Screenshot_2019-06-10-00-48-32.png" group-title="WEBTV",TV Info Bahia
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w111732487.m3u8
 
 
@@ -387,41 +402,42 @@ https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/ch
 
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tv_evangelizar.png" group-title="Religioso",TV Evangelizar
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tv_evangelizar.png" group-title="RELIGIOSO",TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/cancaonova.png" group-title="Religioso",Canção Nova
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/cancaonova.png" group-title="RELIGIOSO",Canção Nova
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/200px-rede_vida_logo.png" group-title="Religioso",Rede Vida
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/200px-rede_vida_logo.png" group-title="RELIGIOSO",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/2018091805332321logotipo_da_tv_aparecida.png" group-title="Religioso",TV Aparecida
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/2018091805332321logotipo_da_tv_aparecida.png" group-title="RELIGIOSO",TV Aparecida
 https://caikron.com.br:8082/tvap/tvap/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/seculo21.png" group-title="Religioso", Rede Século 21
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/seculo21.png" group-title="RELIGIOSO", Rede Século 21
 http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede-super-logo-tv.png" group-title="Religioso", Rede Super
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede-super-logo-tv.png" group-title="RELIGIOSO", Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/izkxzj9.png" group-title="Religioso", Novo Tempo
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/izkxzj9.png" group-title="RELIGIOSO", Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/nt8hdct.png" group-title="Religioso", IMPD TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/nt8hdct.png" group-title="RELIGIOSO", IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/ainraga.png" group-title="Religioso", IURD TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/ainraga.png" group-title="RELIGIOSO", IURD TV
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redegospel.png" group-title="Religioso",Rede Gospel
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redegospel.png" group-title="RELIGIOSO",Rede Gospel
 http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/paieterno.png" group-title="Religioso",TV Pai Eterno
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/paieterno.png" group-title="RELIGIOSO",TV Pai Eterno
 https://59fb88a1b1108.streamlock.net/paieterno/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/br_boa-vontade-tv_m.png" group-title="Religioso", Boa Vontade TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/br_boa-vontade-tv_m.png" group-title="RELIGIOSO", Boa Vontade TV
 http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
+
 
 
 
@@ -432,43 +448,43 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8IFnsWa1goE/XQlbcI9kegI/AAAAAAAABFw/dLsbP-zgyWU35cunbqFxaeJHZoUU-AGOACPcBGAYYCw/s320/Screenshot_2019-06-18-16-58-06.png" group-title="Filmes",Cine +
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8IFnsWa1goE/XQlbcI9kegI/AAAAAAAABFw/dLsbP-zgyWU35cunbqFxaeJHZoUU-AGOACPcBGAYYCw/s320/Screenshot_2019-06-18-16-58-06.png" group-title="FILMES",Cine +
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w541394271.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hHTWYaIbBWw/XZLJDwyAG5I/AAAAAAAACBo/u2-CtcTjAbsITFD5vdOn4xj4GTqgdoIvgCLcBGAsYHQ/s320/Screenshot_2019-10-01-00-29-16.png" group-title="Filmes",Imperial TV
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hHTWYaIbBWw/XZLJDwyAG5I/AAAAAAAACBo/u2-CtcTjAbsITFD5vdOn4xj4GTqgdoIvgCLcBGAsYHQ/s320/Screenshot_2019-10-01-00-29-16.png" group-title="FILMES",Imperial TV
 https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w489091346_DVR.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/gospel.jpg" group-title="Filmes",Gospel Movie TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/gospel.jpg" group-title="FILMES",Gospel Movie TV
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png" group-title="Filmes",Tv Carioca net
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png" group-title="FILMES",Tv Carioca net
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w873806451.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="Filmes", TV J.Side Filmes 24horas
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="FILMES", TV J.Side Filmes 24horas
 https://stmv3.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=415836703
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3ge0TRG4CcU/XRkKMV3Kd_I/AAAAAAAABP0/0iOri3AC3wUU_xeZLpDwsBlgDIiE_2zwgCPcBGAYYCw/s320/Screenshot_2019-06-30-16-12-22.png" group-title="Filmes", Tv Japi
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3ge0TRG4CcU/XRkKMV3Kd_I/AAAAAAAABP0/0iOri3AC3wUU_xeZLpDwsBlgDIiE_2zwgCPcBGAYYCw/s320/Screenshot_2019-06-30-16-12-22.png" group-title="FILMES", Tv Japi
 https://5d2c98775bafe.streamlock.net/8220/8220/chunklist_w1354007540.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-dJWTibPZ1EE/XRkWoQqgi7I/AAAAAAAABQs/HZXMImajW9IMnwEXl5w7QJZgW3x9S0QkQCPcBGAYYCw/s320/Screenshot_2019-06-30-16-59-20.png" group-title="Filmes", Tv Guarany (CE)
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-dJWTibPZ1EE/XRkWoQqgi7I/AAAAAAAABQs/HZXMImajW9IMnwEXl5w7QJZgW3x9S0QkQCPcBGAYYCw/s320/Screenshot_2019-06-30-16-59-20.png" group-title="FILMES", Tv Guarany (CE)
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1485745044
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="Filmes", Classique TV
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES", Classique TV
 https://stmv1.ifantasy.com.br/classique/classique/playlist.m3u8?wowzasessionid=1687832457
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2LYbTyB-jKQ/XRF-sPN8agI/AAAAAAAABOI/N9gBA0Bu-n4GnbIuhhacXPxS9i_v_t5NgCPcBGAYYCw/s320/Screenshot_2019-06-24-16-24-47.png" group-title="Filmes", Tv Capital777
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2LYbTyB-jKQ/XRF-sPN8agI/AAAAAAAABOI/N9gBA0Bu-n4GnbIuhhacXPxS9i_v_t5NgCPcBGAYYCw/s320/Screenshot_2019-06-24-16-24-47.png" group-title="FILMES", Tv Capital777
 https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist_w212704106.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YZzjxuSIsAc/XXxQhEfqNuI/AAAAAAAAB0Y/17hPLzf4WfcEHi0S1pslnYD3hjeXYd8hwCLcBGAsYHQ/s320/Screenshot_2019-09-13-23-27-15.png" group-title="Filmes", TV Destak
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YZzjxuSIsAc/XXxQhEfqNuI/AAAAAAAAB0Y/17hPLzf4WfcEHi0S1pslnYD3hjeXYd8hwCLcBGAsYHQ/s320/Screenshot_2019-09-13-23-27-15.png" group-title="FILMES", TV Destak
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1071480912.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9nmwxB94-9U/XZuMpvQX8RI/AAAAAAAACFg/QjkhB-OgkucRmHoxf78YaixlaCI4jjcVQCLcBGAsYHQ/s320/Screenshot_2019-10-07-16-04-13.png" group-title="Filmes", TV que Demais
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9nmwxB94-9U/XZuMpvQX8RI/AAAAAAAACFg/QjkhB-OgkucRmHoxf78YaixlaCI4jjcVQCLcBGAsYHQ/s320/Screenshot_2019-10-07-16-04-13.png" group-title="FILMES", TV que Demais
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6ujEifqHhEM/XZuH3UPYiXI/AAAAAAAACFI/iwd_y-_n9MMrVvGDORBh4Lh2EugsC0WVwCLcBGAsYHQ/s320/2019-10-07%2B15.43.32.png" group-title="Filmes", Tv Jampa Jovens
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6ujEifqHhEM/XZuH3UPYiXI/AAAAAAAACFI/iwd_y-_n9MMrVvGDORBh4Lh2EugsC0WVwCLcBGAsYHQ/s320/2019-10-07%2B15.43.32.png" group-title="FILMES", Tv Jampa Jovens
 https://stmv6.srvstm.com/anderson2491/anderson2491/chunklist.m3u8?wowzasessionid=277540701
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rai.png" group-title="Filmes", RAI Movie (Itália)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rai.png" group-title="FILMES", RAI Movie (Itália)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
@@ -479,14 +495,21 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/fm-o-dia-foto.jpg" group-title="Rádio",FM O DIA 100.5 - ESTÚDIO AO VIVO
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/fm-o-dia-foto.jpg" group-title="RÁDIO",FM O DIA 100.5 - ESTÚDIO AO VIVO
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/2000px-jovem_pan_logo.svg_.png" group-title="Rádio",Jovem Pan (SP)
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/2000px-jovem_pan_logo.svg_.png" group-title="RÁDIO",Jovem Pan (SP)
 https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/9f41c575-ceca-4863-89e7-85e1628fab94.png" group-title="Rádio",98 Live
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/9f41c575-ceca-4863-89e7-85e1628fab94.png" group-title="RÁDIO",98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="RÁDIO",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="RÁDIO",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
 
 
 
@@ -537,52 +560,56 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69514
 
 
 
+
 ###############################################################  ###########################################################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | ESPORTES",[COLOR green]||||||| ESPORTE |||||||[/COLOR]
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="** ESPORTE **",BAND SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="ESPORTE",BAND SPORTS
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69789
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69749
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
+http://udq.me:8880/live/UMNpu/nBKFH/943.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="** ESPORTE **", COMBATE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_b0d57f96b6665ee198a0f2d85845c1a93eaac36d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_8e640619e907d72fe66477dbc5d9c65cc1438f59/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4AV04.jpg" group-title="** ESPORTE **",DAZN 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4AV04.jpg" group-title="ESPORTE",DAZN 1
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69754
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="** ESPORTE **", SPORTE TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="ESPORTE", SPORTE TV
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69743
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="** ESPORTE **", SPORTE TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="ESPORTE", SPORTE TV 2
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69748
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="** ESPORTE **", SPORTE TV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="ESPORTE", SPORTE TV 3
 http://198.255.23.18:2095/streams/74_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="** ESPORTE **", ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="ESPORTE", ESPN
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/229.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xk5zezL.png" group-title="** ESPORTE **",ESPN EXTRA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xk5zezL.png" group-title="ESPORTE",ESPN EXTRA
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/249
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="** ESPORTE **", ESPN BRASIL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="ESPORTE", ESPN BRASIL
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/239
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="** ESPORTE **", FOX SPORT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="ESPORTE", FOX SPORT 1
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69746
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="** ESPORTE **", FOX SPORT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="ESPORTE", FOX SPORT 2
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69748
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="** ESPORTE **", DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="ESPORTE", DISCOVERY TURBO
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69567
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3qnarKMEsOpjTxW2BXVxut7Jhz5mWhn7KnG0wjJjhlj0poz5" group-title="** ESPORTE **", ALL SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3qnarKMEsOpjTxW2BXVxut7Jhz5mWhn7KnG0wjJjhlj0poz5" group-title="ESPORTE", ALL SPORTS
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
  
 
@@ -593,33 +620,32 @@ https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w34963
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="Futebol a o Vivo", PREMIERE CLUBEs 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="FUTEBOL AO VIVO", PREMIERE CLUBEs 
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69737
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 2
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69739
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 3
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69740
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 4
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/192.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 5
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/194.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 6
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/195.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 7
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/196.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="Futebol a o Vivo", PREMIERE 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 9
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
-
 
 
 ###############################################################  ###########################################################################
@@ -648,6 +674,28 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1297458866_b1396000_
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-UQ7w-yM9xb4/XPMVYvb3GSI/AAAAAAAAA88/4s1Xti_TqQoqyFON6EEPfyqc49_TDTL_wCLcBGAs/s320/Screenshot_2019-06-01-21-14-27.png" group-title="TV MUNDO", 100% Auto Moto TV online 24
 http://100automoto.tv:1935/bgtv1/Stream1/chunklist_w801668255.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="TV MUNDO", Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/arirang_logo.png" group-title="TV MUNDO", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/bnr_world.png" group-title="TV MUNDO", NHK Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/wfxt_boston_25_logo.png" group-title="TV MUNDO", Boston 25 News
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy546zyRKEglaLXIIP_bDhQzCfM8px6NVQchlEqIlurEtkkEdt" group-title="TV MUNDO", Al Jazeera English
+https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
+
+
+
 
 
 
