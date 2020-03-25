@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 24.03.2020
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 25.03.2020
 http://127.0.0.2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE 
@@ -24,6 +24,9 @@ http://127.0.0.3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB 20 FHD
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69471
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB 20 SD
+http://lindaflor.net:8080/live/f123456/f123456/11176.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB CAM 1 HD
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69472
@@ -40,13 +43,13 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO SP
-https://edge-aws.aovivo.club/hls/s:78.46.240.155/globosp_cfe21c68_545751c82a34a6edec8f0ae50b8c1090fbc4366e/playlist.m3u8
+http://lindaflor.net:8080/live/f123456/f123456/67.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69622
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", INTERTV CABUGI
-http://udq.me:8880/live/UMNpu/nBKFH/1560.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://assets.blogdobg.com.br/uploads/2019/12/srehshsh.jpg" group-title="Tv ABERTA", INTERTV CABUGI
+http://lindaflor.net:8080/live/f123456/f123456/77.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (PA)
 https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
@@ -572,13 +575,10 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69737
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69789
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
-http://udq.me:8880/live/UMNpu/nBKFH/943.m3u8
+http://lindaflor.net:8080/live/f123456/f123456/36.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
-https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_b0d57f96b6665ee198a0f2d85845c1a93eaac36d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_8e640619e907d72fe66477dbc5d9c65cc1438f59/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE HD
+http://lindaflor.net:8080/live/f123456/f123456/315.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mN4AV04.jpg" group-title="ESPORTE",DAZN 1
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69754
@@ -609,6 +609,9 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69748
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="ESPORTE", DISCOVERY TURBO
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69567
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="ESPORTE", DISCOVERY TURBO
+http://lindaflor.net:8080/live/f123456/f123456/42.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3qnarKMEsOpjTxW2BXVxut7Jhz5mWhn7KnG0wjJjhlj0poz5" group-title="ESPORTE", ALL SPORTS
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
