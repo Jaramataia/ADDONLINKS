@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 25.03.2020
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 08.04.2020
 http://127.0.0.2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE 
@@ -42,10 +42,13 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO SP
-http://lindaflor.net:8080/live/f123456/f123456/67.m3u8
+http://195.181.163.183:2200/PY-N/Globo_HD_SP-br/index.m3u8?token=1bI9lrjMOwvoZsssGLxtHQ==,1586322559.1679989495
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69622
+http://195.181.163.183:2200/PY-N/Globo_HD_RJ-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",GLOBO NORDESTE HD
+http://195.181.162.87:2200/BR1/3222-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://assets.blogdobg.com.br/uploads/2019/12/srehshsh.jpg" group-title="Tv ABERTA", INTERTV CABUGI
 http://lindaflor.net:8080/live/f123456/f123456/77.m3u8
