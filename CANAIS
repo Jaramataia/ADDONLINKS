@@ -17,22 +17,6 @@ http://127.0.0.2
 http://127.0.0.3
 
 
-###################################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="Big Brother Brasil 2020",[COLOR green]||||||| BBB 20 |||||||[/COLOR]
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB 20 FHD
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69471
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB 20 SD
-http://lindaflor.net:8080/live/f123456/f123456/11176.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB CAM 1 HD
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69472
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0y2gcAY.png" group-title="BIG BROTHER BRASIL 2020",BBB MOSAICO
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69473
 
 
 ###############################################################  ###########################################################################
@@ -46,9 +30,6 @@ http://195.181.163.183:2200/PY-N/Globo_HD_SP-br/index.m3u8?token=1bI9lrjMOwvoZss
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
 http://195.181.163.183:2200/PY-N/Globo_HD_RJ-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",GLOBO NORDESTE HD
-http://195.181.162.87:2200/BR1/3222-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://assets.blogdobg.com.br/uploads/2019/12/srehshsh.jpg" group-title="Tv ABERTA", INTERTV CABUGI
 http://lindaflor.net:8080/live/f123456/f123456/77.m3u8
