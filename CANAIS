@@ -9,30 +9,29 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 08.04.2020
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 29.08.2020 AS 13:46
 http://127.0.0.2 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",TV FREE 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",Sua Nova Forma De Ver TV!
 
 http://127.0.0.3
 
 
 
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | ABERTOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
 
 
+==TVA.BERTA===================================================================================================================================================
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO SP
-http://195.181.163.183:2200/PY-N/Globo_HD_SP-br/index.m3u8?token=1bI9lrjMOwvoZsssGLxtHQ==,1586322559.1679989495
+http://195.181.163.183:2200/PY-N/Globo_HD_SP-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
 http://195.181.163.183:2200/PY-N/Globo_HD_RJ-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://assets.blogdobg.com.br/uploads/2019/12/srehshsh.jpg" group-title="Tv ABERTA", INTERTV CABUGI
-http://lindaflor.net:8080/live/f123456/f123456/77.m3u8
+http://list.deeplist.nl:80/testeweb/abril80dias23/52685
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (PA)
 https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
@@ -92,13 +91,11 @@ https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Tv ABERTA", RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv ABERTA", RedeTV! (SP)
 http://mytvip.xyz:80/cesar1/cesar1/76790
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv ABERTA", RedeTV! (RJ)
-http://mytvip.xyz:80/cesar1/cesar1/76816
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Tv ABERTA", TV Pampa - RedeTV! RS
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
@@ -145,8 +142,10 @@ https://5a1c76baf08c0.streamlock.net/z01-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSzcjqd.png" group-title="Tv ABERTA",TV Sol (PB)
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | PUBLICO",[COLOR green]||||||| PÚBLICA |||||||[/COLOR]
+
+
+
+==PÚBLICA==============================================================================================================================================
 
 
 
@@ -200,8 +199,8 @@ https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | JORNAIS",[COLOR green]||||||| JORNALISMO |||||||[/COLOR]
+
+==JORNALISMO============================================================================================================================================
 
 
 
@@ -225,9 +224,7 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3
 
 
 
-
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | VARIEDADES",[COLOR green]||||||| VARIEDADES |||||||[/COLOR]
+==VARIEDADES==============================================================================================================================
 
 
 
@@ -278,8 +275,8 @@ http://live.impresa.pt/live/sic/sic.m3u8
 
 
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | MÚSICAS",[COLOR green]||||||| MÚSICA |||||||[/COLOR]
+
+==MÚSICA===========================================================================================================================
 
 
 
@@ -344,11 +341,11 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | WEBTV",[COLOR green]||||||| WEBTV |||||||[/COLOR]
+==WEBTV===================================================================================================================================================
 
 
-
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mancheteweb.png" group-title="WebTV",TV Manchete - WebTV
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dZQxLQ_SavM/XT8orT0EjqI/AAAAAAAABX8/q77ZrakORn0sNxj3hw1UyeiVso899JniwCPcBGAYYCw/s320/Screenshot_2019-07-29-01-20-42.png" group-title="WEBTV", TV da Gente
 https://595b85410a151.streamlock.net/tvdagenteoficial/tvdagenteoficial/chunklist_w854571981.m3u8
@@ -381,9 +378,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/ch
 
 
 
-
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | RELIGIOSOS",[COLOR green]||||||| RELIGIOSO |||||||[/COLOR]
+==RELIGIOSOS===================================================================================================================================
 
 
 
@@ -427,9 +422,7 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 
 
-
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | FILMES",[COLOR green]||||||| FILMES |||||||[/COLOR]
+==FILMES================================================================================================================================================
 
 
 
@@ -475,8 +468,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | RÁDIOS",[COLOR green]||||||| RÁDIOS |||||||[/COLOR]
+==RÁDIOS=======================================================================================================================================
 
 
 
@@ -498,18 +490,26 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
 
 
-
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | INFANTIS",[COLOR green]||||||| INFANTIL |||||||[/COLOR]
+==INFANTIS=========================================================================================================================================
 
 
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/smilinguido.png" group-title="INFANTIL", Gospel Cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="INFANTIL", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/kuriakos2bkids.png" group-title="INFANTIL", Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/locomotion.png" group-title="INFANTIL", Locomotion - WebTV
+http://www.toonxtv.net/hls/loco_ch/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animeloving.png" group-title="INFANTIL", Anime Loving - WebTV
+http://animeloving.net/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-ID="Baby TV" tvg-logo="https://i.imgur.com/g2mRHj5.jpg" group-title="INFANTIL", Baby TV
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69483
@@ -518,7 +518,7 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69483
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69485
 
 #EXTINF:-1 tvg-ID="Cartoon Network" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="INFANTIL", Cartoon Network
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69488
+https://streaming.belugacdn.link/a/hls1/cartoon.m3u8?expires=1598763515&token=fc8c20fbe3db1f3e0894741fca055e4a
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="INFANTIL", Disney Channel
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69494
@@ -542,23 +542,23 @@ http://mixsrv.me:80/BYd5d7ztaN/multi@user/69509
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69512
 
 #EXTINF:-1 tvg-ID="Tooncast" tvg-logo="https://i.imgur.com/grRAhl7.jpg" group-title="INFANTIL", Tooncast
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69514
+https://streaming.belugacdn.link/a/hls1/tooncast.m3u8?expires=1598763646&token=8f18a559613d3a5db9785f22b9b04d0f
 
 
 
-
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | ESPORTES",[COLOR green]||||||| ESPORTE |||||||[/COLOR]
+==ESPORTES================================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="FUTEBOL AO VIVO", PREMIERE CLUBEs 
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69737
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="ESPORTE",BAND SPORTS
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69789
+https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1598763015&token=b7960db43851ba935e27674580f201ff
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
-http://lindaflor.net:8080/live/f123456/f123456/36.m3u8
+https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1598760673&token=4f699b8186e043f1ab317387b9e4fe03
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_4cecf516c65ae0fa1d4fe32e89b332a1587a16d9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE HD
 http://lindaflor.net:8080/live/f123456/f123456/315.m3u8
@@ -567,31 +567,34 @@ http://lindaflor.net:8080/live/f123456/f123456/315.m3u8
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69754
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="ESPORTE", SPORTE TV
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69743
+https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1598759520&token=9833c16de2db4dd3298bb1b03df614d3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="ESPORTE", SPORTE TV 2
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69748
+https://streaming.belugacdn.link/a/hls1/sportv2.m3u8?expires=1598759961&token=f1209cf6584c4657af739aef4d611c22
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="ESPORTE", SPORTE TV 3
 http://198.255.23.18:2095/streams/74_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="ESPORTE", ESPN
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/229.m3u8
+https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1598762767&token=c9a4a677a6ee58ab1def180690ad4947
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xk5zezL.png" group-title="ESPORTE",ESPN EXTRA
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/249
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="ESPORTE", ESPN BRASIL
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/239
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="ESPORTE", ESPN BRASIL
+http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="ESPORTE", FOX SPORT 1
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69746
+https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1598763159&token=4d75aa90234571d3ea3f45017cee2984
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="ESPORTE", FOX SPORT 2
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69748
+https://streaming.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1598763311&token=d928ac61abf9eb8755ec95ff4b48f26e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="ESPORTE", DISCOVERY TURBO
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69567
+https://streaming.belugacdn.link/a/hls1/discoveryturbo.m3u8?expires=1598761244&token=a4597bbb3c17614abbdec997c4dcd1e6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="ESPORTE", DISCOVERY TURBO
 http://lindaflor.net:8080/live/f123456/f123456/42.m3u8
@@ -600,33 +603,31 @@ http://lindaflor.net:8080/live/f123456/f123456/42.m3u8
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
  
 
-
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | FUTEBOS",[COLOR green]||||||| FUTEBOL |||||||[/COLOR]
+==FUTEBOL===============================================================================================================================
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="FUTEBOL AO VIVO", PREMIERE CLUBEs 
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69737
+https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1598762571&token=08b3f3c45b77652d3183ce9719089028
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 2
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69739
+https://streaming.belugacdn.link/a/hls1/premiere2.m3u8?expires=1598760902&token=5113ce62ae51c9fab9358a69a0b8fd2c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 3
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69740
+https://streaming.belugacdn.link/a/hls1/premiere3.m3u8?expires=1598760256&token=3e0ffff37e265b7fbdce33d643183886
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 4
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/192.m3u8
+https://mercedes-brazil.azureedge.net/hls1/premiere4-29821.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 5
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/194.m3u8
+https://streaming.belugacdn.link/a/hls1/premiere5.m3u8?expires=1598761744&token=195126ab1c83ca40d9153f9fa2cf7faf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 6
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/195.m3u8
+https://streaming.belugacdn.link/a/hls1/premiere6.m3u8?expires=1598762052&token=9286874d666785112f7eae8af0dd8da7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 7
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/196.m3u8
+https://streaming.belugacdn.link/a/hls1/premiere7.m3u8?expires=1598762281&token=1d9823fa41c34d6a319608b934031302
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
@@ -635,8 +636,8 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
 
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | MUNDO",[COLOR green]||||||| MUNDO |||||||[/COLOR]
+
+==MUNDO=================================================================================================================================================
 
 
 
@@ -679,8 +680,6 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
-
-
 
 
 
