@@ -432,47 +432,28 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 ###############################################################  ###########################################################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | FILMES",[COLOR green]||||||| FILMES |||||||[/COLOR]
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="FILMES", SPASE
+https://streaming.belugacdn.link/a/hls1/space.m3u8?expires=1598807238&token=5f3e6022bb4fabde1c6dfbdb26ddd69c
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0NS8kEMn4u4CeldVCnfDngF1N185BNJN0ZQ&usqp=CAU" group-title="FILMES", TNT
+https://streaming.belugacdn.link/a/hls1/tnt.m3u8?expires=1598807736&token=2d22915895ea5fd07ab5d94984fb30b3
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="FILMES" CINEMAX
+https://streaming.belugacdn.link/a/hls1/cinemax.m3u8?expires=1598808207&token=15d83eb44754390cd503db6727a6ef2d
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8IFnsWa1goE/XQlbcI9kegI/AAAAAAAABFw/dLsbP-zgyWU35cunbqFxaeJHZoUU-AGOACPcBGAYYCw/s320/Screenshot_2019-06-18-16-58-06.png" group-title="FILMES",Cine +
-https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w541394271.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hHTWYaIbBWw/XZLJDwyAG5I/AAAAAAAACBo/u2-CtcTjAbsITFD5vdOn4xj4GTqgdoIvgCLcBGAsYHQ/s320/Screenshot_2019-10-01-00-29-16.png" group-title="FILMES",Imperial TV
-https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w489091346_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/gospel.jpg" group-title="FILMES",Gospel Movie TV
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="FILMES", MEGAPIX
+https://streaming.belugacdn.link/a/hls1/megapix.m3u8?expires=1598808596&token=9e039d1dbca48a5ff2f6eab0fdc6c55a
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png" group-title="FILMES",Tv Carioca net
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w873806451.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="FILMES", TV J.Side Filmes 24horas
-https://stmv3.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=415836703
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3ge0TRG4CcU/XRkKMV3Kd_I/AAAAAAAABP0/0iOri3AC3wUU_xeZLpDwsBlgDIiE_2zwgCPcBGAYYCw/s320/Screenshot_2019-06-30-16-12-22.png" group-title="FILMES", Tv Japi
-https://5d2c98775bafe.streamlock.net/8220/8220/chunklist_w1354007540.m3u8
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-dJWTibPZ1EE/XRkWoQqgi7I/AAAAAAAABQs/HZXMImajW9IMnwEXl5w7QJZgW3x9S0QkQCPcBGAYYCw/s320/Screenshot_2019-06-30-16-59-20.png" group-title="FILMES", Tv Guarany (CE)
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1485745044
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FILMES", Classique TV
-https://stmv1.ifantasy.com.br/classique/classique/playlist.m3u8?wowzasessionid=1687832457
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2LYbTyB-jKQ/XRF-sPN8agI/AAAAAAAABOI/N9gBA0Bu-n4GnbIuhhacXPxS9i_v_t5NgCPcBGAYYCw/s320/Screenshot_2019-06-24-16-24-47.png" group-title="FILMES", Tv Capital777
-https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist_w212704106.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YZzjxuSIsAc/XXxQhEfqNuI/AAAAAAAAB0Y/17hPLzf4WfcEHi0S1pslnYD3hjeXYd8hwCLcBGAsYHQ/s320/Screenshot_2019-09-13-23-27-15.png" group-title="FILMES", TV Destak
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1071480912.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9nmwxB94-9U/XZuMpvQX8RI/AAAAAAAACFg/QjkhB-OgkucRmHoxf78YaixlaCI4jjcVQCLcBGAsYHQ/s320/Screenshot_2019-10-07-16-04-13.png" group-title="FILMES", TV que Demais
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6ujEifqHhEM/XZuH3UPYiXI/AAAAAAAACFI/iwd_y-_n9MMrVvGDORBh4Lh2EugsC0WVwCLcBGAsYHQ/s320/2019-10-07%2B15.43.32.png" group-title="FILMES", Tv Jampa Jovens
-https://stmv6.srvstm.com/anderson2491/anderson2491/chunklist.m3u8?wowzasessionid=277540701
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rai.png" group-title="FILMES", RAI Movie (Itália)
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
 
@@ -693,6 +674,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
