@@ -208,7 +208,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="JORNALISMO",BAND NEWS - TEMPORÁRIO
-https://streaming.belugacdn.link/a/hls1/bandnews.m3u8?expires=1598778420&token=86e63c7700017da6452578ec45289c16
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w638081406.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="JORNALISMO",CNN BRASIL FHD - TEMPORÁRIO
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
@@ -668,6 +668,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
