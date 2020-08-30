@@ -21,7 +21,8 @@ http://127.0.0.3
 
 
 
-==TVA.BERTA===================================================================================================================================================
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | ABERTOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO SP
@@ -145,8 +146,8 @@ http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 
 
 
-==PÚBLICA==============================================================================================================================================
-
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | PUBLICO",[COLOR green]||||||| PÚBLICA |||||||[/COLOR]
 
 
 
@@ -200,7 +201,8 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
 
-==JORNALISMO============================================================================================================================================
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | JORNAIS",[COLOR green]||||||| JORNALISMO |||||||[/COLOR]
 
 
 
@@ -224,7 +226,8 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3
 
 
 
-==VARIEDADES==============================================================================================================================
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | VARIEDADES",[COLOR green]||||||| VARIEDADES |||||||[/COLOR]
 
 
 
@@ -276,7 +279,8 @@ http://live.impresa.pt/live/sic/sic.m3u8
 
 
 
-==MÚSICA===========================================================================================================================
+##############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | MÚSICAS",[COLOR green]||||||| MÚSICA |||||||[/COLOR]
 
 
 
@@ -341,7 +345,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 
-==WEBTV===================================================================================================================================================
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | WEBTV",[COLOR green]||||||| WEBTV |||||||[/COLOR]
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mancheteweb.png" group-title="WebTV",TV Manchete - WebTV
@@ -378,7 +384,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/ch
 
 
 
-==RELIGIOSOS===================================================================================================================================
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | RELIGIOSOS",[COLOR green]||||||| RELIGIOSO |||||||[/COLOR]
 
 
 
@@ -422,7 +429,8 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 
 
-==FILMES================================================================================================================================================
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | FILMES",[COLOR green]||||||| FILMES |||||||[/COLOR]
 
 
 
@@ -468,7 +476,8 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
 
-==RÁDIOS=======================================================================================================================================
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | RÁDIOS",[COLOR green]||||||| RÁDIOS |||||||[/COLOR]
 
 
 
@@ -490,8 +499,8 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
 
 
-==INFANTIS=========================================================================================================================================
-
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | INFANTIS",[COLOR green]||||||| INFANTIL |||||||[/COLOR]
 
 
 
@@ -546,8 +555,8 @@ https://streaming.belugacdn.link/a/hls1/tooncast.m3u8?expires=1598763646&token=8
 
 
 
-==ESPORTES================================================================================================================================
-
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | ESPORTES",[COLOR green]||||||| ESPORTE |||||||[/COLOR]
 
 
 
@@ -607,8 +616,8 @@ http://lindaflor.net:8080/live/f123456/f123456/42.m3u8
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
  
 
-==FUTEBOL===============================================================================================================================
-
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="FUTEBOL AO VIVO",[COLOR green]||||||| FUTEBOL |||||||[/COLOR]
 
 
 
@@ -640,8 +649,8 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
 
 
-
-==MUNDO=================================================================================================================================================
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | MUNDO",[COLOR green]||||||| MUNDO |||||||[/COLOR]
 
 
 
@@ -684,6 +693,8 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
+
 
 
 
