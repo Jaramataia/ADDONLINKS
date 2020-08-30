@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 29.08.2020 AS 13:46
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 29.08.2020 AS 22:27
 http://127.0.0.2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",Sua Nova Forma De Ver TV!
@@ -30,8 +30,8 @@ http://195.181.163.183:2200/PY-N/Globo_HD_SP-br/index.m3u8?token=RED_UudWnQS2T4T
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
 http://195.181.163.183:2200/PY-N/Globo_HD_RJ-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://assets.blogdobg.com.br/uploads/2019/12/srehshsh.jpg" group-title="Tv ABERTA", INTERTV CABUGI
-http://list.deeplist.nl:80/testeweb/abril80dias23/52685
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO NORDESTE
+https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1598778823&token=7994161cd437bab53700fded4ea03420
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (PA)
 https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
@@ -206,16 +206,16 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="JORNALISMO",BAND NEWS - TEMPORÁRIO
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69464
+https://streaming.belugacdn.link/a/hls1/bandnews.m3u8?expires=1598778420&token=86e63c7700017da6452578ec45289c16
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="JORNALISMO",CNN BRASIL FHD - TEMPORÁRIO
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 #EXTINF:-1 tvg-logo="http://s.glbimg.com/jo/g1/f/original/2010/10/14/globonewslogo.jpg" group-title="JORNALISMO",Globo News - TEMPORÁRIO
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69467
+https://streaming.belugacdn.link/a/hls1/globonews.m3u8?expires=1598778250&token=f284525a459292ebb37e6b7a4019d20d
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recnews.png" group-title="JORNALISMO",Record News
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69468
+https://streaming.belugacdn.link/a/hls1/recordnews.m3u8?expires=1598778593&token=a72756874734db4b285380940c058e5d
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/logotipo_tv_guarc3a1.png" group-title="JORNALISMO",Record News - TV Guará (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
@@ -515,31 +515,31 @@ http://animeloving.net/hls/stream.m3u8
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69483
 
 #EXTINF:-1 tvg-ID="Boomerang" tvg-logo="https://i.imgur.com/ExQtCbB.jpg" group-title="INFANTIL", Boomerang
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69485
+https://streaming.belugacdn.link/a/hls1/boomerang.m3u8?expires=1598776684&token=1d817a808bf1f8276c5d7ab81b8c91f8
 
 #EXTINF:-1 tvg-ID="Cartoon Network" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="INFANTIL", Cartoon Network
 https://streaming.belugacdn.link/a/hls1/cartoon.m3u8?expires=1598763515&token=fc8c20fbe3db1f3e0894741fca055e4a
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="INFANTIL", Disney Channel
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69494
+https://streaming.belugacdn.link/a/hls1/disney.m3u8?expires=1598776813&token=93d7e9f902b76b57274237d709a29d2f
 
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_Pq_0fS1jU5C5eQQWEWm2ZOiDQnnAOPbxN7bl7Nf2V3PL_35x" group-title="INFANTIL", Discovery Kids
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/49.m3u8
 
 #EXTINF:-1 tvg-ID="Disney Junior" tvg-logo="https://i.imgur.com/gUUnrE2.jpg" group-title="INFANTIL", Disney JR
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69497
+http://mixsrv.me:80/BYd5d7https://streaming.belugacdn.link/a/hls1/disneyjunior.m3u8?expires=1598777186&token=8f40f0749271c92b13867153865499e5
 
 #EXTINF:-1 tvg-ID="Disney XD" tvg-logo="https://i.imgur.com/CS1imJ2.jpg" group-title="INFANTIL", Disney XD
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69500
+http://mixsrv.me:80/BYd5d7https://streaming.belugacdn.link/a/hls1/disneyxd.m3u8?expires=1598777362&token=90fbe2e75c00db10d435cbc0726c59c4
 
 #EXTINF:-1 tvg-ID="Gloob" tvg-logo="https://i.imgur.com/Q6jFJsf.jpg" group-title="INFANTIL", Gloob
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69503
+http://mixsrv.me:80/BYd5d7https://streaming.belugacdn.link/a/hls1/gloob.m3u8?expires=1598777545&token=24249966470359a57fb387827bc0427c
 
 #EXTINF:-1 tvg-ID="Nick Jr." tvg-logo="https://i.imgur.com/WBUAv5q.jpg" group-title="INFANTIL", Nick JR
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69509
 
 #EXTINF:-1 tvg-ID="Nickelodeon" tvg-logo="https://i.imgur.com/bhvxLAM.png" group-title="INFANTIL", Nickelodeon
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69512
+https://streaming.belugacdn.link/a/hls1/nick.m3u8?expires=1598777981&token=c803b6322e598b1c7484c7c5fac6ead3
 
 #EXTINF:-1 tvg-ID="Tooncast" tvg-logo="https://i.imgur.com/grRAhl7.jpg" group-title="INFANTIL", Tooncast
 https://streaming.belugacdn.link/a/hls1/tooncast.m3u8?expires=1598763646&token=8f18a559613d3a5db9785f22b9b04d0f
@@ -578,11 +578,15 @@ http://198.255.23.18:2095/streams/74_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="ESPORTE", ESPN
 https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1598762767&token=c9a4a677a6ee58ab1def180690ad4947
 
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/17/c5/01/17c501cfca8dede07e062578a328e780.png" group-title="ESPORTE", ESPN 2
+https://streaming.belugacdn.link/a/hls1/espn2.m3u8?expires=1598779300&token=3d3ebf82cccc2c277d282bffaf9e09be
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xk5zezL.png" group-title="ESPORTE",ESPN EXTRA
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/249
+https://streaming.belugacdn.link/a/hls1/espnextra.m3u8?expires=1598779615&token=ad8578da66e2372c5e8f78ca18efbc89
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="ESPORTE", ESPN BRASIL
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/239
+https://streaming.belugacdn.link/a/hls1/espnbrasil.m3u8?expires=1598779151&token=713f519dc480ab5c202c2a48679401a9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="ESPORTE", ESPN BRASIL
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
@@ -680,7 +684,6 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
-
 
 
 
