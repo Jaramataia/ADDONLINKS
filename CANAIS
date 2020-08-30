@@ -542,16 +542,10 @@ https://streaming.belugacdn.link/a/hls1/tooncast.m3u8?expires=1598763646&token=8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="ESPORTE",BAND SPORTS
-https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1598763015&token=b7960db43851ba935e27674580f201ff
+https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1598830769&token=9060f5f2fdc7cf94fca96fe234d84c6d
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
-https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1598760673&token=4f699b8186e043f1ab317387b9e4fe03
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
-https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_4cecf516c65ae0fa1d4fe32e89b332a1587a16d9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE HD
-http://lindaflor.net:8080/live/f123456/f123456/315.m3u8
+https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1598830406&token=7019c7af73ccb0e29ea84e17116d44e3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mN4AV04.jpg" group-title="ESPORTE",DAZN 1
 http://mixsrv.me:80/BYd5d7ztaN/multi@user/69754
@@ -566,7 +560,7 @@ https://streaming.belugacdn.link/a/hls1/sportv2.m3u8?expires=1598759961&token=f1
 http://198.255.23.18:2095/streams/74_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="ESPORTE", ESPN
-https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1598762767&token=c9a4a677a6ee58ab1def180690ad4947
+https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1598831435&token=9789eb1a204daf4de59d9bfb44bcda24
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/17/c5/01/17c501cfca8dede07e062578a328e780.png" group-title="ESPORTE", ESPN 2
@@ -674,6 +668,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
