@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 29.08.2020 AS 22:27
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 06.09.2020 AS 17:07
 http://127.0.0.2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",Sua Nova Forma De Ver TV!
@@ -26,13 +26,13 @@ http://127.0.0.3
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO SP
-http://195.181.163.183:2200/PY-N/Globo_HD_SP-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
+https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1599446957&token=3257e52e9bae229d75875733ff5c7a39
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
 http://195.181.163.183:2200/PY-N/Globo_HD_RJ-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO NORDESTE
-https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1598778823&token=7994161cd437bab53700fded4ea03420
+https://streaming.belugacdn.link/hls1/bobonordeste.m3u8?expires=1599449731&token=85c8612d48d6929fa31f9e3b6e9a542c
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (PA)
 https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
@@ -94,9 +94,8 @@ https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Tv ABERTA", RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv ABERTA", RedeTV! (SP)
-http://mytvip.xyz:80/cesar1/cesar1/76790
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Tv ABERTA", TV Pampa - RedeTV! RS
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
@@ -208,7 +207,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="JORNALISMO",BAND NEWS - TEMPORÁRIO
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w638081406.m3u8
+https://streaming.belugacdn.link/hls1/bandnews.m3u8?expires=1599450001&token=8f72895eadca5ca47fbef978270a53ce
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="JORNALISMO",CNN BRASIL FHD - TEMPORÁRIO
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
@@ -541,55 +540,12 @@ https://streaming.belugacdn.link/a/hls1/tooncast.m3u8?expires=1598763646&token=8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="ESPORTE",BAND SPORTS
-https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1598830769&token=9060f5f2fdc7cf94fca96fe234d84c6d
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE
-https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1598830406&token=7019c7af73ccb0e29ea84e17116d44e3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE HD
+http://ts.ec.cx:8080/a/hls1/combate.m3u8?expires=1582608838&token=38146b9f103e1a6889672fd536fa96a5
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4AV04.jpg" group-title="ESPORTE",DAZN 1
-http://mixsrv.me:80/BYd5d7ztaN/multi@user/69754
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="ESPORTE", SPORTE TV
-https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1598759520&token=9833c16de2db4dd3298bb1b03df614d3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="ESPORTE", SPORTE TV 2
-https://streaming.belugacdn.link/a/hls1/sportv2.m3u8?expires=1598759961&token=f1209cf6584c4657af739aef4d611c22
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="ESPORTE", SPORTE TV 3
-http://198.255.23.18:2095/streams/74_.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eV02M43.png" group-title="ESPORTE", ESPN
-https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1598831435&token=9789eb1a204daf4de59d9bfb44bcda24
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/17/c5/01/17c501cfca8dede07e062578a328e780.png" group-title="ESPORTE", ESPN 2
-https://streaming.belugacdn.link/a/hls1/espn2.m3u8?expires=1598779300&token=3d3ebf82cccc2c277d282bffaf9e09be
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xk5zezL.png" group-title="ESPORTE",ESPN EXTRA
-https://streaming.belugacdn.link/a/hls1/espnextra.m3u8?expires=1598779615&token=ad8578da66e2372c5e8f78ca18efbc89
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="ESPORTE", ESPN BRASIL
-https://streaming.belugacdn.link/a/hls1/espnbrasil.m3u8?expires=1598779151&token=713f519dc480ab5c202c2a48679401a9
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="ESPORTE", ESPN BRASIL
-http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="ESPORTE", FOX SPORT 1
-https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1598763159&token=4d75aa90234571d3ea3f45017cee2984
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="ESPORTE", FOX SPORT 2
-https://streaming.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1598763311&token=d928ac61abf9eb8755ec95ff4b48f26e
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="ESPORTE", DISCOVERY TURBO
-https://streaming.belugacdn.link/a/hls1/discoveryturbo.m3u8?expires=1598761244&token=a4597bbb3c17614abbdec997c4dcd1e6
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="ESPORTE", DISCOVERY TURBO
-http://lindaflor.net:8080/live/f123456/f123456/42.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt3qnarKMEsOpjTxW2BXVxut7Jhz5mWhn7KnG0wjJjhlj0poz5" group-title="ESPORTE", ALL SPORTS
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w349636579.m3u8
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE HD
+https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1599447330&token=5439a14f396f09156a11772f4fd03dfa
 
 ###############################################################  ###########################################################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="FUTEBOL AO VIVO",[COLOR green]||||||| FUTEBOL |||||||[/COLOR]
@@ -668,6 +624,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
