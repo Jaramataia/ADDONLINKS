@@ -25,8 +25,7 @@ http://127.0.0.3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | ABERTOS",[COLOR green]||||||| TV ABERTA |||||||[/COLOR]
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO SP
-https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1599446957&token=3257e52e9bae229d75875733ff5c7a39
+
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
 http://195.181.163.183:2200/PY-N/Globo_HD_RJ-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
@@ -544,8 +543,7 @@ https://streaming.belugacdn.link/a/hls1/tooncast.m3u8?expires=1598763646&token=8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE HD
 http://ts.ec.cx:8080/a/hls1/combate.m3u8?expires=1582608838&token=38146b9f103e1a6889672fd536fa96a5
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE HD
-https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1599447330&token=5439a14f396f09156a11772f4fd03dfa
+
 
 
 ###############################################################  ###########################################################################
@@ -592,6 +590,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
