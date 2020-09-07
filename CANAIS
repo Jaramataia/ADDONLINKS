@@ -547,38 +547,6 @@ http://ts.ec.cx:8080/a/hls1/combate.m3u8?expires=1582608838&token=38146b9f103e1a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="ESPORTE", COMBATE HD
 https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1599447330&token=5439a14f396f09156a11772f4fd03dfa
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="FUTEBOL AO VIVO",[COLOR green]||||||| FUTEBOL |||||||[/COLOR]
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZn11E5.png" group-title="FUTEBOL AO VIVO", PREMIERE CLUBEs 
-https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1598762571&token=08b3f3c45b77652d3183ce9719089028
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 2
-https://streaming.belugacdn.link/a/hls1/premiere2.m3u8?expires=1598760902&token=5113ce62ae51c9fab9358a69a0b8fd2c
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 3
-https://streaming.belugacdn.link/a/hls1/premiere3.m3u8?expires=1598760256&token=3e0ffff37e265b7fbdce33d643183886
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 4
-https://mercedes-brazil.azureedge.net/hls1/premiere4-29821.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 5
-https://streaming.belugacdn.link/a/hls1/premiere5.m3u8?expires=1598761744&token=195126ab1c83ca40d9153f9fa2cf7faf
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 6
-https://streaming.belugacdn.link/a/hls1/premiere6.m3u8?expires=1598762052&token=9286874d666785112f7eae8af0dd8da7
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 7
-https://streaming.belugacdn.link/a/hls1/premiere7.m3u8?expires=1598762281&token=1d9823fa41c34d6a319608b934031302
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 8
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/197.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlBBoDN.png" group-title="FUTEBOL AO VIVO", PREMIERE 9
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
-
 
 ###############################################################  ###########################################################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | MUNDO",[COLOR green]||||||| MUNDO |||||||[/COLOR]
@@ -624,6 +592,8 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
+
 
 
 
