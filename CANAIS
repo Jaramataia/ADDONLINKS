@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 06.09.2020 AS 17:07
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 19.09.2020 AS 16:07
 http://127.0.0.2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",Sua Nova Forma De Ver TV!
@@ -31,7 +31,7 @@ http://127.0.0.3
 http://195.181.163.183:2200/PY-N/Globo_HD_RJ-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO NORDESTE
-https://streaming.belugacdn.link/hls1/bobonordeste.m3u8?expires=1599449731&token=85c8612d48d6929fa31f9e3b6e9a542c
+https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1600572631&token=64e731767df0caf2e31f55baf28a7b7c
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (PA)
 https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
