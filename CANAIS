@@ -23,6 +23,9 @@ http://127.0.0.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IRTjHG3.png" group-title="REALITY",A Fazenda 12
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IRTjHG3.png" group-title="REALITY",A Fazenda 12
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IRTjHG3.png" group-title="REALITY",A Fazenda 12 HD
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_720.m3u8
 
@@ -38,10 +41,13 @@ https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1600580684&token=dba
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TABERTA",GLOBO RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO NORDESTE
 https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1600572631&token=64e731767df0caf2e31f55baf28a7b7c
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", Globo MG
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO MG
 http://189.91.128.150:5555/udp/227.10.20.109:1234
 
 
