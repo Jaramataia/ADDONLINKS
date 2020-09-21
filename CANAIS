@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 19.09.2020 AS 16:07
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 21.09.2020 AS 07:40
 http://127.0.0.2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",Sua Nova Forma De Ver TV!
@@ -17,8 +17,14 @@ http://127.0.0.2
 http://127.0.0.3
 
 
+###############################################################  ###########################################################################
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | REALITY",[COLOR green]||||||| REALITY |||||||[/COLOR]
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IRTjHG3.png" group-title="REALITY",A Fazenda 12
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IRTjHG3.png" group-title="REALITY",A Fazenda 12 HD
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_720.m3u8
 
 
 ###############################################################  ###########################################################################
@@ -26,36 +32,33 @@ http://127.0.0.3
 
 
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO SP
+https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1600580684&token=dba37a55cb3cb88e0f0cd056004f99f1
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO RJ
-http://195.181.163.183:2200/PY-N/Globo_HD_RJ-br/index.m3u8?token=wUpDit8ZL9OVHzZJ7B56Nw==,1586387052.1679989495
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO NORDESTE
 https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1600572631&token=64e731767df0caf2e31f55baf28a7b7c
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (PA)
-https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", Globo MG
+http://189.91.128.150:5555/udp/227.10.20.109:1234
+
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1431167_sleng.m3u8
+https://streaming.belugacdn.link/a/hls1/band.m3u8?expires=1598900342&token=59da049997cb4e8ef4ac85161c40ebf0
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band (GO)
-http://mytvip.xyz:80/cesar1/cesar1/63393
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Tv ABERTA",SBT Interior SP
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv ABERTA", SBT - TV Cidade Verde - (PI)
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Tv ABERTA",SBT 
+https://streaming.belugacdn.link/a/hls1/sbt.m3u8?expires=1598900662&token=c2d7e40657c4847ae6823b5f79702964
  
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv ABERTA",SBT - TV Difusora (MA)
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/b/b6/Tvdiario.jpg/revision/latest?cb=20171224201055&path-prefix=pt-br" group-title="Tv ABERTA",TV Diario
 https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfccUv7UA7RKJ1IjF1CmuXI)/dm/3/x7txn7q/s/live-2.m3u8
  
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Tv ABERTA", SBT - TV Serra Dourada - (GO)
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv ABERTA", RecordTV 
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
@@ -63,11 +66,15 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv ABERTA", RecordTV Brasilia
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3BvcF0F.png" group-title="Tv ABERTA",TV Assu - RN   
+https://sam.bitstreaming.info:1936/8106/8106/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv ABERTA", RecordTV Natal (RN)
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvvitoria.png" group-title="Tv ABERTA",TV Vitória - RecordTV (ES)
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Rio de Janeiro
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
@@ -79,7 +86,7 @@ https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Distrito Federal
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Belo Horizonte
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
@@ -91,16 +98,19 @@ https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Goiás
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Tv ABERTA", RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Tv ABERTA", RedeTV! ES
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/redetv.png" group-title="Tv ABERTA", RedeTV! (SP)
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-b.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Tv ABERTA", TV Pampa - RedeTV! RS
-https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/arapuam.png" group-title="Tv ABERTA", TV Arapuan HD (PB)
 https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/playlist.m3u8?DVR
@@ -117,8 +127,11 @@ http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/tcm.jpg" group-title="Tv ABERTA", TCM Mossoro
 http://live.tcm10.com.br/tcm10.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvbnwtdg/tv-Natal.png" group-title="Tv ABERTA", TV Natal
-https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1583508114
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cBhdDHm.png" group-title="Tv ABERTA",Sidy's TV
+rtmp://177.105.176.17/live/canal4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VY9ngqZ.png" group-title="Tv ABERTA",TV Grande Natal
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCIPD5NHmIrvUnijVKw18xq9saz1HgKERE9NQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Tv ABERTA", TV Kurtição - Caico/RN
 https://livefocamundo.com:8081/8202/tracks-v1a1/mono.m3u8
@@ -593,6 +606,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
