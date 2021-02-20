@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 21.09.2020 AS 07:40
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 20.02.2021 
 http://127.0.0.2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",Sua Nova Forma De Ver TV!
@@ -41,8 +41,8 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TABERTA",GLOBO RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO NORDESTE
-https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1600572631&token=64e731767df0caf2e31f55baf28a7b7c
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO BA
+http://177.20.208.58:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO MG
 http://189.91.128.150:5555/udp/227.10.20.109:1234
@@ -60,7 +60,7 @@ http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/b/b6/Tvdiario.jpg/revision/latest?cb=20171224201055&path-prefix=pt-br" group-title="Tv ABERTA",TV Diario
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfccUv7UA7RKJ1IjF1CmuXI)/dm/3/x7txn7q/s/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZp0kdpTOFKJyn6JxF2DFNY)/dm/3/x7txn7q/s/live-3.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv ABERTA", RecordTV 
@@ -74,10 +74,6 @@ https://sam.bitstreaming.info:1936/8106/8106/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Tv ABERTA", RecordTV Natal (RN)
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/tvvitoria.png" group-title="Tv ABERTA",TV Vitória - RecordTV (ES)
-
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Tv ABERTA", RecordTV Rio de Janeiro
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
@@ -128,10 +124,11 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/tcm.jpg" group-title="Tv ABERTA", TCM Mossoro
-http://live.tcm10.com.br/tcm10.m3u8
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cBhdDHm.png" group-title="Tv ABERTA",Sidy's TV
-rtmp://177.105.176.17/live/canal4
+http://streaming.sidys.com.br/canal4stream/canal4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VY9ngqZ.png" group-title="Tv ABERTA",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
