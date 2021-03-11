@@ -9,21 +9,15 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0yHmhJC/links.jpg" group-title="** INFORMAÇÕES **",AGREGADOR DE LINKS
 http://127.0.0.1
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 20.02.2021 
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 11.03.2021 
 http://127.0.0.2 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **",Sua Nova Forma De Ver TV!
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9ngCzws/images.jpg" group-title="** INFORMAÇÕES **", Sua Nova Forma De Ver TV!
 
 http://127.0.0.3
 
 
-###############################################################  ###########################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | REALITY",[COLOR green]||||||| REALITY |||||||[/COLOR]
 
-#EXTINF:0 tvg-id="BBB21" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="REALITY",BBB 1
-
-
-#EXTINF:0 tvg-id="BBB21" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="REALITY",BBB 1 HD
 
 
 
@@ -43,10 +37,6 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO BA
 http://177.20.208.58:8000/play/a03t/index.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="Tv ABERTA", GLOBO MG
-http://189.91.128.150:5555/udp/227.10.20.109:1234
-
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="Tv ABERTA",Band
 https://streaming.belugacdn.link/a/hls1/band.m3u8?expires=1598900342&token=59da049997cb4e8ef4ac85161c40ebf0
@@ -606,6 +596,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJQnTLhGBaLAf71jxaTevlVBLrbBtSRKzMOQcOge_CEpxNSAVP" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
