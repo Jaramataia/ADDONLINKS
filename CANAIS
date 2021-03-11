@@ -21,10 +21,10 @@ http://127.0.0.3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxypvZCZ/icon-png.png" group-title="CANAIS | REALITY",[COLOR green]||||||| REALITY |||||||[/COLOR]
 
 #EXTINF:0 tvg-id="BBB21" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="REALITY",BBB 1
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21hd_10d293a9_5c0845b2af43b8076c1eb2f0867e2ad2b511b834/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyMTljOjEwNjoxNjAwOjgwZjM6OTFkZToyNDk6ODYyZiI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTM4NDYzODM7fQ%3D%3D
+
 
 #EXTINF:0 tvg-id="BBB21" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="REALITY",BBB 1 HD
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bbb21_c1dfd96e_04e6860ee940e5cd9ea04e9ee1b2dcb3899aa045/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyMTljOjEwNjoxNjAwOjgwZjM6OTFkZToyNDk6ODYyZiI7aToxO3M6MTAyOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTgyIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTM4NDU2Mzk7fQ%3D%3D
+
 
 
 ###############################################################  ###########################################################################
