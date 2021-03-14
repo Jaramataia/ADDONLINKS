@@ -48,7 +48,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/band_49e3d046_1e8d8c3ebcb
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="Tv ABERTA",TV Diario
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZp0kdpTOFKJyn6JxF2DFNY)/dm/3/x7txn7q/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZf-0hDiKpyySCGVGIjZDcyM)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="Tv ABERTA", RecordTV 
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-p.m3u8
@@ -419,6 +419,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
