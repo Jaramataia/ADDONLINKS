@@ -248,7 +248,7 @@ http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="RELIGIOSO",Canção Nova
-https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_432_av-p.m3u8?sd=10&rebase=on
+https://youtu.be/hts0EkcUlr8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="RELIGIOSO", Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
@@ -419,6 +419,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
