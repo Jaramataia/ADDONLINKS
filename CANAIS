@@ -248,7 +248,7 @@ http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="RELIGIOSO",Canção Nova
-https://youtu.be/hts0EkcUlr8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="RELIGIOSO", Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
