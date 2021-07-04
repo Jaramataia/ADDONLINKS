@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atuali3do: 19/03/2021
+#EXTINF:0 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atuali3do: 04.07.2021
 http://0.0.0.0
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",EPG: http://bit.ly/wepgbrasil
@@ -8,13 +8,23 @@ http://0.0.0.0
 
 #EXTM3U
 
-################################################################################# Reality Show
+################################################################################# TV Aberta 
 
-#EXTINF:-1 tvg-id="BBB21" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="Reality Show",BBB 1
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/playlist.m3u8
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO 
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globosp_cfe21c68_ab5ec9cf3bf6e5273458913fa73280ea0f1d054d/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjIwMiI7aToxO3M6MTE1OiJNb3ppbGxhLzUuMCAoV2
 
-#EXTINF:-1 tvg-id="BBB21" tvg-logo="https://i.imgur.com/K1zoxQ5.png" group-title="Reality Show",BBB 1 HD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://logospng.org/wp-content/uploads/sbt.png",SBT
+https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w2130458396.m3u8
+
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2016/07/record-muda-programa%C3%A7%C3%A3o.jpg", Record
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png",TV Arapuan - RedeTV!
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
 
 ################################################################################# TV Aberta
 
