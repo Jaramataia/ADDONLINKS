@@ -11,7 +11,7 @@ http://0.0.0.0
 ################################################################################# TV Aberta 
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO 
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globosp_cfe21c68_ab5ec9cf3bf6e5273458913fa73280ea0f1d054d/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjIwMiI7aToxO3M6MTE1OiJNb3ppbGxhLzUuMCAoV2
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://logospng.org/wp-content/uploads/sbt.png",SBT
