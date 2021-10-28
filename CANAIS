@@ -150,8 +150,8 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8
 
 ==VARIEDADES==============================================================================================================================
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/KPEiWz4Dyl1P28nrfoWVjrW65v87MxvoxmExI3Sn8Zgl1mwQKSZHMIVyMIuLKbmnp5vShw=s135" group-title="VARIEDADES",Canal Ricos
+https://5d2c98775bafe.streamlock.net:443/8090/8090/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="VARIEDADES", TV Jornal - Limeira SP
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
@@ -411,6 +411,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="TV MUNDO", rtve 24 HORAS (ESPANHA)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+
 
 
 
