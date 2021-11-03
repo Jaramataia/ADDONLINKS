@@ -21,7 +21,7 @@ http://127.0.0.2
 https://5d2c98775bafe.streamlock.net:443/8090/8090/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="Tv ABERTA", GLOBO RJ
-
+http://pe1b.distv.net:8080/viaweb2/viaweb2/231
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="Tv ABERTA", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1059460990.m3u8
@@ -2641,6 +2641,7 @@ http://sv1.casaplayer.com.br:8080/movie/879548/364338/59414.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wu Kong Contra a Ira dos Deuses" tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/06/15/19871623.jpg" group-title="FILMES ( LANCAMENTOS )",Wu Kong Contra a Ira dos Deuses
 http://sv1.casaplayer.com.br:8080/movie/879548/364338/59415.mp4
 #EXTINF:-1 tvg-id="" tvg-name="última Chance" tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/06/15/19871623.jpg" group-title="FILMES ( LANCAMENTOS )",última Chance
+
 
 
 
