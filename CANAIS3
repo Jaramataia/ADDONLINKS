@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 30.10.2021 
+http://127.0.0.2 
+
+
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E
 http://pe1b.distv.net:8080/viaweb2/viaweb2/113
 #EXTINF:-1 tvg-id="5b3a70ffeb87b96ad3a5f84b0ca12cc5" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
