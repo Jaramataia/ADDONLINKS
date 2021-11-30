@@ -411,44 +411,189 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?
 
 ==EDUCAÇÃO==========================================================
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO", 30 Curiosidade sobre o RN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 29/11/2021
+http://0.0.0.0
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="FILMES",Filmes e Séries, COMPLETO
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChSYOPGr5FIXILaWzG1SkDvWGT_UwRAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dMQRReVkEDE1AWPTs1HTwiZAxcA3JSIAwZQiI8QQYPCQZMIxIdbhNQHhdtFE19Aw&response-content-disposition=attachment;%20filename=%22FILME%20RIO%2C%20COMPLETO%20DUBLADO%202020.mp4%22&ngsw-bypass=1
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO", 30 Curiosidade sobre o RN
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQUG2hPuLk-NjFdcXUhDsC_sKa9lRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639355928&Signature=1vnklkpitu8qcSHXAKx4PUMcqo8%3D&ngsw-bypass=1
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO", HISTÓRIA DO BRASIL- PROCLAMAÇÃO DA REPUBLICA 
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO", HISTÓRIA DO BRASIL- PROCLAMAÇÃO DA REPUBLICA 
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChT0d-U-k2YHQfHkjpocHqiO6RS7xBAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639355928&Signature=vsGOLg0gTcGNM9EI5jPu6GbYwZU%3D&ngsw-bypass=1
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO", GUERRA DO PARAGUAI
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO", GUERRA DO PARAGUAI
 https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChRHh5svdh4QRubitvpl1ike_QAnHhAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dLQBFeUUEDE1AWPTs1HTwiZF5FGUhcVRouV10YOwVmXUdmBQcrTCdVG2s4BzgBLRBNABY&response-content-disposition=attachment;%20filename=%22A%20Guerra%20do%20Paraguai_3.mp4%22&ngsw-bypass=1
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO",CLIMOGRAMA 
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO",CLIMOGRAMA 
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSNEmkc9YqE-Mad90yuNcqqMQMJNBAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639355928&Signature=r9%2BzChM%2BhfO0QIfdv%2FRJ9sjOO4I%3D&ngsw-bypass=1
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO",ESCRAVIDÃO NO BRASIL
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO",ESCRAVIDÃO NO BRASIL
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChRMS1HbloowMVVRSvc61v7-oeT7CxAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639355928&Signature=EAALOxCXiKgiQuTzH6aiCiydkRI%3D&ngsw-bypass=1
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO",PROBLEMAS AMBIENTAIS
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO",PROBLEMAS AMBIENTAIS
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChRy1S9ll2QA0b7w8RZ_B3JeTBU-LhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639355928&Signature=I6K2WONK%2FjYt3llYCdf4IHNFOQU%3D&ngsw-bypass=1
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO",COMO ACONTECEU A ESCRAVIDÃO NO BRASIL
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO",COMO ACONTECEU A ESCRAVIDÃO NO BRASIL
 https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChQZer12lP_uvjkC3hNEYKSjp3Qb8xAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dLQBFeUUEDE1AWPTs1HTwiZCNEARxWJxtZNEpsNyxsLhhtNiALAHJ_AwsKAgwqBCElA3cKIA&response-content-disposition=attachment;%20filename=%22Como%20aconteceu%20a%20escravid%C3%A3o%20no%20Brasil-%20Hist%C3%B3ria%20at%C3%A9%20a%20aboli%C3%A7%C3%A3o%20-%20Toda%20Mat%C3%A9ria.mp4%22&ngsw-bypass=1
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO",GLOBALIZAÇÃO
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO",GLOBALIZAÇÃO
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChTFkFQxf1HZhE9TsB-s_UEtNsvmihAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639355928&Signature=%2FX26oemglpC7ZQD0NVSv8aLLNZk%3D&ngsw-bypass=1
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO",FLUXOS E REDES GEOGRÁFICAS
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO",FLUXOS E REDES GEOGRÁFICAS
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSK3L9bi9RjD7uppMHZjyMQHguaeBAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639355928&Signature=0ZTYeiOIapowhc0jk%2FDB2rcVHp4%3D&ngsw-bypass=1
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO",GLOBALIZAÇÃO E SEUS FLUXOS
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO",GLOBALIZAÇÃO E SEUS FLUXOS
 https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChTv1row6jUvw9as_w43XWQLdBwy_xAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639355928&Signature=Uz65BBhjEQtH3l4BVvx%2BFGHpaa8%3D&ngsw-bypass=1
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO" O CONFUCIONISMO 
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQK12bGw9ffBOwFkOiuR_-oGk_kExAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639361676&Signature=2QmX1Rty%2BVaEIRlYPRo%2BABEaGwk%3D&ngsw-bypass=1
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" COMO FUNCIONA A ECONOMIA
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChS6L9DBkd7GIB_hvdn2glBk2tVufxAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639361676&Signature=55BdT1Gc8EQBSM%2FpIlBU42x6NXU%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" TEMPO E CLIMA - ANIMAÇÃO
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQJVfDZIuyx1cxPPO0dFTPTQhTAkRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639361676&Signature=1mt7vp5c7uGUjn%2BbNY2hQtjgeEI%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO" COMO FICOU A VIDA DOS ESCRAVOS APÓS A LEI ÁUREA
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSF67Ia0qYqdXkwe8VeJYyp-NBTVhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639361676&Signature=WHxNXxiixepc0j%2BUrvf%2FPVPnUwM%3D&ngsw-bypass=1
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO" ABOLICIONISMO E FIM DA ESCRAVIDÃO
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSHafSijoztVU1n1IZsuH62cRBmRxAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639445623&Signature=yVm8X5BUddblPyrKrlcS2FwL6z0%3D&ngsw-bypass=1
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" O QUE É BIOMA
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChTnY7OsyszvqZTSg2YFJe5SJ_5fVRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639361676&Signature=Nr6EXiFewI1PRZc%2FJso9QOCzFJU%3D&ngsw-bypass=1
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" HIDROGRAFIA
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChRIZ16BbqkFiP7HPjx48DCuwK1OwxAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440019&Signature=x3tMMlzMZqtABztNx0ptkIc4crU%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" MUDANÇAS CLIMATICAS - JOVEN PAN
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChRjZzY82Wz-H3tnvE4gmGiaK5Zr0xAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440116&Signature=dR91%2BAZX2nlchnNGW2aIx%2FhRMLU%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" A DIFERENÇA ENTRE CLIMA E TEMPO
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChT7LB0jTDcXOfjpf0FEDso2g1pC5xAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440323&Signature=mq2uizdSk%2FGUpzhxBcktMo3JnBo%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" A NOVA ORDEM INTERNACIONAL 
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQYGZ71aHk3hTDxZ0taNBK7KNWbuRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440388&Signature=1iQRMS%2F7W%2Bv%2FjByZtlkAIf4CmYE%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" O CLIMA PARA CRIANÇAS
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQb1DAnwJYEE55xBGc-s7XR7KTEDhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440484&Signature=KxbpPIwkZMJ0ZhWkBNQ6ITRvCCA%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" NOVA ORDEM MUNDIAL
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSpRQVc_A7SA935awzZ1zFYOYQrdhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440663&Signature=IOQ7N13DwGNTdglNY233%2BFZhgGw%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO" ABOLIÇÃO DA ESCRAVATURA NO CE
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSu4UJrNEgoX14XC9HzmLXYess8aRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440694&Signature=ZiwFOo4XGJF8EO5EnKmJy3PJk2Y%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" A NOVA ORDEM MUNDIAL E A GLOBLIZAÇÃO
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChRB3oB2PDmYtY5JFndZbm-W5m6MTRAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dMQRRfU00DE1AWPTs1HTwiZAp7PlE-CWdYMDtvERE1GQUBVSU9AHJ_ExYIMzoWEwtNARRoQVIG&response-content-disposition=attachment;%20filename=%22Geografia%20Humana%20-%20A%20Nova%20Ordem%20Mundial%20e%20a%20Globaliza%C3%A7%C3%A3o%20-%20Sala%20do%20Saber.mp4%22&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" 6 CIDADES MAIS ISOLADAS DO MUNDO
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSkL_1WdM6UJfOp2UgEsvzo4ofnDhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440804&Signature=zj5mUCAJtfdyb5wcYC29H9dSvoc%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" POPULAÇÃO BRASILEIRA
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/noCLDg/mp4/ChQfEv3C6_tL8xsRDP2OptUBhQjFXBAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639440958&Signature=SVZqYWSIbp1mlYIeUEzxIJBXrhI%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" BIOMAS BRASILEIROS
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQx1MuIFA1hwnufiDn7znLEW2xLPRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639441166&Signature=hRlh0Qa6iTtS%2B2otA2jy4f6vesk%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" BIOMAS BRASILEIROS PARTE 1
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQp9zx0kLIq5eeO3Cxu8awaf9YyvhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639441269&Signature=X9DvOSFC7x3rirVphTLZOS22axg%3D&ngsw-bypass=1
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" BIOMAS BRASILEIROS PARTE 2
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSHbg4HeaieWgXPLl864DjtTtROnRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639441374&Signature=z5sZl%2FXY29NeeAPE30pT4vkehUc%3D&ngsw-bypass=1
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" MUDANÇAS CLIMATICAS - PARA CRIANÇA
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChRrUPI_WFjX0CA9zyXBYlqmmzs1LRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639441440&Signature=alDepr41F4yFhx0SkFWPBV1wDoQ%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" CONHEÇA RN E SUA CAPITAL NATAL
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChTy3SPLrlJlBG0tOwcA-llkz_KZihAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dMQRVSU04DE1AWPTs1HTwiZBh0NFAvAy4OH1sZMjkJXUdmEDMsYXlgFxkrG1gHYmos&response-content-disposition=attachment;%20filename=%22Conhe%C3%A7a%20Rio%20Grande%20do%20Norte%20e%20sua%20capital%2C%20Natal%20-%20Meu%20Peda%C3%A7o%20do%20Brasil.mp4%22&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" TEMPO ATMOSFERICO
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSe0DdtmQhhcxRwVAC60-eXnSUUDxAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639441507&Signature=kUPjs7yd3%2Biflllg5iSmWDhGob4%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" A ORDEM INTERNACIONAL PARTE 2
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChRwpGI7djzd5qrtrDjr11yH8qcxIBAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dMQRVRUUADE1AWPTs1HTwiZFxeBEkQAg8fCio7AWArTzBBQlE_QyJ7VGEYeQB7Ly5NABY&response-content-disposition=attachment;%20filename=%22Cap%C3%ADtulo%204%20%E2%80%93%20A%20ordem%20internacional%20%20%20parte%202.mp4%22&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" PREVISÃO DO TEMPO COMO É FEITO
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChS73GIynRyYN7RM-Q_QH6EVWADpXRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639441629&Signature=uBmEmgbQx8XqbcSLCP5c5I7dLXI%3D&ngsw-bypass=1
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" CLIMA IMPREVISÍVEL
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChTX73-6v8i_47hq1G4zf2mOFeK5OhAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2ZAQRRfUUoDE1AWPTs1HTwiZFl1NX4JKhQ6MCE0B2IZEBF-FAAJajoPQWU5AE19Aw&response-content-disposition=attachment;%20filename=%22Clima%20Imprevis%C3%ADvel%20-%20NatGeo%20-%20Dublado.mp4%22&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" POPULAÇÃO BRASILEIRA
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/noCLDg/mp4/ChQfEv3C6_tL8xsRDP2OptUBhQjFXBAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639445623&Signature=%2FN%2BWBXsw9%2F1ZEyaj0yhB61fDUkc%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" O CLIMA DO PLANETA TERR - DOCUMENTARIO
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSO7g29JPDjglDu2if1O0LOFxdOBBAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639445623&Signature=9u3eNAgcpFbytndBW%2BB4peSwsyA%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" RIO PIRANHAS ANDANÇAS NO SERTÃO 
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChS61I2icippaIqPmxqnKXzgXBGHMRAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2ZAQRRfUUoDE1AWPTs1HTwiZD1QalUFCCA6EVYMLA0dMT8VKVMddBRpKx00AE19Aw&response-content-disposition=attachment;%20filename=%22Andan%C3%A7as%20no%20sert%C3%A3o%2C%20v%C3%B4o%20sobre%20o%20Rio%20Piranhas_As%C3%BA%20na%20sua%20nascente%20em%20Coremas..mp4%22&ngsw-bypass=1
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" RIO PIRANHAS - DOCUMENTARIO
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQ9Xv5n1Xp3i0I1uv8t0GHv-O3eExAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639446251&Signature=lbUxl5N4FX3i6IS293iMG6d7HWA%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" PROBLEMAS AMBIENTAIS
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChQtpCP3-w85J48pk9WYnKdhalPRaRAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639445623&Signature=RlmB%2FvxdlRiviIkr1jNAcZ79msc%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" ANIMAIS VERTEBRADOS
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChSEc0v5wMn7QwTT4dzQNgwLL_w7uxAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dMQRFRUUoDE1AWPTs1HTwiZCprFFQGGXYrGjtnRR4UOh1uCC81TTNxIhENeU19Aw&response-content-disposition=attachment;%20filename=%22ANIMAIS%20VERTEBRADOS%20E%20INVERTEBRADOS.mp4%22&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="GEOGRAFIA EDUCAÇÃO" MASSAS DE AR - RESUMO 
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSRgDXx-_uc_hcQpHgsgHFVCqslqxAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639445623&Signature=uIUYZGBHXLN2F07jlmLyuCS%2FOzo%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="HISTÓRIA EDUCAÇÃO" CAFÉ NO VALE DO PARNAIBA
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChTWEwMapMHYS93OaRWfzcghQwtKzBAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1639446454&Signature=mjLH%2BjQ9bKLXMfiNSa0%2FqZ7hI%2BM%3D&ngsw-bypass=1
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="EDUCAÇÃO" CARACTERISTICAS DA POPULAÇÃO MUNDIAL
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCO7uq/noCLDg/mp4/ChSbWe-DCxWchwhUKafLSQhyq-3cbBAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dMQRJVVkgDE1AWPTs1HTwiZCdlCAwjMQYuSlkLISIMFgNhIhAsT3hKRD9qcU19Aw&response-content-disposition=attachment;%20filename=%22Caracter%C3%ADsticas%20da%20popula%C3%A7%C3%A3o%20mundial_720P%20HD.mp4%22&ngsw-bypass=1
+
 
 
 
