@@ -348,8 +348,10 @@ https://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1782229082.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="ESPORTES", COMBATE 
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=cwSef3HTWkSjFrAaJEG1zA&3U1G7qaTxrPbalZnEx=1616305867
+http://sv1.casaplayer.com.br:8080/879548/364338/3688
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="ESPORTES", COMBATE 
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50673.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5n963dD/20201014-205517.jpg" group-title="ESPORTES",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
