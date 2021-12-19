@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 18.12.2021 
+
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E HD [ALT]
 http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50614.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="A&E [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E [ALT]
@@ -318,3 +320,5 @@ http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51121.ts
 http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51122.ts
 #EXTINF:-1 tvg-name="TNT [ALT]" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT [ALT]
 http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51120.ts
+
+
