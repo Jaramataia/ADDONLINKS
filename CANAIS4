@@ -2,323 +2,1772 @@
 
 #EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 18.12.2021 
 
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50614.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="A&E [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50628.ts
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD  [ALT]" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Alternativos",AMC HD  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50639.ts
-#EXTINF:-1 tvg-name="AMC [ALT]" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Alternativos",AMC [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50640.ts
-#EXTINF:-1 tvg-name="ANIMAL PLANET [ALT]" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Alternativos",ANIMAL PLANET [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50641.ts
-#EXTINF:-1 tvg-name="AXN HD [ALT]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50646.ts
-#EXTINF:-1 tvg-name="AXN [ALT]" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Alternativos",AXN [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50647.ts
-#EXTINF:-1 tvg-name="Arte 1 [ALT]" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Alternativos",Arte 1 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50643.ts
-#EXTINF:-1 tvg-name="BABY TV HD [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Alternativos",BABY TV HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50648.ts
-#EXTINF:-1 tvg-name="BABY TV [ALT]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Alternativos",BABY TV [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50649.ts
-#EXTINF:-1 tvg-name="BAND CAMPINAS HD [ALT]" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Alternativos",BAND CAMPINAS HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50650.ts
-#EXTINF:-1 tvg-name="BAND SPORTS HD [ALT]" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Alternativos",BAND SPORTS HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50656.ts
-#EXTINF:-1 tvg-name="BAND SPORTS [ALT]" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="Canais | Alternativos",BAND SPORTS [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50657.ts
-#EXTINF:-1 tvg-name="BandNews HD [ALT]" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50654.ts
-#EXTINF:-1 tvg-name="BandNews [ALT]" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Alternativos",BandNews [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50655.ts
-#EXTINF:-1 tvg-name="CANCAO NOVA [ALT]" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Alternativos",CANCAO NOVA [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50665.ts
-#EXTINF:-1 tvg-name="CARTOON NETWORK HD [ALT]" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Alternativos",CARTOON NETWORK HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50667.ts
-#EXTINF:-1 tvg-name="CINEMAX HD [ALT]" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Alternativos",CINEMAX HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50669.ts
-#EXTINF:-1 tvg-name="COMBATE HD [ALT]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50672.ts
-#EXTINF:-1 tvg-name="COMBATE [ALT]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50673.ts
-#EXTINF:-1 tvg-name="COMEDY CENTRAL HD [ALT]" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Alternativos",COMEDY CENTRAL HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50674.ts
-#EXTINF:-1 tvg-name="COMEDY CENTRAL [ALT]" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Alternativos",COMEDY CENTRAL [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50675.ts
-#EXTINF:-1 tvg-name="CURTA [ALT]" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Alternativos",CURTA [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50676.ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD [ALT]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Alternativos",DISCOVERY CHANNEL HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50691.ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL [ALT]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Alternativos",DISCOVERY CHANNEL [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50701.ts
-#EXTINF:-1 tvg-name="DISCOVERY HOME & HEALTH HD  [ALT]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Alternativos",DISCOVERY HOME & HEALTH HD  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50704.ts
-#EXTINF:-1 tvg-name="DISCOVERY HOME & HELTH [ALT]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Alternativos",DISCOVERY HOME & HELTH [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50705.ts
-#EXTINF:-1 tvg-name="DISCOVERY KIDS HD  [ALT]" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Alternativos",DISCOVERY KIDS HD  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50706.ts
-#EXTINF:-1 tvg-name="DISCOVERY KIDS [ALT]" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Alternativos",DISCOVERY KIDS [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50707.ts
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD [ALT]" tvg-logo="http://urlcurta.ml/qyAyP" group-title="Canais | Alternativos",DISCOVERY SCIENCE HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50708.ts
-#EXTINF:-1 tvg-name="DISCOVERY THEATER HD [ALT]" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Alternativos",DISCOVERY THEATER HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50709.ts
-#EXTINF:-1 tvg-name="DISCOVERY TURBO HD [ALT]" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Alternativos",DISCOVERY TURBO HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50710.ts
-#EXTINF:-1 tvg-name="DISCOVERY TURBO [ALT]" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Alternativos",DISCOVERY TURBO [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50711.ts
-#EXTINF:-1 tvg-name="DISCOVERY WORLD HD [ALT]" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Alternativos",DISCOVERY WORLD HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50712.ts
-#EXTINF:-1 tvg-name="DISNEY CHANNEL HD [ALT]" tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Alternativos",DISNEY CHANNEL HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50713.ts
-#EXTINF:-1 tvg-name="DISNEY CHANNEL [ALT]" tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Alternativos",DISNEY CHANNEL [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50714.ts
-#EXTINF:-1 tvg-name="DISNEY JR HD [ALT]" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Alternativos",DISNEY JR HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50715.ts
-#EXTINF:-1 tvg-name="DISNEY JR [ALT]" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Alternativos",DISNEY JR [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50716.ts
-#EXTINF:-1 tvg-name="DISNEY XD [ALT]" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Alternativos",DISNEY XD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50718.ts
-#EXTINF:-1 tvg-name="ESPN 2  HD [ALT]" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Alternativos",ESPN 2  HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50734.ts
-#EXTINF:-1 tvg-name="ESPN BRASIL HD [ALT]" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="Canais | Alternativos",ESPN BRASIL HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50736.ts
-#EXTINF:-1 tvg-name="ESPN HD [ALT]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Alternativos",ESPN HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50739.ts
-#EXTINF:-1 tvg-name="ESPN [ALT]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Alternativos",ESPN [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50740.ts
-#EXTINF:-1 tvg-name="FOOD NETWORK HD [ALT]" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50742.ts
-#EXTINF:-1 tvg-name="FOOD NETWORK [ALT]" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Alternativos",FOOD NETWORK [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50745.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 2 [ALT]" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Alternativos",FOX SPORTS 2 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50754.ts
-#EXTINF:-1 tvg-id="FOX SPORTS [ALT]T" tvg-name="FOX SPORTS [ALT]" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Alternativos",FOX SPORTS [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/73053.ts
-#EXTINF:-1 tvg-name="FX HD [ALT]" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Alternativos",FX HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50770.ts
-#EXTINF:-1 tvg-name="FX [ALT]" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Alternativos",FX [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50771.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA HD [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO BRASILIA HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51146.ts
-#EXTINF:-1 tvg-name="GLOBO BRASILIA [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO BRASILIA [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51152.ts
-#EXTINF:-1 tvg-name="GLOBO EPTV SAO CARLOS [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO EPTV SAO CARLOS [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51145.ts
-#EXTINF:-1 tvg-name="GLOBO INTERTV CABUGI  [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO INTERTV CABUGI  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51153.ts
-#EXTINF:-1 tvg-name="GLOBO MINAS [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO MINAS [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51154.ts
-#EXTINF:-1 tvg-name="GLOBO NORDESTE  [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO NORDESTE  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51148.ts
-#EXTINF:-1 tvg-name="GLOBO Rio HD  [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO Rio HD  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51149.ts
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="GLOBO SP HD  [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO SP HD  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51150.ts
-#EXTINF:-1 tvg-name="GLOBO TV TRIBUNA SANTOS  [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",GLOBO TV TRIBUNA SANTOS  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51155.ts
-#EXTINF:-1 tvg-name="GLOOB HD [ALT]" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Alternativos",GLOOB HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50773.ts
-#EXTINF:-1 tvg-name="GLOOBINHO [ALT]" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Alternativos",GLOOBINHO [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50774.ts
-#EXTINF:-1 tvg-name="GNT HD [ALT]" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Alternativos",GNT HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50775.ts
-#EXTINF:-1 tvg-name="GNT [ALT]" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Alternativos",GNT [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50781.ts
-#EXTINF:-1 tvg-name="H2 HD [ALT]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",H2 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50786.ts
-#EXTINF:-1 tvg-name="H2 [ALT]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",H2 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50787.ts
-#EXTINF:-1 tvg-name="HBO 2 HD [ALT]" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Alternativos",HBO 2 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50788.ts
-#EXTINF:-1 tvg-name="HBO 2 [ALT]" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Alternativos",HBO 2 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50789.ts
-#EXTINF:-1 tvg-name="HBO FAMILY HD [ALT]" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Alternativos",HBO FAMILY HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50790.ts
-#EXTINF:-1 tvg-name="HBO FAMILY [ALT]" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Alternativos",HBO FAMILY [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50791.ts
-#EXTINF:-1 tvg-name="HBO HD [ALT]" tvg-logo="http://t.likeiptv.com/hbohd.png" group-title="Canais | Alternativos",HBO HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50792.ts
-#EXTINF:-1 tvg-name="HBO Mundi HD [ALT]" tvg-logo="https://i.imgur.com/RgOfJYg.png" group-title="Canais | Alternativos",HBO Mundi HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50842.ts
-#EXTINF:-1 tvg-name="HBO Mundi [ALT]" tvg-logo="https://i.imgur.com/RgOfJYg.png" group-title="Canais | Alternativos",HBO Mundi [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50849.ts
-#EXTINF:-1 tvg-name="HBO PLUS *E [ALT]" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS *E [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50793.ts
-#EXTINF:-1 tvg-name="HBO PLUS HD  [ALT]" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS HD  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51151.ts
-#EXTINF:-1 tvg-name="HBO PLUS [ALT]" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Alternativos",HBO PLUS [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50794.ts
-#EXTINF:-1 tvg-name="HBO POP HD [ALT]" tvg-logo="https://i.imgur.com/1hIuQoH.png" group-title="Canais | Alternativos",HBO POP HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50851.ts
-#EXTINF:-1 tvg-name="HBO POP [ALT]" tvg-logo="https://i.imgur.com/1hIuQoH.png" group-title="Canais | Alternativos",HBO POP [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50852.ts
-#EXTINF:-1 tvg-name="HBO SIGNATURE HD [ALT]" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Alternativos",HBO SIGNATURE HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50796.ts
-#EXTINF:-1 tvg-name="HBO SIGNATURE [ALT]" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Alternativos",HBO SIGNATURE [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50797.ts
-#EXTINF:-1 tvg-name="HBO Xtreme [ALT]" tvg-logo="https://i.imgur.com/HeJPYl6.png" group-title="Canais | Alternativos",HBO Xtreme [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50845.ts
-#EXTINF:-1 tvg-name="HBO [ALT]" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Alternativos",HBO [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50795.ts
-#EXTINF:-1 tvg-name="HISTORY CHANNEL HD [ALT]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",HISTORY CHANNEL HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50798.ts
-#EXTINF:-1 tvg-name="HISTORY CHANNEL [ALT]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",HISTORY CHANNEL [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50799.ts
-#EXTINF:-1 tvg-name="INVESTIGACAO DISCOVERY HD [ALT]" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Alternativos",INVESTIGACAO DISCOVERY HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50803.ts
-#EXTINF:-1 tvg-name="LIFETIME HD [ALT]" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Alternativos",LIFETIME HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50829.ts
-#EXTINF:-1 tvg-name="LIFETIME [ALT]" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="Canais | Alternativos",LIFETIME [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50834.ts
-#EXTINF:-1 tvg-name="MAIS GLOBOSAT HD [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",MAIS GLOBOSAT HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50836.ts
-#EXTINF:-1 tvg-name="MAIS GLOBOSAT [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Alternativos",MAIS GLOBOSAT [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50838.ts
-#EXTINF:-1 tvg-name="MTV HD [ALT]" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Alternativos",MTV HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50855.ts
-#EXTINF:-1 tvg-name="MULTISHOW HD [ALT]" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Alternativos",MULTISHOW HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50857.ts
-#EXTINF:-1 tvg-name="MULTISHOW [ALT]" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Alternativos",MULTISHOW [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50858.ts
-#EXTINF:-1 tvg-name="MUSIC BOX BRASIL [ALT]" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Alternativos",MUSIC BOX BRASIL [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50859.ts
-#EXTINF:-1 tvg-name="MegaPix HD [ALT]" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Alternativos",MegaPix HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50853.ts
-#EXTINF:-1 tvg-name="MegaPix [ALT]" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Alternativos",MegaPix [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50854.ts
-#EXTINF:-1 tvg-name="NATGEO HD [ALT]" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50902.ts
-#EXTINF:-1 tvg-name="NATGEO KIDS HD [ALT]" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Alternativos",NATGEO KIDS HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50903.ts
-#EXTINF:-1 tvg-name="NATGEO KIDS [ALT]" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Alternativos",NATGEO KIDS [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50904.ts
-#EXTINF:-1 tvg-name="NATGEO WILD HD [ALT]" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50920.ts
-#EXTINF:-1 tvg-name="NATGEO WILD [ALT]" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Alternativos",NATGEO WILD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50925.ts
-#EXTINF:-1 tvg-name="NATGEO [ALT]" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Alternativos",NATGEO [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50905.ts
-#EXTINF:-1 tvg-name="NICK HD [ALT]" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Alternativos",NICK HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50932.ts
-#EXTINF:-1 tvg-name="NICK JR HD [ALT]" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Alternativos",NICK JR HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50933.ts
-#EXTINF:-1 tvg-name="NICK JR [ALT]" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Alternativos",NICK JR [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50934.ts
-#EXTINF:-1 tvg-name="NICKELODEON [ALT]" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Alternativos",NICKELODEON [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50935.ts
-#EXTINF:-1 tvg-name="NOVO TEMPO [ALT]" tvg-logo="https://i.imgur.com/Y2ncDiz.png" group-title="Canais | Alternativos",NOVO TEMPO [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50936.ts
-#EXTINF:-1 tvg-name="OFF HD [ALT]" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Alternativos",OFF HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50937.ts
-#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL HD [ALT]" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50938.ts
-#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL [ALT]" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Alternativos",PARAMOUNT CHANNEL [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50945.ts
-#EXTINF:-1 tvg-name="PREMIERE 2 HD [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 2 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50953.ts
-#EXTINF:-1 tvg-name="PREMIERE 2 [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 2 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50954.ts
-#EXTINF:-1 tvg-name="PREMIERE 3 HD [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 3 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50966.ts
-#EXTINF:-1 tvg-name="PREMIERE 3 [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 3 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50973.ts
-#EXTINF:-1 tvg-name="PREMIERE 4 HD [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 4 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50976.ts
-#EXTINF:-1 tvg-name="PREMIERE 4 [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 4 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50977.ts
-#EXTINF:-1 tvg-name="PREMIERE 5 HD [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 5 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50983.ts
-#EXTINF:-1 tvg-name="PREMIERE 5 [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 5 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50984.ts
-#EXTINF:-1 tvg-name="PREMIERE 6 [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 6 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50986.ts
-#EXTINF:-1 tvg-name="PREMIERE 7 HD [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 7 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50987.ts
-#EXTINF:-1 tvg-name="PREMIERE 7 [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 7 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50988.ts
-#EXTINF:-1 tvg-name="PREMIERE 8 [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE 8 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50989.ts
-#EXTINF:-1 tvg-name="PREMIERE CLUBES [ALT]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE CLUBES [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51001.ts
-#EXTINF:-1 tvg-name="PRIMEBOX BRASIL [ALT]" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Alternativos",PRIMEBOX BRASIL [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51004.ts
-#EXTINF:-1 tvg-name="RECORD HD [ALT]" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51006.ts
-#EXTINF:-1 tvg-name="RECORD NEWS [ALT]" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Alternativos",RECORD NEWS [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51009.ts
-#EXTINF:-1 tvg-name="RECORD [ALT]" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Alternativos",RECORD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51012.ts
-#EXTINF:-1 tvg-name="REDE TV HD [ALT]" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51014.ts
-#EXTINF:-1 tvg-name="REDE TV [ALT]" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Alternativos",REDE TV [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51024.ts
-#EXTINF:-1 tvg-name="REDE VIDA [ALT]" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Alternativos",REDE VIDA [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51032.ts
-#EXTINF:-1 tvg-name="SBT HD [ALT]" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51039.ts
-#EXTINF:-1 tvg-name="SBT [ALT]" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Alternativos",SBT [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51044.ts
-#EXTINF:-1 tvg-name="SPACE HD  [ALT]" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE HD  [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51047.ts
-#EXTINF:-1 tvg-name="SPACE [ALT]" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Alternativos",SPACE [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51048.ts
-#EXTINF:-1 tvg-name="SPORTV 2 HD [ALT]" tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | Alternativos",SPORTV 2 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51051.ts
-#EXTINF:-1 tvg-name="SPORTV 2 [ALT]" tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | Alternativos",SPORTV 2 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51052.ts
-#EXTINF:-1 tvg-name="SPORTV 3 HD [ALT]" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Alternativos",SPORTV 3 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51053.ts
-#EXTINF:-1 tvg-name="SPORTV 3 [ALT]" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Alternativos",SPORTV 3 [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51054.ts
-#EXTINF:-1 tvg-name="SPORTV HD [ALT]" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Alternativos",SPORTV HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51055.ts
-#EXTINF:-1 tvg-name="SPORTV [ALT]" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Alternativos",SPORTV [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51056.ts
-#EXTINF:-1 tvg-name="STUDIO UNIVERSAL [ALT]" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Alternativos",STUDIO UNIVERSAL [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51081.ts
-#EXTINF:-1 tvg-name="Star Channel HD [ALT]" tvg-logo="https://i.imgur.com/2crLuRM.png" group-title="Canais | Alternativos",Star Channel HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50747.ts
-#EXTINF:-1 tvg-name="Star Channel [ALT]" tvg-logo="https://i.imgur.com/2crLuRM.png" group-title="Canais | Alternativos",Star Channel [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50752.ts
-#EXTINF:-1 tvg-name="Star Hits 2 HD [ALT]" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title="Canais | Alternativos",Star Hits 2 HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50751.ts
-#EXTINF:-1 tvg-name="Star Hits HD [ALT]" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title="Canais | Alternativos",Star Hits HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50750.ts
-#EXTINF:-1 tvg-name="Star Life HD [ALT]" tvg-logo="https://i.imgur.com/NoyRFaw.png" group-title="Canais | Alternativos",Star Life HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50748.ts
-#EXTINF:-1 tvg-name="Star Life [ALT]" tvg-logo="https://i.imgur.com/NoyRFaw.png" group-title="Canais | Alternativos",Star Life [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/50749.ts
-#EXTINF:-1 tvg-name="TELECINE ACTION HD [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE ACTION HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51083.ts
-#EXTINF:-1 tvg-name="TELECINE ACTION [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE ACTION [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51084.ts
-#EXTINF:-1 tvg-id="100% Vida" tvg-name="TELECINE CULT HD [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE CULT HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51085.ts
-#EXTINF:-1 tvg-name="TELECINE FUN HD [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE FUN HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51087.ts
-#EXTINF:-1 tvg-name="TELECINE FUN [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE FUN [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51088.ts
-#EXTINF:-1 tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PIPOCA HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51089.ts
-#EXTINF:-1 tvg-name="TELECINE PIPOCA [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PIPOCA [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51090.ts
-#EXTINF:-1 tvg-name="TELECINE PREMIUM HD [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PREMIUM HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51104.ts
-#EXTINF:-1 tvg-name="TELECINE PREMIUM [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PREMIUM [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51109.ts
-#EXTINF:-1 tvg-name="TELECINE TOUCH HD [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE TOUCH HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51113.ts
-#EXTINF:-1 tvg-name="TELECINE TOUCH [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE TOUCH [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51115.ts
-#EXTINF:-1 tvg-name="TNT HD [ALT]" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51119.ts
-#EXTINF:-1 tvg-name="TNT SERIES HD [ALT]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES HD [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51121.ts
-#EXTINF:-1 tvg-name="TNT SERIES [ALT]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51122.ts
-#EXTINF:-1 tvg-name="TNT [ALT]" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT [ALT]
-http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51120.ts
+
+#EXTINF:-1 tvg-name="2067" group-title="Filmes | Lançamentos 2021",2067
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79852.mp4
+#EXTINF:-1 tvg-name="400 Balas [ Legendado ]" group-title="Filmes | Lançamentos 2021",400 Balas [ Legendado ]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79161.mp4
+#EXTINF:-1 tvg-name="A Guerra do Amanhã" group-title="Filmes | Lançamentos 2021",A Guerra do Amanhã
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81489.mp4
+#EXTINF:-1 tvg-name="A Mulher na Janela" group-title="Filmes | Lançamentos 2021",A Mulher na Janela
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80482.mp4
+#EXTINF:-1 tvg-name="A Semana da Minha Vida" group-title="Filmes | Lançamentos 2021",A Semana da Minha Vida
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79137.mp4
+#EXTINF:-1 tvg-name="A Sentinela" group-title="Filmes | Lançamentos 2021",A Sentinela
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78588.mp4
+#EXTINF:-1 tvg-name="A Última Carta de Amor - 2021" group-title="Filmes | Lançamentos 2021",A Última Carta de Amor - 2021
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81715.mp4
+#EXTINF:-1 tvg-name="Agência Secreta de Controle de Magias" group-title="Filmes | Lançamentos 2021",Agência Secreta de Controle de Magias
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79138.mp4
+#EXTINF:-1 tvg-name="America: The Motion Picture" group-title="Filmes | Lançamentos 2021",America: The Motion Picture
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81532.mp4
+#EXTINF:-1 tvg-name="Anónimo" group-title="Filmes | Lançamentos 2021",Anónimo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81468.mp4
+#EXTINF:-1 tvg-name="Apenas Diga Sim" group-title="Filmes | Lançamentos 2021",Apenas Diga Sim
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79312.mp4
+#EXTINF:-1 tvg-name="Aqueles Que Me Desejam a Morte" group-title="Filmes | Lançamentos 2021",Aqueles Que Me Desejam a Morte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81835.mp4
+#EXTINF:-1 tvg-name="Assalto ao Banco da Espanha" group-title="Filmes | Lançamentos 2021",Assalto ao Banco da Espanha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79611.mp4
+#EXTINF:-1 tvg-name="Atentados em Londres" group-title="Filmes | Lançamentos 2021",Atentados em Londres
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80796.mp4
+#EXTINF:-1 tvg-name="Até o Céu" group-title="Filmes | Lançamentos 2021",Até o Céu
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79496.mp4
+#EXTINF:-1 tvg-name="Awake" group-title="Filmes | Lançamentos 2021",Awake
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81209.mp4
+#EXTINF:-1 tvg-name="Bad Trip" group-title="Filmes | Lançamentos 2021",Bad Trip
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79157.mp4
+#EXTINF:-1 tvg-name="Batman:  O Longo Dia das Bruxas – Parte 1" group-title="Filmes | Lançamentos 2021",Batman:  O Longo Dia das Bruxas – Parte 1
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81627.mp4
+#EXTINF:-1 tvg-name="Batman: Alma do Dragão" group-title="Filmes | Lançamentos 2021",Batman: Alma do Dragão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77350.mp4
+#EXTINF:-1 tvg-name="Becky" group-title="Filmes | Lançamentos 2021",Becky
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78280.mp4
+#EXTINF:-1 tvg-name="Bliss: Em Busca da Felicidade" group-title="Filmes | Lançamentos 2021",Bliss: Em Busca da Felicidade
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78003.mp4
+#EXTINF:-1 tvg-name="Caçadores de Trolls: A Ascensão dos Titãs" group-title="Filmes | Lançamentos 2021",Caçadores de Trolls: A Ascensão dos Titãs
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81712.mp4
+#EXTINF:-1 tvg-name="Chorão: Marginal Alado" group-title="Filmes | Lançamentos 2021",Chorão: Marginal Alado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79487.mp4
+#EXTINF:-1 tvg-name="Corretores de corpos [ Legendado ]" group-title="Filmes | Lançamentos 2021",Corretores de corpos [ Legendado ]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79162.mp4
+#EXTINF:-1 tvg-name="Cruella" group-title="Filmes | Lançamentos 2021",Cruella
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80906.mp4
+#EXTINF:-1 tvg-name="Céu Vermelho-Sangue" group-title="Filmes | Lançamentos 2021",Céu Vermelho-Sangue
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81716.mp4
+#EXTINF:-1 tvg-name="Desgrávida" group-title="Filmes | Lançamentos 2021",Desgrávida
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81539.mp4
+#EXTINF:-1 tvg-name="Din e o Dragão Genial" group-title="Filmes | Lançamentos 2021",Din e o Dragão Genial
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81214.mp4
+#EXTINF:-1 tvg-name="Em busca de 'Ohana" group-title="Filmes | Lançamentos 2021",Em busca de 'Ohana
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77672.mp4
+#EXTINF:-1 tvg-name="Em um Bairro de Nova York" group-title="Filmes | Lançamentos 2021",Em um Bairro de Nova York
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81850.mp4
+#EXTINF:-1 tvg-name="Espiral: O Legado de Jogos Mortais  [ LEGENDADO ]" group-title="Filmes | Lançamentos 2021",Espiral: O Legado de Jogos Mortais  [ LEGENDADO ]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81147.mp4
+#EXTINF:-1 tvg-name="Espécies em Perigo" group-title="Filmes | Lançamentos 2021",Espécies em Perigo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81467.mp4
+#EXTINF:-1 tvg-name="Esquadrão Trovão" group-title="Filmes | Lançamentos 2021",Esquadrão Trovão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79601.mp4
+#EXTINF:-1 tvg-name="Estranho Passageiro - Sputnik" group-title="Filmes | Lançamentos 2021",Estranho Passageiro - Sputnik
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79951.mp4
+#EXTINF:-1 tvg-name="Eu Me Importo" group-title="Filmes | Lançamentos 2021",Eu Me Importo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77985.mp4
+#EXTINF:-1 tvg-name="Ferry" group-title="Filmes | Lançamentos 2021",Ferry
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80651.mp4
+#EXTINF:-1 tvg-name="Friends: A Reunião" group-title="Filmes | Lançamentos 2021",Friends: A Reunião
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81486.mp4
+#EXTINF:-1 tvg-name="Godzilla vs. Kong" group-title="Filmes | Lançamentos 2021",Godzilla vs. Kong
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80764.mp4
+#EXTINF:-1 tvg-name="Godzilla vs. Kong (LEGENDADO)" group-title="Filmes | Lançamentos 2021",Godzilla vs. Kong (LEGENDADO)
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79348.mp4
+#EXTINF:-1 tvg-name="Invocação do Mal 3: A Ordem do Demônio" group-title="Filmes | Lançamentos 2021",Invocação do Mal 3: A Ordem do Demônio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81432.mp4
+#EXTINF:-1 tvg-name="Invocação do Mal 3: A Ordem do Demônio [LEGENDADO]" group-title="Filmes | Lançamentos 2021",Invocação do Mal 3: A Ordem do Demônio [LEGENDADO]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81111.mp4
+#EXTINF:-1 tvg-name="Irmãs Sheppard: Das Ruas ao Pódio" group-title="Filmes | Lançamentos 2021",Irmãs Sheppard: Das Ruas ao Pódio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81407.mp4
+#EXTINF:-1 tvg-name="Jolt: Fúria Fatal" group-title="Filmes | Lançamentos 2021",Jolt: Fúria Fatal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81823.mp4
+#EXTINF:-1 tvg-name="Jungle Cruise" group-title="Filmes | Lançamentos 2021",Jungle Cruise
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81770.mp4
+#EXTINF:-1 tvg-name="Juntos Novamente - 2021" group-title="Filmes | Lançamentos 2021",Juntos Novamente - 2021
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81210.mp4
+#EXTINF:-1 tvg-name="Lago da Morte" group-title="Filmes | Lançamentos 2021",Lago da Morte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79433.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça de Zack Snyder" group-title="Filmes | Lançamentos 2021",Liga da Justiça de Zack Snyder
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78755.mp4
+#EXTINF:-1 tvg-name="Locked Down" group-title="Filmes | Lançamentos 2021",Locked Down
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81216.mp4
+#EXTINF:-1 tvg-name="Loucura de Amor" group-title="Filmes | Lançamentos 2021",Loucura de Amor
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78413.mp4
+#EXTINF:-1 tvg-name="Luca" group-title="Filmes | Lançamentos 2021",Luca
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81267.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Acampamento de Férias 3" group-title="Filmes | Lançamentos 2021",Luccas Neto em: Acampamento de Férias 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77470.mp4
+#EXTINF:-1 tvg-name="Lucicreide vai pra Marte" group-title="Filmes | Lançamentos 2021",Lucicreide vai pra Marte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79230.mp4
+#EXTINF:-1 tvg-name="Meu Pai" group-title="Filmes | Lançamentos 2021",Meu Pai
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79432.mp4
+#EXTINF:-1 tvg-name="Milagre Azul" group-title="Filmes | Lançamentos 2021",Milagre Azul
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80792.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat" group-title="Filmes | Lançamentos 2021",Mortal Kombat
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81331.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat [ Legendado]" group-title="Filmes | Lançamentos 2021",Mortal Kombat [ Legendado]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80137.mp4
+#EXTINF:-1 tvg-name="Mulher-Maravilha 1984" group-title="Filmes | Lançamentos 2021",Mulher-Maravilha 1984
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77607.mp4
+#EXTINF:-1 tvg-name="Nascido para Vencer" group-title="Filmes | Lançamentos 2021",Nascido para Vencer
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81127.mp4
+#EXTINF:-1 tvg-name="New Gods Nezha Reborn" group-title="Filmes | Lançamentos 2021",New Gods Nezha Reborn
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80715.mp4
+#EXTINF:-1 tvg-name="Nomadland" group-title="Filmes | Lançamentos 2021",Nomadland
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80168.mp4
+#EXTINF:-1 tvg-name="O Elevador" group-title="Filmes | Lançamentos 2021",O Elevador
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77354.mp4
+#EXTINF:-1 tvg-name="O Gângster Nômade" group-title="Filmes | Lançamentos 2021",O Gângster Nômade
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81328.mp4
+#EXTINF:-1 tvg-name="O Homem Certo" group-title="Filmes | Lançamentos 2021",O Homem Certo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78028.mp4
+#EXTINF:-1 tvg-name="O Homem Água" group-title="Filmes | Lançamentos 2021",O Homem Água
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81699.mp4
+#EXTINF:-1 tvg-name="O Sétimo Dia" group-title="Filmes | Lançamentos 2021",O Sétimo Dia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81851.mp4
+#EXTINF:-1 tvg-name="O Tigre Branco" group-title="Filmes | Lançamentos 2021",O Tigre Branco
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77511.mp4
+#EXTINF:-1 tvg-name="O Último Desejo de Sardar" group-title="Filmes | Lançamentos 2021",O Último Desejo de Sardar
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80793.mp4
+#EXTINF:-1 tvg-name="O Último Mercenário" group-title="Filmes | Lançamentos 2021",O Último Mercenário
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81769.mp4
+#EXTINF:-1 tvg-name="Octonautas e o Círculo de Fogo" group-title="Filmes | Lançamentos 2021",Octonautas e o Círculo de Fogo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79152.mp4
+#EXTINF:-1 tvg-name="Os Portais" group-title="Filmes | Lançamentos 2021",Os Portais
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79150.mp4
+#EXTINF:-1 tvg-name="Os Salafrários" group-title="Filmes | Lançamentos 2021",Os Salafrários
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81269.mp4
+#EXTINF:-1 tvg-name="Os Segredos de Madame Claude" group-title="Filmes | Lançamentos 2021",Os Segredos de Madame Claude
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79306.mp4
+#EXTINF:-1 tvg-name="Oxigênio" group-title="Filmes | Lançamentos 2021",Oxigênio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80489.mp4
+#EXTINF:-1 tvg-name="Pai em Dobro" group-title="Filmes | Lançamentos 2021",Pai em Dobro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77355.mp4
+#EXTINF:-1 tvg-name="Palmer" group-title="Filmes | Lançamentos 2021",Palmer
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78590.mp4
+#EXTINF:-1 tvg-name="Paternidade" group-title="Filmes | Lançamentos 2021",Paternidade
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81332.mp4
+#EXTINF:-1 tvg-name="Pelé" group-title="Filmes | Lançamentos 2021",Pelé
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78181.mp4
+#EXTINF:-1 tvg-name="Ponto Vermelho" group-title="Filmes | Lançamentos 2021",Ponto Vermelho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78626.mp4
+#EXTINF:-1 tvg-name="Pretty Guardian Sailor Moon Eternal: O Filme" group-title="Filmes | Lançamentos 2021",Pretty Guardian Sailor Moon Eternal: O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81692.mp4
+#EXTINF:-1 tvg-name="Pretty Guardian Sailor Moon Eternal: O Filme - Parte 2" group-title="Filmes | Lançamentos 2021",Pretty Guardian Sailor Moon Eternal: O Filme - Parte 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81693.mp4
+#EXTINF:-1 tvg-name="Raya e o Último Dragão" group-title="Filmes | Lançamentos 2021",Raya e o Último Dragão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78371.mp4
+#EXTINF:-1 tvg-name="Rua do Medo: 1666 – Parte 3" group-title="Filmes | Lançamentos 2021",Rua do Medo: 1666 – Parte 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81696.mp4
+#EXTINF:-1 tvg-name="Rua do Medo: 1978 - Parte 2" group-title="Filmes | Lançamentos 2021",Rua do Medo: 1978 - Parte 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81630.mp4
+#EXTINF:-1 tvg-name="Rua do Medo: 1994 - Parte 1" group-title="Filmes | Lançamentos 2021",Rua do Medo: 1994 - Parte 1
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81629.mp4
+#EXTINF:-1 tvg-name="Samurai X: O Final" group-title="Filmes | Lançamentos 2021",Samurai X: O Final
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81268.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! E a Espad‪a‬" group-title="Filmes | Lançamentos 2021",Scooby-Doo! E a Espad‪a‬
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78196.mp4
+#EXTINF:-1 tvg-name="Segurança" group-title="Filmes | Lançamentos 2021",Segurança
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81329.mp4
+#EXTINF:-1 tvg-name="Sem Remorso" group-title="Filmes | Lançamentos 2021",Sem Remorso
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80159.mp4
+#EXTINF:-1 tvg-name="Space Jam: Um Novo Legado" group-title="Filmes | Lançamentos 2021",Space Jam: Um Novo Legado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81691.mp4
+#EXTINF:-1 tvg-name="Spirit: O Corcel Indomável" group-title="Filmes | Lançamentos 2021",Spirit: O Corcel Indomável
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81589.mp4
+#EXTINF:-1 tvg-name="The Lockdown Hauntings" group-title="Filmes | Lançamentos 2021",The Lockdown Hauntings
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80690.mp4
+#EXTINF:-1 tvg-name="The Tangle" group-title="Filmes | Lançamentos 2021",The Tangle
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79639.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: O Filme" group-title="Filmes | Lançamentos 2021",Tom & Jerry: O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81487.mp4
+#EXTINF:-1 tvg-name="Um Clássico Filme de Terror" group-title="Filmes | Lançamentos 2021",Um Clássico Filme de Terror
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81698.mp4
+#EXTINF:-1 tvg-name="Um Inverno em Nova York" group-title="Filmes | Lançamentos 2021",Um Inverno em Nova York
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80003.mp4
+#EXTINF:-1 tvg-name="Um Lugar Silencioso - Parte II" group-title="Filmes | Lançamentos 2021",Um Lugar Silencioso - Parte II
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81588.mp4
+#EXTINF:-1 tvg-name="Um Milagre Inesperado" group-title="Filmes | Lançamentos 2021",Um Milagre Inesperado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81697.mp4
+#EXTINF:-1 tvg-name="Um Príncipe em Nova York 2" group-title="Filmes | Lançamentos 2021",Um Príncipe em Nova York 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78370.mp4
+#EXTINF:-1 tvg-name="Uma Sombra na Nuvem" group-title="Filmes | Lançamentos 2021",Uma Sombra na Nuvem
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80097.mp4
+#EXTINF:-1 tvg-name="Viúva Negra" group-title="Filmes | Lançamentos 2021",Viúva Negra
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81586.mp4
+#EXTINF:-1 tvg-name="Xtremo" group-title="Filmes | Lançamentos 2021",Xtremo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81211.mp4
+#EXTINF:-1 tvg-name="Zona de Combate" group-title="Filmes | Lançamentos 2021",Zona de Combate
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77356.mp4
+
+
+
+
+#EXTINF:-1 tvg-name="1 Contra Todos" group-title="Filmes | Nacionais",1 Contra Todos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48897.mp4
+#EXTINF:-1 tvg-name="2 Filhos de Francisco" group-title="Filmes | Nacionais",2 Filhos de Francisco
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48902.mp4
+#EXTINF:-1 tvg-name="Aladim e a Lâmpada Maravilhosa" group-title="Filmes | Nacionais",Aladim e a Lâmpada Maravilhosa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57042.mp4
+#EXTINF:-1 tvg-name="Alemão" group-title="Filmes | Nacionais",Alemão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81431.mp4
+#EXTINF:-1 tvg-name="Assalto ao Banco Central" group-title="Filmes | Nacionais",Assalto ao Banco Central
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57022.mp4
+#EXTINF:-1 tvg-name="Até Que A Sorte Nos Separe 3 - A Falência Final" group-title="Filmes | Nacionais",Até Que A Sorte Nos Separe 3 - A Falência Final
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76708.mp4
+#EXTINF:-1 tvg-name="Bacurau" tvg-logo="https://i.imgur.com/7T3h7mQ.jpg" group-title="Filmes | Nacionais",Bacurau
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63792.mp4
+#EXTINF:-1 tvg-name="Baronesa" group-title="Filmes | Nacionais",Baronesa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57025.mp4
+#EXTINF:-1 tvg-name="Bia 2.0" group-title="Filmes | Nacionais",Bia 2.0
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57000.mp4
+#EXTINF:-1 tvg-name="Carandiru" group-title="Filmes | Nacionais",Carandiru
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72971.mp4
+#EXTINF:-1 tvg-name="Carlinhos e Carlão" group-title="Filmes | Nacionais",Carlinhos e Carlão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76344.mp4
+#EXTINF:-1 tvg-name="Causa e Efeito" group-title="Filmes | Nacionais",Causa e Efeito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71071.mp4
+#EXTINF:-1 tvg-name="Chacrinha: O Velho Guerreiro" group-title="Filmes | Nacionais",Chacrinha: O Velho Guerreiro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57004.mp4
+#EXTINF:-1 tvg-name="Chico Xavier" group-title="Filmes | Nacionais",Chico Xavier
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62556.mp4
+#EXTINF:-1 tvg-name="Cidade de Deus" group-title="Filmes | Nacionais",Cidade de Deus
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71864.mp4
+#EXTINF:-1 tvg-name="Detetives do Prédio Azul 2 - O Mistério Italiano" group-title="Filmes | Nacionais",Detetives do Prédio Azul 2 - O Mistério Italiano
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57006.mp4
+#EXTINF:-1 tvg-name="Didi Quer Ser Criança" group-title="Filmes | Nacionais",Didi Quer Ser Criança
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57052.mp4
+#EXTINF:-1 tvg-name="Eu Fico Loko" group-title="Filmes | Nacionais",Eu Fico Loko
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71382.mp4
+#EXTINF:-1 tvg-name="Ferrugem" group-title="Filmes | Nacionais",Ferrugem
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57016.mp4
+#EXTINF:-1 tvg-name="Intimidade Entre Estranhos" group-title="Filmes | Nacionais",Intimidade Entre Estranhos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57009.mp4
+#EXTINF:-1 tvg-name="Irmãos de Fé" group-title="Filmes | Nacionais",Irmãos de Fé
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78995.mp4
+#EXTINF:-1 tvg-name="Lascados" group-title="Filmes | Nacionais",Lascados
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57002.mp4
+#EXTINF:-1 tvg-name="Legado Italiano" group-title="Filmes | Nacionais",Legado Italiano
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79307.mp4
+#EXTINF:-1 tvg-name="Legalize it!" group-title="Filmes | Nacionais",Legalize it!
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57014.mp4
+#EXTINF:-1 tvg-name="Linda de Morrer" group-title="Filmes | Nacionais",Linda de Morrer
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48918.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em O Fim do Natal" tvg-logo="https://i.imgur.com/wRmDCS8.jpg" group-title="Filmes | Nacionais",Luccas Neto em O Fim do Natal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63791.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Dia das Crianças" group-title="Filmes | Nacionais",Luccas Neto em: Dia das Crianças
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77799.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Perdidos na Noite de Natal" group-title="Filmes | Nacionais",Luccas Neto em: Perdidos na Noite de Natal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76294.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Um Natal Muito Atrapalhado" group-title="Filmes | Nacionais",Luccas Neto em: Um Natal Muito Atrapalhado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76331.mp4
+#EXTINF:-1 tvg-name="Mais Forte que o Mundo - A História de José Aldo" group-title="Filmes | Nacionais",Mais Forte que o Mundo - A História de José Aldo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81239.mp4
+#EXTINF:-1 tvg-name="Mal Nosso" group-title="Filmes | Nacionais",Mal Nosso
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57021.mp4
+#EXTINF:-1 tvg-name="Menino Maluquinho - O Filme" group-title="Filmes | Nacionais",Menino Maluquinho - O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76986.mp4
+#EXTINF:-1 tvg-name="Meu Nome Não é Johnny" group-title="Filmes | Nacionais",Meu Nome Não é Johnny
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57053.mp4
+#EXTINF:-1 tvg-name="Meu Passado Me Condena 2" group-title="Filmes | Nacionais",Meu Passado Me Condena 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61327.mp4
+#EXTINF:-1 tvg-name="Minha Mãe é Uma Peça 3" group-title="Filmes | Nacionais",Minha Mãe é Uma Peça 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65123.mp4
+#EXTINF:-1 tvg-name="Mulheres Alteradas" group-title="Filmes | Nacionais",Mulheres Alteradas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57020.mp4
+#EXTINF:-1 tvg-name="Murilo Couto" group-title="Filmes | Nacionais",Murilo Couto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80755.mp4
+#EXTINF:-1 tvg-name="Nada a Perder 2: Não Se Pode Esconder a Verdade" group-title="Filmes | Nacionais",Nada a Perder 2: Não Se Pode Esconder a Verdade
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80095.mp4
+#EXTINF:-1 tvg-name="Nao Se Aceitam Devoluçoes" group-title="Filmes | Nacionais",Nao Se Aceitam Devoluçoes
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57001.mp4
+#EXTINF:-1 tvg-name="No Gogó do Paulinho" group-title="Filmes | Nacionais",No Gogó do Paulinho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76388.mp4
+#EXTINF:-1 tvg-name="Nosso Lar" group-title="Filmes | Nacionais",Nosso Lar
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73447.mp4
+#EXTINF:-1 tvg-name="O Banquete" group-title="Filmes | Nacionais",O Banquete
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57017.mp4
+#EXTINF:-1 tvg-name="O Candidato Honesto 2" group-title="Filmes | Nacionais",O Candidato Honesto 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73562.mp4
+#EXTINF:-1 tvg-name="O Cangaceiro Trapalhão" group-title="Filmes | Nacionais",O Cangaceiro Trapalhão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57049.mp4
+#EXTINF:-1 tvg-name="O Casamento dos Trapalhões" group-title="Filmes | Nacionais",O Casamento dos Trapalhões
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57050.mp4
+#EXTINF:-1 tvg-name="O Cavaleiro Didi e a Princesa Lili" group-title="Filmes | Nacionais",O Cavaleiro Didi e a Princesa Lili
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57051.mp4
+#EXTINF:-1 tvg-name="O Cinderelo Trapalhão" group-title="Filmes | Nacionais",O Cinderelo Trapalhão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57019.mp4
+#EXTINF:-1 tvg-name="O Clube dos Canibais" group-title="Filmes | Nacionais",O Clube dos Canibais
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57003.mp4
+#EXTINF:-1 tvg-name="O Duelo" group-title="Filmes | Nacionais",O Duelo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48263.mp4
+#EXTINF:-1 tvg-name="O Filho Eterno" group-title="Filmes | Nacionais",O Filho Eterno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48924.mp4
+#EXTINF:-1 tvg-name="O Grande Circo Mistico" group-title="Filmes | Nacionais",O Grande Circo Mistico
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57013.mp4
+#EXTINF:-1 tvg-name="O Homem Que Desafiou o Diabo" group-title="Filmes | Nacionais",O Homem Que Desafiou o Diabo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70780.mp4
+#EXTINF:-1 tvg-name="O Homem do Futuro" group-title="Filmes | Nacionais",O Homem do Futuro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78148.mp4
+#EXTINF:-1 tvg-name="O Lobo Atrás da Porta" group-title="Filmes | Nacionais",O Lobo Atrás da Porta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57054.mp4
+#EXTINF:-1 tvg-name="O Mistério de Robin Hood" group-title="Filmes | Nacionais",O Mistério de Robin Hood
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57047.mp4
+#EXTINF:-1 tvg-name="O Trapalhão na Arca de Noé" group-title="Filmes | Nacionais",O Trapalhão na Arca de Noé
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57035.mp4
+#EXTINF:-1 tvg-name="O Trapalhão na Ilha do Tesouro" group-title="Filmes | Nacionais",O Trapalhão na Ilha do Tesouro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57034.mp4
+#EXTINF:-1 tvg-name="O Trapalhão nas Minas do Rei Salomão" group-title="Filmes | Nacionais",O Trapalhão nas Minas do Rei Salomão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57033.mp4
+#EXTINF:-1 tvg-name="Os Heróis Trapalhões - Uma Aventura na Selva" group-title="Filmes | Nacionais",Os Heróis Trapalhões - Uma Aventura na Selva
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57045.mp4
+#EXTINF:-1 tvg-name="Os Saltimbancos Trapalhões - Rumo a Hollywood" group-title="Filmes | Nacionais",Os Saltimbancos Trapalhões - Rumo a Hollywood
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57044.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões e a Árvore da Juventude" group-title="Filmes | Nacionais",Os Trapalhões e a Árvore da Juventude
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57041.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões e o Rei do Futebol" group-title="Filmes | Nacionais",Os Trapalhões e o Rei do Futebol
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57040.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões na Guerra dos Planetas" group-title="Filmes | Nacionais",Os Trapalhões na Guerra dos Planetas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57039.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões no Rabo do Cometa" group-title="Filmes | Nacionais",Os Trapalhões no Rabo do Cometa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57038.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões no Reino da Fantasia" group-title="Filmes | Nacionais",Os Trapalhões no Reino da Fantasia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57037.mp4
+#EXTINF:-1 tvg-name="Os Trapalhões: Ali Babá e os Quarenta Ladrões" group-title="Filmes | Nacionais",Os Trapalhões: Ali Babá e os Quarenta Ladrões
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57043.mp4
+#EXTINF:-1 tvg-name="Os Três Mosqueteiros Trapalhões" group-title="Filmes | Nacionais",Os Três Mosqueteiros Trapalhões
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57036.mp4
+#EXTINF:-1 tvg-name="Pixote: A Lei Do Mais Fraco" group-title="Filmes | Nacionais",Pixote: A Lei Do Mais Fraco
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57031.mp4
+#EXTINF:-1 tvg-name="Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe" group-title="Filmes | Nacionais",Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57029.mp4
+#EXTINF:-1 tvg-name="Quem Matou Pixote?" group-title="Filmes | Nacionais",Quem Matou Pixote?
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57030.mp4
+#EXTINF:-1 tvg-name="Roberto Carlos e o Diamante Cor-de-Rosa" group-title="Filmes | Nacionais",Roberto Carlos e o Diamante Cor-de-Rosa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57011.mp4
+#EXTINF:-1 tvg-name="Roberto Carlos em Ritmo de Aventura" group-title="Filmes | Nacionais",Roberto Carlos em Ritmo de Aventura
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57010.mp4
+#EXTINF:-1 tvg-name="Robin Hood, O Trapalhão da Floresta" group-title="Filmes | Nacionais", O Trapalhão da Floresta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57028.mp4
+#EXTINF:-1 tvg-name="Sandy & Junior: Nossa História" group-title="Filmes | Nacionais",Sandy & Junior: Nossa História
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77220.mp4
+#EXTINF:-1 tvg-name="Sequestro Relâmpago" group-title="Filmes | Nacionais",Sequestro Relâmpago
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57007.mp4
+#EXTINF:-1 tvg-name="Serra Pelada" group-title="Filmes | Nacionais",Serra Pelada
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77941.mp4
+#EXTINF:-1 tvg-name="Sócrates" tvg-logo="https://i.imgur.com/cxFYGuc.jpg" group-title="Filmes | Nacionais",Sócrates
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63504.mp4
+#EXTINF:-1 tvg-name="TAINA A ORIGEM" group-title="Filmes | Nacionais",TAINA A ORIGEM
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48933.mp4
+#EXTINF:-1 tvg-name="Tainá: uma aventura na Amazônia" group-title="Filmes | Nacionais",Tainá: uma aventura na Amazônia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48934.mp4
+#EXTINF:-1 tvg-name="Teocracia em Vertigem" group-title="Filmes | Nacionais",Teocracia em Vertigem
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76674.mp4
+#EXTINF:-1 tvg-name="Tim Maia" group-title="Filmes | Nacionais",Tim Maia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72723.mp4
+#EXTINF:-1 tvg-name="Trash: A Esperança Vem do Lixo" group-title="Filmes | Nacionais",Trash: A Esperança Vem do Lixo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80063.mp4
+#EXTINF:-1 tvg-name="Tudo Acaba Em Festa" group-title="Filmes | Nacionais",Tudo Acaba Em Festa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56999.mp4
+#EXTINF:-1 tvg-name="Tudo Bem no Natal Que Vem" group-title="Filmes | Nacionais",Tudo Bem no Natal Que Vem
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76475.mp4
+#EXTINF:-1 tvg-name="Tudo por um Pop Star" group-title="Filmes | Nacionais",Tudo por um Pop Star
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57008.mp4
+#EXTINF:-1 tvg-name="Um Suburbano Sortudo" group-title="Filmes | Nacionais",Um Suburbano Sortudo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69352.mp4
+#EXTINF:-1 tvg-name="Uma História de Amor e Fúria" group-title="Filmes | Nacionais",Uma História de Amor e Fúria
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57024.mp4
+#EXTINF:-1 tvg-name="VIPs - 2011" group-title="Filmes | Nacionais",VIPs - 2011
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77609.mp4
+#EXTINF:-1 tvg-name="o auto da compadecida" group-title="Filmes | Nacionais",o auto da compadecida
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48423.mp4
+#EXTINF:-1 tvg-name="Ó Pai, Ó" group-title="Filmes | Nacionais", Ó
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79991.mp4
+
+
+
+
+#EXTINF:-1 tvg-name="Harbinger Down - Terror no Gelo" group-title="Filmes | Terror",Harbinger Down - Terror no Gelo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63896.mp4
+#EXTINF:-1 tvg-name="13 Fantasmas" group-title="Filmes | Terror",13 Fantasmas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76108.mp4
+#EXTINF:-1 tvg-name="1303 - Apartamento do Mal" group-title="Filmes | Terror",1303 - Apartamento do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81711.mp4
+#EXTINF:-1 tvg-name="2019: O Ano da Extinção" group-title="Filmes | Terror",2019: O Ano da Extinção
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76947.mp4
+#EXTINF:-1 tvg-name="30 Dias de Noite" group-title="Filmes | Terror",30 Dias de Noite
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78865.mp4
+#EXTINF:-1 tvg-name="30 Dias de Noite 2: Dias Sombrios" group-title="Filmes | Terror",30 Dias de Noite 2: Dias Sombrios
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81317.mp4
+#EXTINF:-1 tvg-name="407 - O Voo das Trevas" group-title="Filmes | Terror",407 - O Voo das Trevas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57576.mp4
+#EXTINF:-1 tvg-name="7 Desejos" group-title="Filmes | Terror",7 Desejos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72527.mp4
+#EXTINF:-1 tvg-name="A Amaldiçoada" group-title="Filmes | Terror",A Amaldiçoada
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81207.mp4
+#EXTINF:-1 tvg-name="A Autópsia" group-title="Filmes | Terror",A Autópsia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74341.mp4
+#EXTINF:-1 tvg-name="A Bruma Assassina" group-title="Filmes | Terror",A Bruma Assassina
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57058.mp4
+#EXTINF:-1 tvg-name="A Bruxa da Casa ao Lado" group-title="Filmes | Terror",A Bruxa da Casa ao Lado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77906.mp4
+#EXTINF:-1 tvg-name="A Casa de Cera" group-title="Filmes | Terror",A Casa de Cera
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71498.mp4
+#EXTINF:-1 tvg-name="A Casa de Vidro" group-title="Filmes | Terror",A Casa de Vidro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78110.mp4
+#EXTINF:-1 tvg-name="A Casa do Medo" group-title="Filmes | Terror",A Casa do Medo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81626.mp4
+#EXTINF:-1 tvg-name="A Casa do Medo: Incidente em Ghostland" group-title="Filmes | Terror",A Casa do Medo: Incidente em Ghostland
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78111.mp4
+#EXTINF:-1 tvg-name="A Caçada" group-title="Filmes | Terror",A Caçada
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76457.mp4
+#EXTINF:-1 tvg-name="A Chave Mestra" group-title="Filmes | Terror",A Chave Mestra
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81078.mp4
+#EXTINF:-1 tvg-name="A Entidade" group-title="Filmes | Terror",A Entidade
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76327.mp4
+#EXTINF:-1 tvg-name="A Freira" group-title="Filmes | Terror",A Freira
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69901.mp4
+#EXTINF:-1 tvg-name="A Gruta" group-title="Filmes | Terror",A Gruta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76153.mp4
+#EXTINF:-1 tvg-name="A Hora Da Sua Morte" group-title="Filmes | Terror",A Hora Da Sua Morte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73999.mp4
+#EXTINF:-1 tvg-name="A Hora do Espanto" group-title="Filmes | Terror",A Hora do Espanto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72407.mp4
+#EXTINF:-1 tvg-name="A Hora do Espanto 2" group-title="Filmes | Terror",A Hora do Espanto 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72408.mp4
+#EXTINF:-1 tvg-name="A Ilha da Morte" group-title="Filmes | Terror",A Ilha da Morte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/58070.mp4
+#EXTINF:-1 tvg-name="A Inquilina" group-title="Filmes | Terror",A Inquilina
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78978.mp4
+#EXTINF:-1 tvg-name="A Inudacao" group-title="Filmes | Terror",A Inudacao
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48382.mp4
+#EXTINF:-1 tvg-name="A Ligação" group-title="Filmes | Terror",A Ligação
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76346.mp4
+#EXTINF:-1 tvg-name="A Lição de Moremi" group-title="Filmes | Terror",A Lição de Moremi
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76345.mp4
+#EXTINF:-1 tvg-name="A MORTE DO DEMONIO" group-title="Filmes | Terror",A MORTE DO DEMONIO
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57088.mp4
+#EXTINF:-1 tvg-name="A Maldicao De Chucky" group-title="Filmes | Terror",A Maldicao De Chucky
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48194.mp4
+#EXTINF:-1 tvg-name="A Maldição da Casa Winchester" group-title="Filmes | Terror",A Maldição da Casa Winchester
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74463.mp4
+#EXTINF:-1 tvg-name="A Maldição da Chorona" group-title="Filmes | Terror",A Maldição da Chorona
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61329.mp4
+#EXTINF:-1 tvg-name="A Maldição da Freira" group-title="Filmes | Terror",A Maldição da Freira
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/58050.mp4
+#EXTINF:-1 tvg-name="A Maldição do Espelho" group-title="Filmes | Terror",A Maldição do Espelho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77136.mp4
+#EXTINF:-1 tvg-name="A Maldição do Poço" group-title="Filmes | Terror",A Maldição do Poço
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76231.mp4
+#EXTINF:-1 tvg-name="A Maldição dos Esquecidos" group-title="Filmes | Terror",A Maldição dos Esquecidos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63297.mp4
+#EXTINF:-1 tvg-name="A Marca da Pantera" group-title="Filmes | Terror",A Marca da Pantera
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57057.mp4
+#EXTINF:-1 tvg-name="A Menininha" group-title="Filmes | Terror",A Menininha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76390.mp4
+#EXTINF:-1 tvg-name="A Morte Do Demonio" group-title="Filmes | Terror",A Morte Do Demonio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54875.mp4
+#EXTINF:-1 tvg-name="A Morte Te Da Parabens" group-title="Filmes | Terror",A Morte Te Da Parabens
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48195.mp4
+#EXTINF:-1 tvg-name="A Morte Te Dá Parabéns 2" group-title="Filmes | Terror",A Morte Te Dá Parabéns 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57348.mp4
+#EXTINF:-1 tvg-name="A Moça da Limpeza" group-title="Filmes | Terror",A Moça da Limpeza
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62755.mp4
+#EXTINF:-1 tvg-name="A Múmia" group-title="Filmes | Terror",A Múmia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51868.mp4
+#EXTINF:-1 tvg-name="A Noite Devorou o Mundo" group-title="Filmes | Terror",A Noite Devorou o Mundo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79203.mp4
+#EXTINF:-1 tvg-name="A Noiva" group-title="Filmes | Terror",A Noiva
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48196.mp4
+#EXTINF:-1 tvg-name="A Noiva De Chucky" group-title="Filmes | Terror",A Noiva De Chucky
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48197.mp4
+#EXTINF:-1 tvg-name="A Possessão de Deborah Logan" group-title="Filmes | Terror",A Possessão de Deborah Logan
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78968.mp4
+#EXTINF:-1 tvg-name="A Possessão de Mary" group-title="Filmes | Terror",A Possessão de Mary
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72913.mp4
+#EXTINF:-1 tvg-name="A Sétima Alma" group-title="Filmes | Terror",A Sétima Alma
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74380.mp4
+#EXTINF:-1 tvg-name="A Árvore da Maldição" group-title="Filmes | Terror",A Árvore da Maldição
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57069.mp4
+#EXTINF:-1 tvg-name="A Órfã" group-title="Filmes | Terror",A Órfã
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74892.mp4
+#EXTINF:-1 tvg-name="A Última Casa da Rua" group-title="Filmes | Terror",A Última Casa da Rua
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81149.mp4
+#EXTINF:-1 tvg-name="A Última Premonição" group-title="Filmes | Terror",A Última Premonição
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70923.mp4
+#EXTINF:-1 tvg-name="Abismo do Medo" group-title="Filmes | Terror",Abismo do Medo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76350.mp4
+#EXTINF:-1 tvg-name="Abismo do Medo 2" group-title="Filmes | Terror",Abismo do Medo 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76351.mp4
+#EXTINF:-1 tvg-name="Além da Escuridão" group-title="Filmes | Terror",Além da Escuridão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57075.mp4
+#EXTINF:-1 tvg-name="Ambulância do Terror" group-title="Filmes | Terror",Ambulância do Terror
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70734.mp4
+#EXTINF:-1 tvg-name="Ameaça Profunda" group-title="Filmes | Terror",Ameaça Profunda
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81508.mp4
+#EXTINF:-1 tvg-name="American Mary" group-title="Filmes | Terror",American Mary
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81253.mp4
+#EXTINF:-1 tvg-name="Amizade Maldita" group-title="Filmes | Terror",Amizade Maldita
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78007.mp4
+#EXTINF:-1 tvg-name="Amuleto" group-title="Filmes | Terror",Amuleto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81548.mp4
+#EXTINF:-1 tvg-name="Anjo Maldito" group-title="Filmes | Terror",Anjo Maldito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78411.mp4
+#EXTINF:-1 tvg-name="Anjos Rebeldes" group-title="Filmes | Terror",Anjos Rebeldes
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57064.mp4
+#EXTINF:-1 tvg-name="Anjos Rebeldes 2" group-title="Filmes | Terror",Anjos Rebeldes 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57063.mp4
+#EXTINF:-1 tvg-name="Anjos Rebeldes 3" group-title="Filmes | Terror",Anjos Rebeldes 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57062.mp4
+#EXTINF:-1 tvg-name="Anjos e Demônios" group-title="Filmes | Terror",Anjos e Demônios
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70733.mp4
+#EXTINF:-1 tvg-name="Annabelle 2 A Criacao Do Mal" group-title="Filmes | Terror",Annabelle 2 A Criacao Do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48203.mp4
+#EXTINF:-1 tvg-name="Annabelle 3: De Volta para Casa" tvg-logo="https://i.imgur.com/a45mmm6.jpg" group-title="Filmes | Terror",Annabelle 3: De Volta para Casa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63109.mp4
+#EXTINF:-1 tvg-name="Apanhador de Pesadelos" group-title="Filmes | Terror",Apanhador de Pesadelos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70916.mp4
+#EXTINF:-1 tvg-name="Apartamento 212 - A Infestação" group-title="Filmes | Terror",Apartamento 212 - A Infestação
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76257.mp4
+#EXTINF:-1 tvg-name="Apostolo" group-title="Filmes | Terror",Apostolo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61395.mp4
+#EXTINF:-1 tvg-name="Após a morte" group-title="Filmes | Terror",Após a morte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48968.mp4
+#EXTINF:-1 tvg-name="Army of the Dead: Invasão em Las Vegas" group-title="Filmes | Terror",Army of the Dead: Invasão em Las Vegas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80713.mp4
+#EXTINF:-1 tvg-name="Arraste-me para o Inferno" group-title="Filmes | Terror",Arraste-me para o Inferno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78484.mp4
+#EXTINF:-1 tvg-name="As Faces do Demônio" group-title="Filmes | Terror",As Faces do Demônio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77204.mp4
+#EXTINF:-1 tvg-name="Assim na Terra Como no Inferno" group-title="Filmes | Terror",Assim na Terra Como no Inferno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72912.mp4
+#EXTINF:-1 tvg-name="Assombrada pelo Passado" group-title="Filmes | Terror",Assombrada pelo Passado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77137.mp4
+#EXTINF:-1 tvg-name="Asylum of Fear" group-title="Filmes | Terror",Asylum of Fear
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63177.mp4
+#EXTINF:-1 tvg-name="Aterro Maldito" group-title="Filmes | Terror",Aterro Maldito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72435.mp4
+#EXTINF:-1 tvg-name="BRINQUEDO ASSASSINO" group-title="Filmes | Terror",BRINQUEDO ASSASSINO
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57085.mp4
+#EXTINF:-1 tvg-name="Baile da Morte" group-title="Filmes | Terror",Baile da Morte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72173.mp4
+#EXTINF:-1 tvg-name="Blind – Eu Estou Aqui" group-title="Filmes | Terror",Blind – Eu Estou Aqui
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77138.mp4
+#EXTINF:-1 tvg-name="Brahms: Boneco do Mal II" group-title="Filmes | Terror",Brahms: Boneco do Mal II
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77505.mp4
+#EXTINF:-1 tvg-name="Brightburn - Filho das Trevas" group-title="Filmes | Terror",Brightburn - Filho das Trevas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80513.mp4
+#EXTINF:-1 tvg-name="Brincadeira Mortal" group-title="Filmes | Terror",Brincadeira Mortal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61452.mp4
+#EXTINF:-1 tvg-name="Brinquedo Assassino" group-title="Filmes | Terror",Brinquedo Assassino
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48213.mp4
+#EXTINF:-1 tvg-name="Brinquedo Assassino" group-title="Filmes | Terror",Brinquedo Assassino
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63192.mp4
+#EXTINF:-1 tvg-name="Brinquedos do Terror" group-title="Filmes | Terror",Brinquedos do Terror
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76773.mp4
+#EXTINF:-1 tvg-name="Cabana da Possessão" group-title="Filmes | Terror",Cabana da Possessão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77659.mp4
+#EXTINF:-1 tvg-name="Cacador De Demonios" group-title="Filmes | Terror",Cacador De Demonios
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48214.mp4
+#EXTINF:-1 tvg-name="Cadaver" group-title="Filmes | Terror",Cadaver
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57068.mp4
+#EXTINF:-1 tvg-name="Cadáveres 2" group-title="Filmes | Terror",Cadáveres 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71514.mp4
+#EXTINF:-1 tvg-name="Campo do Medo" group-title="Filmes | Terror",Campo do Medo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63191.mp4
+#EXTINF:-1 tvg-name="Canibais" group-title="Filmes | Terror",Canibais
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70893.mp4
+#EXTINF:-1 tvg-name="Carrie, A Estranha" group-title="Filmes | Terror", A Estranha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73191.mp4
+#EXTINF:-1 tvg-name="Casa das Trevas 2" group-title="Filmes | Terror",Casa das Trevas 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56934.mp4
+#EXTINF:-1 tvg-name="Castelo De Areia" group-title="Filmes | Terror",Castelo De Areia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48215.mp4
+#EXTINF:-1 tvg-name="Castigo Mortal" group-title="Filmes | Terror",Castigo Mortal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73192.mp4
+#EXTINF:-1 tvg-name="Caçados" group-title="Filmes | Terror",Caçados
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75940.mp4
+#EXTINF:-1 tvg-name="Cemitério Maldito" group-title="Filmes | Terror",Cemitério Maldito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60959.mp4
+#EXTINF:-1 tvg-name="Continue Assistindo" group-title="Filmes | Terror",Continue Assistindo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48218.mp4
+#EXTINF:-1 tvg-name="Contos Macabros 2" group-title="Filmes | Terror",Contos Macabros 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57588.mp4
+#EXTINF:-1 tvg-name="Corra!" group-title="Filmes | Terror",Corra!
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72969.mp4
+#EXTINF:-1 tvg-name="Corredor Assombrado" group-title="Filmes | Terror",Corredor Assombrado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48899.mp4
+#EXTINF:-1 tvg-name="Corredor Assombrado" group-title="Filmes | Terror",Corredor Assombrado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56378.mp4
+#EXTINF:-1 tvg-name="Crianças Malignas" group-title="Filmes | Terror",Crianças Malignas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81854.mp4
+#EXTINF:-1 tvg-name="Cura Fatal" group-title="Filmes | Terror",Cura Fatal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74919.mp4
+#EXTINF:-1 tvg-name="Código Vermelho" group-title="Filmes | Terror",Código Vermelho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73193.mp4
+#EXTINF:-1 tvg-name="De Volta à Casa da Colina" group-title="Filmes | Terror",De Volta à Casa da Colina
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78979.mp4
+#EXTINF:-1 tvg-name="Delivery Macabro" group-title="Filmes | Terror",Delivery Macabro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81433.mp4
+#EXTINF:-1 tvg-name="Devorados Vivos" group-title="Filmes | Terror",Devorados Vivos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73194.mp4
+#EXTINF:-1 tvg-name="Doce Vinganca 3 A Vinganca é Minha" group-title="Filmes | Terror",Doce Vinganca 3 A Vinganca é Minha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49737.mp4
+#EXTINF:-1 tvg-name="Doce Vingança" group-title="Filmes | Terror",Doce Vingança
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72526.mp4
+#EXTINF:-1 tvg-name="Doce Vingança 2" group-title="Filmes | Terror",Doce Vingança 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49735.mp4
+#EXTINF:-1 tvg-name="Doce Vingança 4 - Deja Vu" group-title="Filmes | Terror",Doce Vingança 4 - Deja Vu
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80483.mp4
+#EXTINF:-1 tvg-name="Don't Open Your Eyes" group-title="Filmes | Terror",Don't Open Your Eyes
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51810.mp4
+#EXTINF:-1 tvg-name="Doutor Sono" group-title="Filmes | Terror",Doutor Sono
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64754.mp4
+#EXTINF:-1 tvg-name="Dracula 3000" group-title="Filmes | Terror",Dracula 3000
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73201.mp4
+#EXTINF:-1 tvg-name="Drácula" group-title="Filmes | Terror",Drácula
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73202.mp4
+#EXTINF:-1 tvg-name="Drácula 2000" group-title="Filmes | Terror",Drácula 2000
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73200.mp4
+#EXTINF:-1 tvg-name="Drácula II: A Ascensão" group-title="Filmes | Terror",Drácula II: A Ascensão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73198.mp4
+#EXTINF:-1 tvg-name="Drácula III: O Legado Final" group-title="Filmes | Terror",Drácula III: O Legado Final
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73199.mp4
+#EXTINF:-1 tvg-name="Duendes e Dragoes" group-title="Filmes | Terror",Duendes e Dragoes
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62083.mp4
+#EXTINF:-1 tvg-name="Eles Vivem" group-title="Filmes | Terror",Eles Vivem
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80256.mp4
+#EXTINF:-1 tvg-name="Errementari" group-title="Filmes | Terror",Errementari
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48997.mp4
+#EXTINF:-1 tvg-name="Escape Room" group-title="Filmes | Terror",Escape Room
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/59128.mp4
+#EXTINF:-1 tvg-name="Escolhida" group-title="Filmes | Terror",Escolhida
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76155.mp4
+#EXTINF:-1 tvg-name="Escondidos" group-title="Filmes | Terror",Escondidos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79202.mp4
+#EXTINF:-1 tvg-name="Escuridão Mortal" group-title="Filmes | Terror",Escuridão Mortal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78909.mp4
+#EXTINF:-1 tvg-name="Espíritos 2 Você nunca está sozinho" group-title="Filmes | Terror",Espíritos 2 Você nunca está sozinho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76707.mp4
+#EXTINF:-1 tvg-name="Espíritos: A Morte Esta Ao Seu Lado" group-title="Filmes | Terror",Espíritos: A Morte Esta Ao Seu Lado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76706.mp4
+#EXTINF:-1 tvg-name="Eu Sei Quem Me Matou" group-title="Filmes | Terror",Eu Sei Quem Me Matou
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54885.mp4
+#EXTINF:-1 tvg-name="Eu Vi o Diabo" group-title="Filmes | Terror",Eu Vi o Diabo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78369.mp4
+#EXTINF:-1 tvg-name="Evil Dead - A Morte Do Demonio" group-title="Filmes | Terror",Evil Dead - A Morte Do Demonio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56367.mp4
+#EXTINF:-1 tvg-name="Exorcismos e Demonios" group-title="Filmes | Terror",Exorcismos e Demonios
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49738.mp4
+#EXTINF:-1 tvg-name="Exorcistas do Vaticano" group-title="Filmes | Terror",Exorcistas do Vaticano
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80361.mp4
+#EXTINF:-1 tvg-name="Fatale" group-title="Filmes | Terror",Fatale
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80431.mp4
+#EXTINF:-1 tvg-name="Feitiço" group-title="Filmes | Terror",Feitiço
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81613.mp4
+#EXTINF:-1 tvg-name="Festival Sangrento" group-title="Filmes | Terror",Festival Sangrento
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72650.mp4
+#EXTINF:-1 tvg-name="Forças Malignas" group-title="Filmes | Terror",Forças Malignas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76608.mp4
+#EXTINF:-1 tvg-name="Fragmentado" group-title="Filmes | Terror",Fragmentado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60268.mp4
+#EXTINF:-1 tvg-name="Fuga do Hospício: A História de Nellie Bly" group-title="Filmes | Terror",Fuga do Hospício: A História de Nellie Bly
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56396.mp4
+#EXTINF:-1 tvg-name="Fuja" group-title="Filmes | Terror",Fuja
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79308.mp4
+#EXTINF:-1 tvg-name="Gantz" group-title="Filmes | Terror",Gantz
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49001.mp4
+#EXTINF:-1 tvg-name="Garotos Perdidos 2: A Tribo - 2008" group-title="Filmes | Terror",Garotos Perdidos 2: A Tribo - 2008
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73207.mp4
+#EXTINF:-1 tvg-name="Garotos Perdidos 3: A Sede" group-title="Filmes | Terror",Garotos Perdidos 3: A Sede
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73203.mp4
+#EXTINF:-1 tvg-name="Ghost - Do Outro Lado da Vida" group-title="Filmes | Terror",Ghost - Do Outro Lado da Vida
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62558.mp4
+#EXTINF:-1 tvg-name="Grito Silencioso" group-title="Filmes | Terror",Grito Silencioso
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75772.mp4
+#EXTINF:-1 tvg-name="Guerra Mundial Z" group-title="Filmes | Terror",Guerra Mundial Z
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71958.mp4
+#EXTINF:-1 tvg-name="Halloween" group-title="Filmes | Terror",Halloween
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51815.mp4
+#EXTINF:-1 tvg-name="Hannibal - A Origem do Mal" group-title="Filmes | Terror",Hannibal - A Origem do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77993.mp4
+#EXTINF:-1 tvg-name="Hellraiser - Renascido do Inferno" group-title="Filmes | Terror",Hellraiser - Renascido do Inferno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79216.mp4
+#EXTINF:-1 tvg-name="Hellraiser II - Renascido das Trevas" group-title="Filmes | Terror",Hellraiser II - Renascido das Trevas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79217.mp4
+#EXTINF:-1 tvg-name="Hellraiser III - Inferno na Terra" group-title="Filmes | Terror",Hellraiser III - Inferno na Terra
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79218.mp4
+#EXTINF:-1 tvg-name="Hellraiser IV - Herança Maldita" group-title="Filmes | Terror",Hellraiser IV - Herança Maldita
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79219.mp4
+#EXTINF:-1 tvg-name="Hellraiser IX - Revelações" group-title="Filmes | Terror",Hellraiser IX - Revelações
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79224.mp4
+#EXTINF:-1 tvg-name="Hellraiser V - Inferno" group-title="Filmes | Terror",Hellraiser V - Inferno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79220.mp4
+#EXTINF:-1 tvg-name="Hellraiser VI - Caçador do Inferno" group-title="Filmes | Terror",Hellraiser VI - Caçador do Inferno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79221.mp4
+#EXTINF:-1 tvg-name="Hellraiser VII - O Retorno dos Mortos" group-title="Filmes | Terror",Hellraiser VII - O Retorno dos Mortos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79222.mp4
+#EXTINF:-1 tvg-name="Hellraiser VIII - O Mundo do Inferno" group-title="Filmes | Terror",Hellraiser VIII - O Mundo do Inferno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79223.mp4
+#EXTINF:-1 tvg-name="Hereditário" group-title="Filmes | Terror",Hereditário
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/50874.mp4
+#EXTINF:-1 tvg-name="Histórias Assustadoras para Contar no Escuro" group-title="Filmes | Terror",Histórias Assustadoras para Contar no Escuro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78223.mp4
+#EXTINF:-1 tvg-name="Homem Larva" group-title="Filmes | Terror",Homem Larva
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73195.mp4
+#EXTINF:-1 tvg-name="Hush - A Morte Ouve" group-title="Filmes | Terror",Hush - A Morte Ouve
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79007.mp4
+#EXTINF:-1 tvg-name="I'll Take Your Dead" group-title="Filmes | Terror",I'll Take Your Dead
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63417.mp4
+#EXTINF:-1 tvg-name="Ilha Vermelha" group-title="Filmes | Terror",Ilha Vermelha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61855.mp4
+#EXTINF:-1 tvg-name="Ilha das Sombras" group-title="Filmes | Terror",Ilha das Sombras
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76198.mp4
+#EXTINF:-1 tvg-name="Ilha do Medo" group-title="Filmes | Terror",Ilha do Medo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81041.mp4
+#EXTINF:-1 tvg-name="Inimigo Desconhecido" group-title="Filmes | Terror",Inimigo Desconhecido
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61458.mp4
+#EXTINF:-1 tvg-name="Insanatório - Quem Entra, Não Sai" group-title="Filmes | Terror", Não Sai
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73196.mp4
+#EXTINF:-1 tvg-name="Invasão Zumbi" group-title="Filmes | Terror",Invasão Zumbi
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79547.mp4
+#EXTINF:-1 tvg-name="Invasão Zumbi 2: Península" group-title="Filmes | Terror",Invasão Zumbi 2: Península
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76928.mp4
+#EXTINF:-1 tvg-name="Invocação do Mal" group-title="Filmes | Terror",Invocação do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71178.mp4
+#EXTINF:-1 tvg-name="Invocação do Mal 2" group-title="Filmes | Terror",Invocação do Mal 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71179.mp4
+#EXTINF:-1 tvg-name="It" group-title="Filmes | Terror",It
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62735.mp4
+#EXTINF:-1 tvg-name="It - A Coisa" group-title="Filmes | Terror",It - A Coisa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48241.mp4
+#EXTINF:-1 tvg-name="It Chapter Two" group-title="Filmes | Terror",It Chapter Two
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62754.mp4
+#EXTINF:-1 tvg-name="JOGOS MORTAIS" group-title="Filmes | Terror",JOGOS MORTAIS
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54842.mp4
+#EXTINF:-1 tvg-name="Jason X - 2001" group-title="Filmes | Terror",Jason X - 2001
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61767.mp4
+#EXTINF:-1 tvg-name="Jessabelle - O Passado Nunca Morre" group-title="Filmes | Terror",Jessabelle - O Passado Nunca Morre
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61396.mp4
+#EXTINF:-1 tvg-name="Jovens Bruxas" group-title="Filmes | Terror",Jovens Bruxas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54876.mp4
+#EXTINF:-1 tvg-name="Kadaver" group-title="Filmes | Terror",Kadaver
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75771.mp4
+#EXTINF:-1 tvg-name="Leatherface" group-title="Filmes | Terror",Leatherface
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48245.mp4
+#EXTINF:-1 tvg-name="Lenda Urbana" group-title="Filmes | Terror",Lenda Urbana
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73204.mp4
+#EXTINF:-1 tvg-name="Lenda Urbana 2" group-title="Filmes | Terror",Lenda Urbana 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54873.mp4
+#EXTINF:-1 tvg-name="Lenda Urbana 3 - A Vingança de Mary" group-title="Filmes | Terror",Lenda Urbana 3 - A Vingança de Mary
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73205.mp4
+#EXTINF:-1 tvg-name="Livrai-nos do Mal" group-title="Filmes | Terror",Livrai-nos do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80582.mp4
+#EXTINF:-1 tvg-name="Ma" group-title="Filmes | Terror",Ma
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62753.mp4
+#EXTINF:-1 tvg-name="Madrugada Dos Mortos" group-title="Filmes | Terror",Madrugada Dos Mortos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48251.mp4
+#EXTINF:-1 tvg-name="Mae e Pai [2018]" group-title="Filmes | Terror",Mae e Pai [2018]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49780.mp4
+#EXTINF:-1 tvg-name="Maligno" group-title="Filmes | Terror",Maligno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60291.mp4
+#EXTINF:-1 tvg-name="Maré de Sangue" group-title="Filmes | Terror",Maré de Sangue
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77121.mp4
+#EXTINF:-1 tvg-name="Massacre no Texas" group-title="Filmes | Terror",Massacre no Texas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70951.mp4
+#EXTINF:-1 tvg-name="Mau-olhado" group-title="Filmes | Terror",Mau-olhado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75233.mp4
+#EXTINF:-1 tvg-name="Medo Profundo - O Segundo Ataque" group-title="Filmes | Terror",Medo Profundo - O Segundo Ataque
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71415.mp4
+#EXTINF:-1 tvg-name="Mentiras Perigosas" group-title="Filmes | Terror",Mentiras Perigosas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71650.mp4
+#EXTINF:-1 tvg-name="Mistérios Ocultos" group-title="Filmes | Terror",Mistérios Ocultos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72697.mp4
+#EXTINF:-1 tvg-name="Mistérios na Radio" group-title="Filmes | Terror",Mistérios na Radio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63185.mp4
+#EXTINF:-1 tvg-name="Morto Não Fala" group-title="Filmes | Terror",Morto Não Fala
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73209.mp4
+#EXTINF:-1 tvg-name="Mulheres Perigosas" group-title="Filmes | Terror",Mulheres Perigosas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79637.mp4
+#EXTINF:-1 tvg-name="Nancy" group-title="Filmes | Terror",Nancy
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57347.mp4
+#EXTINF:-1 tvg-name="Navio Fantasma" group-title="Filmes | Terror",Navio Fantasma
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78448.mp4
+#EXTINF:-1 tvg-name="Noite Sem Fim" group-title="Filmes | Terror",Noite Sem Fim
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48261.mp4
+#EXTINF:-1 tvg-name="Noturno" group-title="Filmes | Terror",Noturno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75235.mp4
+#EXTINF:-1 tvg-name="Não Adianta Rezar" group-title="Filmes | Terror",Não Adianta Rezar
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56424.mp4
+#EXTINF:-1 tvg-name="Não Olhe" group-title="Filmes | Terror",Não Olhe
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71459.mp4
+#EXTINF:-1 tvg-name="Nós" group-title="Filmes | Terror",Nós
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61189.mp4
+#EXTINF:-1 tvg-name="Número 23" group-title="Filmes | Terror",Número 23
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71416.mp4
+#EXTINF:-1 tvg-name="O 3º Andar: Terror na Rua Malasana" group-title="Filmes | Terror",O 3º Andar: Terror na Rua Malasana
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77867.mp4
+#EXTINF:-1 tvg-name="O Albergue" group-title="Filmes | Terror",O Albergue
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54874.mp4
+#EXTINF:-1 tvg-name="O Albergue 2" group-title="Filmes | Terror",O Albergue 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54877.mp4
+#EXTINF:-1 tvg-name="O Albergue 3" group-title="Filmes | Terror",O Albergue 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81628.mp4
+#EXTINF:-1 tvg-name="O Animal Cordial" group-title="Filmes | Terror",O Animal Cordial
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48922.mp4
+#EXTINF:-1 tvg-name="O Assassinato de Nicole Brown Simpson" group-title="Filmes | Terror",O Assassinato de Nicole Brown Simpson
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69926.mp4
+#EXTINF:-1 tvg-name="O Carro Assassino" group-title="Filmes | Terror",O Carro Assassino
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54780.mp4
+#EXTINF:-1 tvg-name="O Cemitério das Almas Perdidas" group-title="Filmes | Terror",O Cemitério das Almas Perdidas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77868.mp4
+#EXTINF:-1 tvg-name="O Chalé" group-title="Filmes | Terror",O Chalé
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77608.mp4
+#EXTINF:-1 tvg-name="O Chamado do Mal" group-title="Filmes | Terror",O Chamado do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57067.mp4
+#EXTINF:-1 tvg-name="O Chamado vs. O Grito" group-title="Filmes | Terror",O Chamado vs. O Grito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56394.mp4
+#EXTINF:-1 tvg-name="O Colecionador de Corpos 2" group-title="Filmes | Terror",O Colecionador de Corpos 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57079.mp4
+#EXTINF:-1 tvg-name="O Crematório" group-title="Filmes | Terror",O Crematório
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77122.mp4
+#EXTINF:-1 tvg-name="O Culto De Chucky" group-title="Filmes | Terror",O Culto De Chucky
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48262.mp4
+#EXTINF:-1 tvg-name="O Demônio do Sono" group-title="Filmes | Terror",O Demônio do Sono
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51820.mp4
+#EXTINF:-1 tvg-name="O Despertar das Sombras" group-title="Filmes | Terror",O Despertar das Sombras
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51831.mp4
+#EXTINF:-1 tvg-name="O Estranho Thomas" group-title="Filmes | Terror",O Estranho Thomas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81121.mp4
+#EXTINF:-1 tvg-name="O Exorcismo De Anna Ecklun" group-title="Filmes | Terror",O Exorcismo De Anna Ecklun
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48266.mp4
+#EXTINF:-1 tvg-name="O Exorcismo de Emily Rose" group-title="Filmes | Terror",O Exorcismo de Emily Rose
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71454.mp4
+#EXTINF:-1 tvg-name="O Exorcista" group-title="Filmes | Terror",O Exorcista
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77845.mp4
+#EXTINF:-1 tvg-name="O Filho De Chucky" group-title="Filmes | Terror",O Filho De Chucky
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48267.mp4
+#EXTINF:-1 tvg-name="O Grito - 2020" group-title="Filmes | Terror",O Grito - 2020
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74175.mp4
+#EXTINF:-1 tvg-name="O Grito da Morte" group-title="Filmes | Terror",O Grito da Morte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49752.mp4
+#EXTINF:-1 tvg-name="O Homem Sem Sombra 2 2007" group-title="Filmes | Terror",O Homem Sem Sombra 2 2007
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49041.mp4
+#EXTINF:-1 tvg-name="O Homem nas Trevas" group-title="Filmes | Terror",O Homem nas Trevas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57056.mp4
+#EXTINF:-1 tvg-name="O Horror Entre Nós" group-title="Filmes | Terror",O Horror Entre Nós
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57654.mp4
+#EXTINF:-1 tvg-name="O Hóspede" group-title="Filmes | Terror",O Hóspede
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49073.mp4
+#EXTINF:-1 tvg-name="O Iluminado" group-title="Filmes | Terror",O Iluminado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60880.mp4
+#EXTINF:-1 tvg-name="O Inquilino" group-title="Filmes | Terror",O Inquilino
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54781.mp4
+#EXTINF:-1 tvg-name="O Labirinto do Fauno" group-title="Filmes | Terror",O Labirinto do Fauno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72546.mp4
+#EXTINF:-1 tvg-name="O Limite da Traição" group-title="Filmes | Terror",O Limite da Traição
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64918.mp4
+#EXTINF:-1 tvg-name="O Mal Entre Nós" group-title="Filmes | Terror",O Mal Entre Nós
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57078.mp4
+#EXTINF:-1 tvg-name="O Mensageiro do Último Dia" group-title="Filmes | Terror",O Mensageiro do Último Dia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81408.mp4
+#EXTINF:-1 tvg-name="O Misterio das Garotas Pedidas" group-title="Filmes | Terror",O Misterio das Garotas Pedidas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/59125.mp4
+#EXTINF:-1 tvg-name="O Mistério da Casa Assombrada" group-title="Filmes | Terror",O Mistério da Casa Assombrada
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80635.mp4
+#EXTINF:-1 tvg-name="O Mistério de Block Island" group-title="Filmes | Terror",O Mistério de Block Island
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78719.mp4
+#EXTINF:-1 tvg-name="O Mistério do Convento 2: Caçadora de Almas" group-title="Filmes | Terror",O Mistério do Convento 2: Caçadora de Almas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76455.mp4
+#EXTINF:-1 tvg-name="O Nevoeiro" group-title="Filmes | Terror",O Nevoeiro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71260.mp4
+#EXTINF:-1 tvg-name="O Nó do Diabo" group-title="Filmes | Terror",O Nó do Diabo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48925.mp4
+#EXTINF:-1 tvg-name="O Olho do Demônio" group-title="Filmes | Terror",O Olho do Demônio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69392.mp4
+#EXTINF:-1 tvg-name="O Orfanato" group-title="Filmes | Terror",O Orfanato
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77445.mp4
+#EXTINF:-1 tvg-name="O Outro Lado do Lago" group-title="Filmes | Terror",O Outro Lado do Lago
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56942.mp4
+#EXTINF:-1 tvg-name="O Peso do Passado" group-title="Filmes | Terror",O Peso do Passado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57356.mp4
+#EXTINF:-1 tvg-name="O Pregador Sinistro" group-title="Filmes | Terror",O Pregador Sinistro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80584.mp4
+#EXTINF:-1 tvg-name="O Preço da Ajuda" group-title="Filmes | Terror",O Preço da Ajuda
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76301.mp4
+#EXTINF:-1 tvg-name="O Quarto do Pânico" group-title="Filmes | Terror",O Quarto do Pânico
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79929.mp4
+#EXTINF:-1 tvg-name="O Rebanho" group-title="Filmes | Terror",O Rebanho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80488.mp4
+#EXTINF:-1 tvg-name="O Segredo da Cabana" group-title="Filmes | Terror",O Segredo da Cabana
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81585.mp4
+#EXTINF:-1 tvg-name="O Segredo de Alcatraz" group-title="Filmes | Terror",O Segredo de Alcatraz
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80142.mp4
+#EXTINF:-1 tvg-name="O Sexto Sentido" group-title="Filmes | Terror",O Sexto Sentido
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62561.mp4
+#EXTINF:-1 tvg-name="O massacre do moinho de vento" group-title="Filmes | Terror",O massacre do moinho de vento
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/50885.mp4
+#EXTINF:-1 tvg-name="Oferenda à Tempestade" group-title="Filmes | Terror",Oferenda à Tempestade
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72970.mp4
+#EXTINF:-1 tvg-name="Olhos Famintos" group-title="Filmes | Terror",Olhos Famintos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71955.mp4
+#EXTINF:-1 tvg-name="Olhos Famintos 2" group-title="Filmes | Terror",Olhos Famintos 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71956.mp4
+#EXTINF:-1 tvg-name="Olhos Famintos 3" group-title="Filmes | Terror",Olhos Famintos 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49756.mp4
+#EXTINF:-1 tvg-name="Operação Obscura" group-title="Filmes | Terror",Operação Obscura
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74109.mp4
+#EXTINF:-1 tvg-name="Os Assassinatos de Amityville" group-title="Filmes | Terror",Os Assassinatos de Amityville
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65082.mp4
+#EXTINF:-1 tvg-name="Os Dementes" group-title="Filmes | Terror",Os Dementes
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73197.mp4
+#EXTINF:-1 tvg-name="Os Estranhos" group-title="Filmes | Terror",Os Estranhos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77125.mp4
+#EXTINF:-1 tvg-name="Os Estranhos: Caçada Noturna" group-title="Filmes | Terror",Os Estranhos: Caçada Noturna
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77126.mp4
+#EXTINF:-1 tvg-name="Os Garotos Perdidos - 1987" group-title="Filmes | Terror",Os Garotos Perdidos - 1987
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73206.mp4
+#EXTINF:-1 tvg-name="Os Intrusos" group-title="Filmes | Terror",Os Intrusos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80449.mp4
+#EXTINF:-1 tvg-name="Os Órfãos" group-title="Filmes | Terror",Os Órfãos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69660.mp4
+#EXTINF:-1 tvg-name="Ouija - A Origem do Mal" group-title="Filmes | Terror",Ouija - A Origem do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61399.mp4
+#EXTINF:-1 tvg-name="Ouija - O Jogo dos Espíritos" group-title="Filmes | Terror",Ouija - O Jogo dos Espíritos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61398.mp4
+#EXTINF:-1 tvg-name="Ouija - Onde Tudo Começou" group-title="Filmes | Terror",Ouija - Onde Tudo Começou
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61401.mp4
+#EXTINF:-1 tvg-name="Ouija 2 - A Ressurreição" group-title="Filmes | Terror",Ouija 2 - A Ressurreição
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61400.mp4
+#EXTINF:-1 tvg-name="Paciente Zero" group-title="Filmes | Terror",Paciente Zero
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69925.mp4
+#EXTINF:-1 tvg-name="Padre" group-title="Filmes | Terror",Padre
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72591.mp4
+#EXTINF:-1 tvg-name="Parque do Inferno" group-title="Filmes | Terror",Parque do Inferno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57066.mp4
+#EXTINF:-1 tvg-name="Pesadelo" group-title="Filmes | Terror",Pesadelo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76862.mp4
+#EXTINF:-1 tvg-name="Poltergeist - O Fenômeno" group-title="Filmes | Terror",Poltergeist - O Fenômeno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72223.mp4
+#EXTINF:-1 tvg-name="Precisamos Falar Sobre o Kevin" group-title="Filmes | Terror",Precisamos Falar Sobre o Kevin
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72525.mp4
+#EXTINF:-1 tvg-name="Predadores Assasinos" group-title="Filmes | Terror",Predadores Assasinos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63898.mp4
+#EXTINF:-1 tvg-name="Premonição" group-title="Filmes | Terror",Premonição
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70918.mp4
+#EXTINF:-1 tvg-name="Premonição 2" group-title="Filmes | Terror",Premonição 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70919.mp4
+#EXTINF:-1 tvg-name="Premonição 3" group-title="Filmes | Terror",Premonição 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70920.mp4
+#EXTINF:-1 tvg-name="Premonição 4" group-title="Filmes | Terror",Premonição 4
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70921.mp4
+#EXTINF:-1 tvg-name="Premonição 5" group-title="Filmes | Terror",Premonição 5
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70922.mp4
+#EXTINF:-1 tvg-name="Presos no Gelo 3 - O Início" group-title="Filmes | Terror",Presos no Gelo 3 - O Início
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81824.mp4
+#EXTINF:-1 tvg-name="Profecia Renegados" group-title="Filmes | Terror",Profecia Renegados
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57060.mp4
+#EXTINF:-1 tvg-name="Profecia: A Guardiã do Destino" group-title="Filmes | Terror",Profecia: A Guardiã do Destino
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57061.mp4
+#EXTINF:-1 tvg-name="Psicose - 1960" group-title="Filmes | Terror",Psicose - 1960
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80356.mp4
+#EXTINF:-1 tvg-name="Psicose 2 - 1983" group-title="Filmes | Terror",Psicose 2 - 1983
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80357.mp4
+#EXTINF:-1 tvg-name="Psicose 4" group-title="Filmes | Terror",Psicose 4
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57072.mp4
+#EXTINF:-1 tvg-name="Psycho" group-title="Filmes | Terror",Psycho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57073.mp4
+#EXTINF:-1 tvg-name="Puro-Sangue" group-title="Filmes | Terror",Puro-Sangue
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75921.mp4
+#EXTINF:-1 tvg-name="Pânico em Alto Mar" group-title="Filmes | Terror",Pânico em Alto Mar
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79502.mp4
+#EXTINF:-1 tvg-name="Pânico na Floresta" group-title="Filmes | Terror",Pânico na Floresta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70565.mp4
+#EXTINF:-1 tvg-name="Pânico na Floresta 2: Floresta do Mal" group-title="Filmes | Terror",Pânico na Floresta 2: Floresta do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70566.mp4
+#EXTINF:-1 tvg-name="Pânico na Floresta 3" group-title="Filmes | Terror",Pânico na Floresta 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70567.mp4
+#EXTINF:-1 tvg-name="Pânico na Floresta 4: Origens Sangrentas" group-title="Filmes | Terror",Pânico na Floresta 4: Origens Sangrentas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80996.mp4
+#EXTINF:-1 tvg-name="Pânico na Floresta 5: Linha de Sangue" group-title="Filmes | Terror",Pânico na Floresta 5: Linha de Sangue
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80997.mp4
+#EXTINF:-1 tvg-name="Pânico na Floresta 6: Último Resort" group-title="Filmes | Terror",Pânico na Floresta 6: Último Resort
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80998.mp4
+#EXTINF:-1 tvg-name="Quando as Luzes se Apagam" group-title="Filmes | Terror",Quando as Luzes se Apagam
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71361.mp4
+#EXTINF:-1 tvg-name="Quando os Anjos Dormem" group-title="Filmes | Terror",Quando os Anjos Dormem
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70995.mp4
+#EXTINF:-1 tvg-name="Regresso do Mal" group-title="Filmes | Terror",Regresso do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77908.mp4
+#EXTINF:-1 tvg-name="Relíquia Macabra" group-title="Filmes | Terror",Relíquia Macabra
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80768.mp4
+#EXTINF:-1 tvg-name="Resident Evil 3: A Extinção" group-title="Filmes | Terror",Resident Evil 3: A Extinção
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69817.mp4
+#EXTINF:-1 tvg-name="Resident Evil 6: O Capítulo Final" group-title="Filmes | Terror",Resident Evil 6: O Capítulo Final
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77660.mp4
+#EXTINF:-1 tvg-name="Resident Evil: O Hóspede Maldito" group-title="Filmes | Terror",Resident Evil: O Hóspede Maldito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54642.mp4
+#EXTINF:-1 tvg-name="Rise: A Ressurreição" group-title="Filmes | Terror",Rise: A Ressurreição
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73208.mp4
+#EXTINF:-1 tvg-name="Rogai por Nós" group-title="Filmes | Terror",Rogai por Nós
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81290.mp4
+#EXTINF:-1 tvg-name="Sadako: Capítulo Final" group-title="Filmes | Terror",Sadako: Capítulo Final
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72859.mp4
+#EXTINF:-1 tvg-name="Sanatorium: Mistérios na Noite" group-title="Filmes | Terror",Sanatorium: Mistérios na Noite
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77123.mp4
+#EXTINF:-1 tvg-name="Santet - O Feitiço do Mal" group-title="Filmes | Terror",Santet - O Feitiço do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/58065.mp4
+#EXTINF:-1 tvg-name="Schindler's List" group-title="Filmes | Terror",Schindler's List
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/50393.mp4
+#EXTINF:-1 tvg-name="Sem Conexão" group-title="Filmes | Terror",Sem Conexão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76230.mp4
+#EXTINF:-1 tvg-name="Siembamba: A Canção do Ma" group-title="Filmes | Terror",Siembamba: A Canção do Ma
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57070.mp4
+#EXTINF:-1 tvg-name="Sobrenatural" group-title="Filmes | Terror",Sobrenatural
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80062.mp4
+#EXTINF:-1 tvg-name="Sobrenatural - A Última Chave" group-title="Filmes | Terror",Sobrenatural - A Última Chave
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48556.mp4
+#EXTINF:-1 tvg-name="Sombras do Terror" group-title="Filmes | Terror",Sombras do Terror
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77657.mp4
+#EXTINF:-1 tvg-name="Sonhos na Casa da Bruxa" group-title="Filmes | Terror",Sonhos na Casa da Bruxa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57076.mp4
+#EXTINF:-1 tvg-name="Spawn: O Soldado do Inferno" group-title="Filmes | Terror",Spawn: O Soldado do Inferno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74845.mp4
+#EXTINF:-1 tvg-name="Stephanie" group-title="Filmes | Terror",Stephanie
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49765.mp4
+#EXTINF:-1 tvg-name="Stigmata" group-title="Filmes | Terror",Stigmata
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/54784.mp4
+#EXTINF:-1 tvg-name="Stiletto" group-title="Filmes | Terror",Stiletto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49736.mp4
+#EXTINF:-1 tvg-name="Tales from the Hood 2" group-title="Filmes | Terror",Tales from the Hood 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51840.mp4
+#EXTINF:-1 tvg-name="Tempo de Caça" group-title="Filmes | Terror",Tempo de Caça
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76229.mp4
+#EXTINF:-1 tvg-name="Terra dos Mortos" group-title="Filmes | Terror",Terra dos Mortos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79183.mp4
+#EXTINF:-1 tvg-name="Terra e Luz" group-title="Filmes | Terror",Terra e Luz
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78993.mp4
+#EXTINF:-1 tvg-name="The Sand" group-title="Filmes | Terror",The Sand
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49766.mp4
+#EXTINF:-1 tvg-name="The Vice" group-title="Filmes | Terror",The Vice
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48976.mp4
+#EXTINF:-1 tvg-name="Tumba Aberta" group-title="Filmes | Terror",Tumba Aberta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57065.mp4
+#EXTINF:-1 tvg-name="Um Dia De Caos" group-title="Filmes | Terror",Um Dia De Caos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48419.mp4
+#EXTINF:-1 tvg-name="Uma Noite Alucinante: A Morte do Demônio" group-title="Filmes | Terror",Uma Noite Alucinante: A Morte do Demônio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51814.mp4
+#EXTINF:-1 tvg-name="Uma Noite para Esquecer" group-title="Filmes | Terror",Uma Noite para Esquecer
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57077.mp4
+#EXTINF:-1 tvg-name="Vampire In Vegas" group-title="Filmes | Terror",Vampire In Vegas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73210.mp4
+#EXTINF:-1 tvg-name="Van Helsing: O Caçador de Monstros" group-title="Filmes | Terror",Van Helsing: O Caçador de Monstros
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79607.mp4
+#EXTINF:-1 tvg-name="Vende-se Esta Casa" group-title="Filmes | Terror",Vende-se Esta Casa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61402.mp4
+#EXTINF:-1 tvg-name="Verdade ou Desafio" group-title="Filmes | Terror",Verdade ou Desafio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80318.mp4
+#EXTINF:-1 tvg-name="Verônica" group-title="Filmes | Terror",Verônica
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48340.mp4
+#EXTINF:-1 tvg-name="Viagem Maldita" group-title="Filmes | Terror",Viagem Maldita
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76113.mp4
+#EXTINF:-1 tvg-name="Vidro" group-title="Filmes | Terror",Vidro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57345.mp4
+#EXTINF:-1 tvg-name="Vigiados" group-title="Filmes | Terror",Vigiados
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74779.mp4
+#EXTINF:-1 tvg-name="Vingança FM -" group-title="Filmes | Terror",Vingança FM -
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64987.mp4
+#EXTINF:-1 tvg-name="Você Deveria Ter Partido" group-title="Filmes | Terror",Você Deveria Ter Partido
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79503.mp4
+#EXTINF:-1 tvg-name="Vozes" group-title="Filmes | Terror",Vozes
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76618.mp4
+#EXTINF:-1 tvg-name="Zombies" group-title="Filmes | Terror",Zombies
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51850.mp4
+#EXTINF:-1 tvg-name="[REC]" group-title="Filmes | Terror",[REC]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76886.mp4
+#EXTINF:-1 tvg-name="prisioneiro da morte" group-title="Filmes | Terror",prisioneiro da morte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79272.mp4
+#EXTINF:-1 tvg-name="À Espreita do Mal" group-title="Filmes | Terror",À Espreita do Mal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79949.mp4
+#EXTINF:-1 tvg-name="Às Cegas" group-title="Filmes | Terror",Às Cegas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76822.mp4
+#EXTINF:-1 tvg-name="Ánimas" group-title="Filmes | Terror",Ánimas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56395.mp4
+
+
+
+#EXTINF:-1 tvg-name="101 Dálmatas" group-title="Filmes | Infantil",101 Dálmatas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81538.mp4
+#EXTINF:-1 tvg-name="A Bailarina" group-title="Filmes | Infantil",A Bailarina
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79546.mp4
+#EXTINF:-1 tvg-name="A Bela e a Fera" group-title="Filmes | Infantil",A Bela e a Fera
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51800.mp4
+#EXTINF:-1 tvg-name="A Caminho da Lua" group-title="Filmes | Infantil",A Caminho da Lua
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75827.mp4
+#EXTINF:-1 tvg-name="A Casa Monstro" group-title="Filmes | Infantil",A Casa Monstro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64581.mp4
+#EXTINF:-1 tvg-name="A Dama e o Vagabundo" group-title="Filmes | Infantil",A Dama e o Vagabundo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76325.mp4
+#EXTINF:-1 tvg-name="A Era Do Gelo - A Grande Caçada Aos Ovos De Páscoa" group-title="Filmes | Infantil",A Era Do Gelo - A Grande Caçada Aos Ovos De Páscoa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63954.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo" group-title="Filmes | Infantil",A Era do Gelo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63928.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo - Especial de Natal" group-title="Filmes | Infantil",A Era do Gelo - Especial de Natal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69561.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo - O Big Bang" group-title="Filmes | Infantil",A Era do Gelo - O Big Bang
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63932.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 2" group-title="Filmes | Infantil",A Era do Gelo 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63929.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 4" group-title="Filmes | Infantil",A Era do Gelo 4
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63931.mp4
+#EXTINF:-1 tvg-name="A Família Addams" group-title="Filmes | Infantil",A Família Addams
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65608.mp4
+#EXTINF:-1 tvg-name="A Fantástica Fábrica de Chocolate" group-title="Filmes | Infantil",A Fantástica Fábrica de Chocolate
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71043.mp4
+#EXTINF:-1 tvg-name="A Fuga Das Galinhas" group-title="Filmes | Infantil",A Fuga Das Galinhas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78769.mp4
+#EXTINF:-1 tvg-name="A Lenda da Passagem Secreta" group-title="Filmes | Infantil",A Lenda da Passagem Secreta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56438.mp4
+#EXTINF:-1 tvg-name="A Lenda da Passagem Secreta" group-title="Filmes | Infantil",A Lenda da Passagem Secreta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56398.mp4
+#EXTINF:-1 tvg-name="A Lenda do Pato Sol" group-title="Filmes | Infantil",A Lenda do Pato Sol
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65609.mp4
+#EXTINF:-1 tvg-name="A Lenda dos 108" group-title="Filmes | Infantil",A Lenda dos 108
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65607.mp4
+#EXTINF:-1 tvg-name="A Princesa e o Dragão" group-title="Filmes | Infantil",A Princesa e o Dragão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65610.mp4
+#EXTINF:-1 tvg-name="A Princesa e o Sapo" group-title="Filmes | Infantil",A Princesa e o Sapo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76585.mp4
+#EXTINF:-1 tvg-name="A era do Gelo 3" group-title="Filmes | Infantil",A era do Gelo 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63930.mp4
+#EXTINF:-1 tvg-name="A Árvore dos Desejos" group-title="Filmes | Infantil",A Árvore dos Desejos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76914.mp4
+#EXTINF:-1 tvg-name="Abominável" group-title="Filmes | Infantil",Abominável
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65611.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos" group-title="Filmes | Infantil",Alvin e os Esquilos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/67458.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos 2" group-title="Filmes | Infantil",Alvin e os Esquilos 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/67459.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos 3" group-title="Filmes | Infantil",Alvin e os Esquilos 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/67460.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos: Na Estrada" group-title="Filmes | Infantil",Alvin e os Esquilos: Na Estrada
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/67461.mp4
+#EXTINF:-1 tvg-name="Amigos Alienigenas" group-title="Filmes | Infantil",Amigos Alienigenas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49047.mp4
+#EXTINF:-1 tvg-name="Angry Birds" group-title="Filmes | Infantil",Angry Birds
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64305.mp4
+#EXTINF:-1 tvg-name="Angry Birds 2: O Filme" tvg-logo="https://i.imgur.com/N3JvYpF.jpg" group-title="Filmes | Infantil",Angry Birds 2: O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63808.mp4
+#EXTINF:-1 tvg-name="Animais em Apuros" group-title="Filmes | Infantil",Animais em Apuros
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65613.mp4
+#EXTINF:-1 tvg-name="Arctic Dogs" group-title="Filmes | Infantil",Arctic Dogs
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65614.mp4
+#EXTINF:-1 tvg-name="Arthur e os Minimoys" group-title="Filmes | Infantil",Arthur e os Minimoys
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78554.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo 2: E o Segredo do Rei Midas" group-title="Filmes | Infantil",As Aventuras de Tadeo 2: E o Segredo do Rei Midas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81003.mp4
+#EXTINF:-1 tvg-name="As Fantasias de Nicolás" group-title="Filmes | Infantil",As Fantasias de Nicolás
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79492.mp4
+#EXTINF:-1 tvg-name="As Memorias de Marnie" group-title="Filmes | Infantil",As Memorias de Marnie
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48986.mp4
+#EXTINF:-1 tvg-name="Asterix e o Segredo da Poção Mágica" group-title="Filmes | Infantil",Asterix e o Segredo da Poção Mágica
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63178.mp4
+#EXTINF:-1 tvg-name="Axel e os Meninos do Espaço" group-title="Filmes | Infantil",Axel e os Meninos do Espaço
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65615.mp4
+#EXTINF:-1 tvg-name="Barbie - Escola de Princesas" group-title="Filmes | Infantil",Barbie - Escola de Princesas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69211.mp4
+#EXTINF:-1 tvg-name="Barbie Aventura da Princesa" group-title="Filmes | Infantil",Barbie Aventura da Princesa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79313.mp4
+#EXTINF:-1 tvg-name="Barbie Dreamtopia: Festival da Alegria" group-title="Filmes | Infantil",Barbie Dreamtopia: Festival da Alegria
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69210.mp4
+#EXTINF:-1 tvg-name="Barbie Em Um Mundo de Video Game" group-title="Filmes | Infantil",Barbie Em Um Mundo de Video Game
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69205.mp4
+#EXTINF:-1 tvg-name="Barbie e as Agentes Secretas" group-title="Filmes | Infantil",Barbie e as Agentes Secretas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69202.mp4
+#EXTINF:-1 tvg-name="Barbie e o Portal Secreto" group-title="Filmes | Infantil",Barbie e o Portal Secreto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69203.mp4
+#EXTINF:-1 tvg-name="Barbie em a Princesa da Ilha" group-title="Filmes | Infantil",Barbie em a Princesa da Ilha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69204.mp4
+#EXTINF:-1 tvg-name="Barbie: A Princesa e a Popstar" group-title="Filmes | Infantil",Barbie: A Princesa e a Popstar
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69201.mp4
+#EXTINF:-1 tvg-name="Barbie: Aventura nas Estrelas" group-title="Filmes | Infantil",Barbie: Aventura nas Estrelas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69209.mp4
+#EXTINF:-1 tvg-name="Barbie: Rainhas do Rock" group-title="Filmes | Infantil",Barbie: Rainhas do Rock
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69212.mp4
+#EXTINF:-1 tvg-name="Barbie: Super Princesa" group-title="Filmes | Infantil",Barbie: Super Princesa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69206.mp4
+#EXTINF:-1 tvg-name="Barbie: Um Natal Perfeito" group-title="Filmes | Infantil",Barbie: Um Natal Perfeito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69207.mp4
+#EXTINF:-1 tvg-name="Batman vs Tartarugas Ninja" group-title="Filmes | Infantil",Batman vs Tartarugas Ninja
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/58055.mp4
+#EXTINF:-1 tvg-name="Bee Movie: A História de uma Abelha" group-title="Filmes | Infantil",Bee Movie: A História de uma Abelha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77516.mp4
+#EXTINF:-1 tvg-name="Beethoven - O Magnífico" group-title="Filmes | Infantil",Beethoven - O Magnífico
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69187.mp4
+#EXTINF:-1 tvg-name="Beethoven e o Tesouro Secreto" group-title="Filmes | Infantil",Beethoven e o Tesouro Secreto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69188.mp4
+#EXTINF:-1 tvg-name="Big Pai, Big Filho, Big Família" group-title="Filmes | Infantil", Big Família
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79158.mp4
+#EXTINF:-1 tvg-name="Bob Esponja: O Incrível Resgate" group-title="Filmes | Infantil",Bob Esponja: O Incrível Resgate
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76273.mp4
+#EXTINF:-1 tvg-name="Bolt - Supercão" group-title="Filmes | Infantil",Bolt - Supercão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49705.mp4
+#EXTINF:-1 tvg-name="Cada Um na Sua Casa" group-title="Filmes | Infantil",Cada Um na Sua Casa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/66658.mp4
+#EXTINF:-1 tvg-name="Caes Estelares" group-title="Filmes | Infantil",Caes Estelares
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62317.mp4
+#EXTINF:-1 tvg-name="Capitão Dentes de Sabre e o Diamante Mágico" group-title="Filmes | Infantil",Capitão Dentes de Sabre e o Diamante Mágico
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65616.mp4
+#EXTINF:-1 tvg-name="Cara, Cadê o Dragão?" group-title="Filmes | Infantil", Cadê o Dragão?
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65617.mp4
+#EXTINF:-1 tvg-name="Carros" group-title="Filmes | Infantil",Carros
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57585.mp4
+#EXTINF:-1 tvg-name="Carros 2" group-title="Filmes | Infantil",Carros 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57584.mp4
+#EXTINF:-1 tvg-name="Carros 3" group-title="Filmes | Infantil",Carros 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64375.mp4
+#EXTINF:-1 tvg-name="Carrossel - O Filme" group-title="Filmes | Infantil",Carrossel - O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78179.mp4
+#EXTINF:-1 tvg-name="Cegonhas - A História que Não te Contaram" group-title="Filmes | Infantil",Cegonhas - A História que Não te Contaram
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48528.mp4
+#EXTINF:-1 tvg-name="Cinderela e o Príncipe Secreto" group-title="Filmes | Infantil",Cinderela e o Príncipe Secreto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49054.mp4
+#EXTINF:-1 tvg-name="Combatentes.da.Liberdade.Ray" group-title="Filmes | Infantil",Combatentes.da.Liberdade.Ray
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/50869.mp4
+#EXTINF:-1 tvg-name="Como Cães e Gatos 3: Peludos Unidos!" group-title="Filmes | Infantil",Como Cães e Gatos 3: Peludos Unidos!
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74921.mp4
+#EXTINF:-1 tvg-name="Como Treinar O Seu Dragao" group-title="Filmes | Infantil",Como Treinar O Seu Dragao
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48494.mp4
+#EXTINF:-1 tvg-name="Como Treinar O Seu Dragao 2" group-title="Filmes | Infantil",Como Treinar O Seu Dragao 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48493.mp4
+#EXTINF:-1 tvg-name="Como Treinar o seu Dragão 3" group-title="Filmes | Infantil",Como Treinar o seu Dragão 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/58056.mp4
+#EXTINF:-1 tvg-name="Coraline e o Mundo Secreto" group-title="Filmes | Infantil",Coraline e o Mundo Secreto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73298.mp4
+#EXTINF:-1 tvg-name="Coração de Dragão: Vingança" group-title="Filmes | Infantil",Coração de Dragão: Vingança
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75966.mp4
+#EXTINF:-1 tvg-name="Corgi: Top Dog" group-title="Filmes | Infantil",Corgi: Top Dog
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/68729.mp4
+#EXTINF:-1 tvg-name="D.P.A. Detetives do Prédio Azul - O Filme" group-title="Filmes | Infantil",D.P.A. Detetives do Prédio Azul - O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81718.mp4
+#EXTINF:-1 tvg-name="Daphne e Velma" group-title="Filmes | Infantil",Daphne e Velma
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70659.mp4
+#EXTINF:-1 tvg-name="Dennis, o Pimentinha Ataca Novamente" group-title="Filmes | Infantil", o Pimentinha Ataca Novamente
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79139.mp4
+#EXTINF:-1 tvg-name="Detona Ralhp" group-title="Filmes | Infantil",Detona Ralhp
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48522.mp4
+#EXTINF:-1 tvg-name="Digimon.O.Filme.2000" group-title="Filmes | Infantil",Digimon.O.Filme.2000
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48993.mp4
+#EXTINF:-1 tvg-name="Divertida Mente" group-title="Filmes | Infantil",Divertida Mente
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49714.mp4
+#EXTINF:-1 tvg-name="Dois Irmãos - Uma Jornada Fantástica" group-title="Filmes | Infantil",Dois Irmãos - Uma Jornada Fantástica
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65618.mp4
+#EXTINF:-1 tvg-name="Dora e a Cidade Perdida" group-title="Filmes | Infantil",Dora e a Cidade Perdida
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62254.mp4
+#EXTINF:-1 tvg-name="Dragon Ball Super: Broly" group-title="Filmes | Infantil",Dragon Ball Super: Broly
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49044.mp4
+#EXTINF:-1 tvg-name="Dragon Ball Z - A Batalha Dos Deuses" group-title="Filmes | Infantil",Dragon Ball Z - A Batalha Dos Deuses
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48305.mp4
+#EXTINF:-1 tvg-name="Dragon Ball Z O Renascimento De Freeza" group-title="Filmes | Infantil",Dragon Ball Z O Renascimento De Freeza
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48400.mp4
+#EXTINF:-1 tvg-name="Duck Tales O Filme - O Tesouro da Lâmpada Perdida" group-title="Filmes | Infantil",Duck Tales O Filme - O Tesouro da Lâmpada Perdida
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49715.mp4
+#EXTINF:-1 tvg-name="Dumbo" group-title="Filmes | Infantil",Dumbo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63110.mp4
+#EXTINF:-1 tvg-name="Elliot: Uma História de Natal" group-title="Filmes | Infantil",Elliot: Uma História de Natal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76527.mp4
+#EXTINF:-1 tvg-name="EncrenCão" group-title="Filmes | Infantil",EncrenCão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81208.mp4
+#EXTINF:-1 tvg-name="Enrolados" group-title="Filmes | Infantil",Enrolados
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48537.mp4
+#EXTINF:-1 tvg-name="Enrolados Outra Vez: Rainha por um dia" group-title="Filmes | Infantil",Enrolados Outra Vez: Rainha por um dia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69842.mp4
+#EXTINF:-1 tvg-name="Festa no Céu" group-title="Filmes | Infantil",Festa no Céu
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72984.mp4
+#EXTINF:-1 tvg-name="Fixies - Amigos Secretos" group-title="Filmes | Infantil",Fixies - Amigos Secretos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65619.mp4
+#EXTINF:-1 tvg-name="Frozen" group-title="Filmes | Infantil",Frozen
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48523.mp4
+#EXTINF:-1 tvg-name="Frozen 2" group-title="Filmes | Infantil",Frozen 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64582.mp4
+#EXTINF:-1 tvg-name="Frozen Uma Aventura Congelante" group-title="Filmes | Infantil",Frozen Uma Aventura Congelante
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48529.mp4
+#EXTINF:-1 tvg-name="GODZILLA.Cidade.no.Limiar.da.Batalha" group-title="Filmes | Infantil",GODZILLA.Cidade.no.Limiar.da.Batalha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/50873.mp4
+#EXTINF:-1 tvg-name="Gato de Botas Preso num Conto Épico" group-title="Filmes | Infantil",Gato de Botas Preso num Conto Épico
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49775.mp4
+#EXTINF:-1 tvg-name="Gnomeu E Julieta O Mistério Do Jardim" group-title="Filmes | Infantil",Gnomeu E Julieta O Mistério Do Jardim
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48530.mp4
+#EXTINF:-1 tvg-name="Gnomeu e Julieta: O Mistério do Jardim" group-title="Filmes | Infantil",Gnomeu e Julieta: O Mistério do Jardim
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75968.mp4
+#EXTINF:-1 tvg-name="Happy Feet - O Pinguim" group-title="Filmes | Infantil",Happy Feet - O Pinguim
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71886.mp4
+#EXTINF:-1 tvg-name="Happy Feet 2 - O Pinguim" group-title="Filmes | Infantil",Happy Feet 2 - O Pinguim
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71887.mp4
+#EXTINF:-1 tvg-name="Hercules" group-title="Filmes | Infantil",Hercules
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48234.mp4
+#EXTINF:-1 tvg-name="Hook - A Volta do Capitão Gancho" group-title="Filmes | Infantil",Hook - A Volta do Capitão Gancho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73321.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvania 1" group-title="Filmes | Infantil",Hotel Transilvania 1
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48525.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvania 2" group-title="Filmes | Infantil",Hotel Transilvania 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48526.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia 3: Férias Monstruosas" group-title="Filmes | Infantil",Hotel Transilvânia 3: Férias Monstruosas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/50875.mp4
+#EXTINF:-1 tvg-name="Irmão Urso" group-title="Filmes | Infantil",Irmão Urso
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57596.mp4
+#EXTINF:-1 tvg-name="Irmão Urso 2" group-title="Filmes | Infantil",Irmão Urso 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77502.mp4
+#EXTINF:-1 tvg-name="José: O Rei dos Sonhos" group-title="Filmes | Infantil",José: O Rei dos Sonhos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65621.mp4
+#EXTINF:-1 tvg-name="Jovens.Titãs.O.Contrato.de.Judas.2017.1080p.BluRay.6CH.x264.DUAL-BLUDV" group-title="Filmes | Infantil",Jovens.Titãs.O.Contrato.de.Judas.2017.1080p.BluRay.6CH.x264.DUAL-BLUDV
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49776.mp4
+#EXTINF:-1 tvg-name="Justin Bieber's Believe" group-title="Filmes | Infantil",Justin Bieber's Believe
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51817.mp4
+#EXTINF:-1 tvg-name="Kung Fu Panda 2" group-title="Filmes | Infantil",Kung Fu Panda 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48540.mp4
+#EXTINF:-1 tvg-name="Kung Fu Panda 3" group-title="Filmes | Infantil",Kung Fu Panda 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48541.mp4
+#EXTINF:-1 tvg-name="LEGO DC Batman - Assunto de Família" group-title="Filmes | Infantil",LEGO DC Batman - Assunto de Família
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77155.mp4
+#EXTINF:-1 tvg-name="LEGO DC Comics Super Heróis: Liga da Justiça vs Liga Bizarro" group-title="Filmes | Infantil",LEGO DC Comics Super Heróis: Liga da Justiça vs Liga Bizarro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77154.mp4
+#EXTINF:-1 tvg-name="LEGO DC: Aquaman – A Fúria de Atlântida" group-title="Filmes | Infantil",LEGO DC: Aquaman – A Fúria de Atlântida
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77152.mp4
+#EXTINF:-1 tvg-name="LEGO DC: Shazam – Magia e Monstros" group-title="Filmes | Infantil",LEGO DC: Shazam – Magia e Monstros
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/68973.mp4
+#EXTINF:-1 tvg-name="LEGO Super Heróis DC: O Flash" group-title="Filmes | Infantil",LEGO Super Heróis DC: O Flash
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77153.mp4
+#EXTINF:-1 tvg-name="Lego Scooby-Doo! Hollywood Assombrada" group-title="Filmes | Infantil",Lego Scooby-Doo! Hollywood Assombrada
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77151.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça Sombria: Guerra de Apokolips" group-title="Filmes | Infantil",Liga da Justiça Sombria: Guerra de Apokolips
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/68082.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça vs. os Cinco Fatais" group-title="Filmes | Infantil",Liga da Justiça vs. os Cinco Fatais
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57358.mp4
+#EXTINF:-1 tvg-name="Lilo e Stitch" group-title="Filmes | Infantil",Lilo e Stitch
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78756.mp4
+#EXTINF:-1 tvg-name="Link Perdido" group-title="Filmes | Infantil",Link Perdido
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65622.mp4
+#EXTINF:-1 tvg-name="Lucas, um Intruso no Formigueiro" group-title="Filmes | Infantil", um Intruso no Formigueiro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76523.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Acampamento de Férias 2" group-title="Filmes | Infantil",Luccas Neto em: Acampamento de Férias 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65589.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: O Mapa do Tesouro" group-title="Filmes | Infantil",Luccas Neto em: O Mapa do Tesouro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75309.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Uma Babá Muito Esquisita" group-title="Filmes | Infantil",Luccas Neto em: Uma Babá Muito Esquisita
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79614.mp4
+#EXTINF:-1 tvg-name="Madagascar 3" group-title="Filmes | Infantil",Madagascar 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49744.mp4
+#EXTINF:-1 tvg-name="Madagascar 3 - Os Procurados" group-title="Filmes | Infantil",Madagascar 3 - Os Procurados
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49779.mp4
+#EXTINF:-1 tvg-name="Manual de Caça a Monstros" group-title="Filmes | Infantil",Manual de Caça a Monstros
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75346.mp4
+#EXTINF:-1 tvg-name="Marnie e os Amigos" group-title="Filmes | Infantil",Marnie e os Amigos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65612.mp4
+#EXTINF:-1 tvg-name="Marvel Rising: Secret Warriors" group-title="Filmes | Infantil",Marvel Rising: Secret Warriors
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51821.mp4
+#EXTINF:-1 tvg-name="Mary Poppins" group-title="Filmes | Infantil",Mary Poppins
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69651.mp4
+#EXTINF:-1 tvg-name="Mary e a Flor da Feiticeira" group-title="Filmes | Infantil",Mary e a Flor da Feiticeira
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49012.mp4
+#EXTINF:-1 tvg-name="Megamente" group-title="Filmes | Infantil",Megamente
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72409.mp4
+#EXTINF:-1 tvg-name="Meu Amigo Robô" group-title="Filmes | Infantil",Meu Amigo Robô
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75922.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito" group-title="Filmes | Infantil",Meu Malvado Favorito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48255.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito 2" group-title="Filmes | Infantil",Meu Malvado Favorito 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48253.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito 3" group-title="Filmes | Infantil",Meu Malvado Favorito 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48254.mp4
+#EXTINF:-1 tvg-name="Meu Vizinho Totoro" group-title="Filmes | Infantil",Meu Vizinho Totoro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49016.mp4
+#EXTINF:-1 tvg-name="Minions: Ajudantes do Papai Noel" group-title="Filmes | Infantil",Minions: Ajudantes do Papai Noel
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57361.mp4
+#EXTINF:-1 tvg-name="Minions: O Filme" group-title="Filmes | Infantil",Minions: O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78450.mp4
+#EXTINF:-1 tvg-name="Moana" group-title="Filmes | Infantil",Moana
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51822.mp4
+#EXTINF:-1 tvg-name="Monstros S.A" group-title="Filmes | Infantil",Monstros S.A
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51823.mp4
+#EXTINF:-1 tvg-name="Monstros.S.A." group-title="Filmes | Infantil",Monstros.S.A.
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49781.mp4
+#EXTINF:-1 tvg-name="Mortal Kombat Legends: A Vingança de Scorpion" group-title="Filmes | Infantil",Mortal Kombat Legends: A Vingança de Scorpion
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65769.mp4
+#EXTINF:-1 tvg-name="Mulan" group-title="Filmes | Infantil",Mulan
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48259.mp4
+#EXTINF:-1 tvg-name="Mulan Blu Ray" group-title="Filmes | Infantil",Mulan Blu Ray
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49783.mp4
+#EXTINF:-1 tvg-name="Mulan Blu Ray 2" group-title="Filmes | Infantil",Mulan Blu Ray 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49782.mp4
+#EXTINF:-1 tvg-name="Natal Shrektacular do Burro" group-title="Filmes | Infantil",Natal Shrektacular do Burro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76746.mp4
+#EXTINF:-1 tvg-name="Nem Que a Vaca Tussa (2004) BRrip 720p Dublado - JEF ~ AndreTPF" group-title="Filmes | Infantil",Nem Que a Vaca Tussa (2004) BRrip 720p Dublado - JEF ~ AndreTPF
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49786.mp4
+#EXTINF:-1 tvg-name="Ni no Kuni" group-title="Filmes | Infantil",Ni no Kuni
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65623.mp4
+#EXTINF:-1 tvg-name="Ninguém Segura Esse Bebê" group-title="Filmes | Infantil",Ninguém Segura Esse Bebê
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76389.mp4
+#EXTINF:-1 tvg-name="O Bicho Vai Pegar" group-title="Filmes | Infantil",O Bicho Vai Pegar
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81343.mp4
+#EXTINF:-1 tvg-name="O Bicho Vai Pegar 2" group-title="Filmes | Infantil",O Bicho Vai Pegar 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81344.mp4
+#EXTINF:-1 tvg-name="O Bicho Vai Pegar 3" group-title="Filmes | Infantil",O Bicho Vai Pegar 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81345.mp4
+#EXTINF:-1 tvg-name="O Bom Dinossauro (2016) 5.1 CH Dublado 1080p (By-LuanHarper)" group-title="Filmes | Infantil",O Bom Dinossauro (2016) 5.1 CH Dublado 1080p (By-LuanHarper)
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49789.mp4
+#EXTINF:-1 tvg-name="O Bom Gigante Amigo" group-title="Filmes | Infantil",O Bom Gigante Amigo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76404.mp4
+#EXTINF:-1 tvg-name="O CALDEIRÃO MÁGICO" group-title="Filmes | Infantil",O CALDEIRÃO MÁGICO
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49102.mp4
+#EXTINF:-1 tvg-name="O Caminho para El Dorado" group-title="Filmes | Infantil",O Caminho para El Dorado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77016.mp4
+#EXTINF:-1 tvg-name="O Espanta Tubarões" group-title="Filmes | Infantil",O Espanta Tubarões
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79382.mp4
+#EXTINF:-1 tvg-name="O Galinho Chicken Little" group-title="Filmes | Infantil",O Galinho Chicken Little
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76528.mp4
+#EXTINF:-1 tvg-name="O Gigante de Ferro" group-title="Filmes | Infantil",O Gigante de Ferro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60274.mp4
+#EXTINF:-1 tvg-name="O Grinch" group-title="Filmes | Infantil",O Grinch
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48974.mp4
+#EXTINF:-1 tvg-name="O Heroi Cuco" group-title="Filmes | Infantil",O Heroi Cuco
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63182.mp4
+#EXTINF:-1 tvg-name="O Natal De Angela" group-title="Filmes | Infantil",O Natal De Angela
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48533.mp4
+#EXTINF:-1 tvg-name="O Natal de Angela" tvg-logo="https://i.imgur.com/wbjQ1fp.jpg" group-title="Filmes | Infantil",O Natal de Angela
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64001.mp4
+#EXTINF:-1 tvg-name="O Pequeno Príncipe" group-title="Filmes | Infantil",O Pequeno Príncipe
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78388.mp4
+#EXTINF:-1 tvg-name="O Presente de Natal de Angela" group-title="Filmes | Infantil",O Presente de Natal de Angela
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76474.mp4
+#EXTINF:-1 tvg-name="O Que Sera De Nozes 2" group-title="Filmes | Infantil",O Que Sera De Nozes 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48270.mp4
+#EXTINF:-1 tvg-name="O Rei Leão" group-title="Filmes | Infantil",O Rei Leão
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69786.mp4
+#EXTINF:-1 tvg-name="O Rei Leão - 1994" group-title="Filmes | Infantil",O Rei Leão - 1994
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72670.mp4
+#EXTINF:-1 tvg-name="O Rei Leão 3: Hakuna Matata" group-title="Filmes | Infantil",O Rei Leão 3: Hakuna Matata
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49076.mp4
+#EXTINF:-1 tvg-name="O Reino Gelado 2" group-title="Filmes | Infantil",O Reino Gelado 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81533.mp4
+#EXTINF:-1 tvg-name="O Reino Gelado: A Terra dos Espelhos" group-title="Filmes | Infantil",O Reino Gelado: A Terra dos Espelhos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81494.mp4
+#EXTINF:-1 tvg-name="O Reino do Superman" group-title="Filmes | Infantil",O Reino do Superman
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56903.mp4
+#EXTINF:-1 tvg-name="O Segredo das Fadas [2011]" group-title="Filmes | Infantil",O Segredo das Fadas [2011]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49798.mp4
+#EXTINF:-1 tvg-name="O X do Natal" group-title="Filmes | Infantil",O X do Natal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76821.mp4
+#EXTINF:-1 tvg-name="O corcunda de Notre Dame" group-title="Filmes | Infantil",O corcunda de Notre Dame
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57605.mp4
+#EXTINF:-1 tvg-name="O corcunda de Notre Dame 2" group-title="Filmes | Infantil",O corcunda de Notre Dame 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57604.mp4
+#EXTINF:-1 tvg-name="O.Rei.Leão.2" group-title="Filmes | Infantil",O.Rei.Leão.2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49075.mp4
+#EXTINF:-1 tvg-name="Os Batutinhas" group-title="Filmes | Infantil",Os Batutinhas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73033.mp4
+#EXTINF:-1 tvg-name="Os Cavaleiros do Zodíaco 1 - Dublado" group-title="Filmes | Infantil",Os Cavaleiros do Zodíaco 1 - Dublado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60286.mp4
+#EXTINF:-1 tvg-name="Os Cavaleiros do Zodíaco 2 - Dublado" group-title="Filmes | Infantil",Os Cavaleiros do Zodíaco 2 - Dublado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60287.mp4
+#EXTINF:-1 tvg-name="Os Cavaleiros do Zodíaco 3 - Dublado" group-title="Filmes | Infantil",Os Cavaleiros do Zodíaco 3 - Dublado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60288.mp4
+#EXTINF:-1 tvg-name="Os Cavaleiros do Zodíaco 4 - Dublado" group-title="Filmes | Infantil",Os Cavaleiros do Zodíaco 4 - Dublado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60289.mp4
+#EXTINF:-1 tvg-name="Os Cavaleiros do Zodíaco 5 - Dublado" group-title="Filmes | Infantil",Os Cavaleiros do Zodíaco 5 - Dublado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60290.mp4
+#EXTINF:-1 tvg-name="Os Croods" group-title="Filmes | Infantil",Os Croods
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71038.mp4
+#EXTINF:-1 tvg-name="Os Croods 2: Uma Nova Era" group-title="Filmes | Infantil",Os Croods 2: Uma Nova Era
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79314.mp4
+#EXTINF:-1 tvg-name="Os Incriveis" group-title="Filmes | Infantil",Os Incriveis
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49826.mp4
+#EXTINF:-1 tvg-name="Os Jovens Titãs em Ação" group-title="Filmes | Infantil",Os Jovens Titãs em Ação
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51834.mp4
+#EXTINF:-1 tvg-name="Os Pinguins de Madagascar" group-title="Filmes | Infantil",Os Pinguins de Madagascar
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/74493.mp4
+#EXTINF:-1 tvg-name="Os Sete Pecados Mortais: Prisioneiros do Céu" group-title="Filmes | Infantil",Os Sete Pecados Mortais: Prisioneiros do Céu
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49018.mp4
+#EXTINF:-1 tvg-name="Os Simpsons - O Filme (2007)" group-title="Filmes | Infantil",Os Simpsons - O Filme (2007)
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49801.mp4
+#EXTINF:-1 tvg-name="Os Simpsons O Filme" group-title="Filmes | Infantil",Os Simpsons O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48276.mp4
+#EXTINF:-1 tvg-name="Os Smurfs" group-title="Filmes | Infantil",Os Smurfs
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80362.mp4
+#EXTINF:-1 tvg-name="Os Smurfs 2" group-title="Filmes | Infantil",Os Smurfs 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80363.mp4
+#EXTINF:-1 tvg-name="Ozzy" group-title="Filmes | Infantil",Ozzy
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48299.mp4
+#EXTINF:-1 tvg-name="Para Sempre Natal" group-title="Filmes | Infantil",Para Sempre Natal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65624.mp4
+#EXTINF:-1 tvg-name="Pateta" group-title="Filmes | Infantil",Pateta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64367.mp4
+#EXTINF:-1 tvg-name="Pato Pato Ganso" group-title="Filmes | Infantil",Pato Pato Ganso
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/50892.mp4
+#EXTINF:-1 tvg-name="Patrulha Canina - Super Filhotes" group-title="Filmes | Infantil",Patrulha Canina - Super Filhotes
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61952.mp4
+#EXTINF:-1 tvg-name="Patrulha Canina: Os Filhotes Salvam o Natal" group-title="Filmes | Infantil",Patrulha Canina: Os Filhotes Salvam o Natal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76774.mp4
+#EXTINF:-1 tvg-name="Peixe Grande & Begônia" group-title="Filmes | Infantil",Peixe Grande & Begônia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/50886.mp4
+#EXTINF:-1 tvg-name="Peixonauta" tvg-logo="https://i.imgur.com/efvbE3G.jpg" group-title="Filmes | Infantil",Peixonauta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64003.mp4
+#EXTINF:-1 tvg-name="Peppa Pig - George O Gigante" group-title="Filmes | Infantil",Peppa Pig - George O Gigante
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/62263.mp4
+#EXTINF:-1 tvg-name="Pequenos Grandes Heróis" group-title="Filmes | Infantil",Pequenos Grandes Heróis
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77157.mp4
+#EXTINF:-1 tvg-name="Peter Pan" group-title="Filmes | Infantil",Peter Pan
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49804.mp4
+#EXTINF:-1 tvg-name="Pets - A Vida Secreta dos Bichos 2" group-title="Filmes | Infantil",Pets - A Vida Secreta dos Bichos 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63978.mp4
+#EXTINF:-1 tvg-name="Pets A Vida Secreta dos Bichos" group-title="Filmes | Infantil",Pets A Vida Secreta dos Bichos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49805.mp4
+#EXTINF:-1 tvg-name="Pets Unidos" group-title="Filmes | Infantil",Pets Unidos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75967.mp4
+#EXTINF:-1 tvg-name="Phineas e Ferb" group-title="Filmes | Infantil",Phineas e Ferb
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51836.mp4
+#EXTINF:-1 tvg-name="Phineas e Ferb, O Filme: Candace Contra o Universo" group-title="Filmes | Infantil", O Filme: Candace Contra o Universo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75852.mp4
+#EXTINF:-1 tvg-name="Pica-Pau: O Filme" group-title="Filmes | Infantil",Pica-Pau: O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69840.mp4
+#EXTINF:-1 tvg-name="Pinóquio 2021" group-title="Filmes | Infantil",Pinóquio 2021
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79491.mp4
+#EXTINF:-1 tvg-name="Pocahontas" group-title="Filmes | Infantil",Pocahontas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49806.mp4
+#EXTINF:-1 tvg-name="Pokemon.O.Filmes.O.Poder.de.Todos.2018.1080p.BluRay.x264-DUAL.WWW.COMANDOTORRENTS.COM" group-title="Filmes | Infantil",Pokemon.O.Filmes.O.Poder.de.Todos.2018.1080p.BluRay.x264-DUAL.WWW.COMANDOTORRENTS.COM
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49082.mp4
+#EXTINF:-1 tvg-name="Pokémon - Giratina e o Cavaleiro do Céu" group-title="Filmes | Infantil",Pokémon - Giratina e o Cavaleiro do Céu
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65625.mp4
+#EXTINF:-1 tvg-name="Pokémon - Mewtwo Contra-Ataca! Evolução" group-title="Filmes | Infantil",Pokémon - Mewtwo Contra-Ataca! Evolução
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70953.mp4
+#EXTINF:-1 tvg-name="Pokémon o Filme" group-title="Filmes | Infantil",Pokémon o Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49807.mp4
+#EXTINF:-1 tvg-name="Por Agua Abaixo" group-title="Filmes | Infantil",Por Agua Abaixo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61193.mp4
+#EXTINF:-1 tvg-name="Procurando Dory" group-title="Filmes | Infantil",Procurando Dory
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48281.mp4
+#EXTINF:-1 tvg-name="Procurando o Nemo" group-title="Filmes | Infantil",Procurando o Nemo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49808.mp4
+#EXTINF:-1 tvg-name="PéPequeno" group-title="Filmes | Infantil",PéPequeno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48516.mp4
+#EXTINF:-1 tvg-name="PéPequeno" group-title="Filmes | Infantil",PéPequeno
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49081.mp4
+#EXTINF:-1 tvg-name="Rango" group-title="Filmes | Infantil",Rango
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63900.mp4
+#EXTINF:-1 tvg-name="Reino do Superman" group-title="Filmes | Infantil",Reino do Superman
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56386.mp4
+#EXTINF:-1 tvg-name="Riquinho" group-title="Filmes | Infantil",Riquinho
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75846.mp4
+#EXTINF:-1 tvg-name="SCOOBY DOO" group-title="Filmes | Infantil",SCOOBY DOO
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49809.mp4
+#EXTINF:-1 tvg-name="SCOOBY! O Filme" group-title="Filmes | Infantil",SCOOBY! O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72722.mp4
+#EXTINF:-1 tvg-name="Sapatinho Vermelho e os Sete Anões" group-title="Filmes | Infantil",Sapatinho Vermelho e os Sete Anões
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78589.mp4
+#EXTINF:-1 tvg-name="Scooby Doo E O Combate Do Salsicha" group-title="Filmes | Infantil",Scooby Doo E O Combate Do Salsicha
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48332.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo 2: Monstros à Solta" group-title="Filmes | Infantil",Scooby-Doo 2: Monstros à Solta
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75670.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo e a Maldição do 13° Fantasma" group-title="Filmes | Infantil",Scooby-Doo e a Maldição do 13° Fantasma
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56385.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo e a Maldição do 13° Fantasma" group-title="Filmes | Infantil",Scooby-Doo e a Maldição do 13° Fantasma
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56437.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! A Loucura do Monstro da Lua" group-title="Filmes | Infantil",Scooby-Doo! A Loucura do Monstro da Lua
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56906.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! De Volta à Ilha dos Zumbis" group-title="Filmes | Infantil",Scooby-Doo! De Volta à Ilha dos Zumbis
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/65626.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! Halloween" group-title="Filmes | Infantil",Scooby-Doo! Halloween
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75669.mp4
+#EXTINF:-1 tvg-name="Shaun, O Carneiro - O Filme: A Fazenda Contra-Ataca" group-title="Filmes | Infantil", O Carneiro - O Filme: A Fazenda Contra-Ataca
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80663.mp4
+#EXTINF:-1 tvg-name="Shrek" group-title="Filmes | Infantil",Shrek
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49812.mp4
+#EXTINF:-1 tvg-name="Shrek 2" group-title="Filmes | Infantil",Shrek 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49810.mp4
+#EXTINF:-1 tvg-name="Shrek 3" group-title="Filmes | Infantil",Shrek 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49811.mp4
+#EXTINF:-1 tvg-name="Shrek Para Sempre" group-title="Filmes | Infantil",Shrek Para Sempre
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/72420.mp4
+#EXTINF:-1 tvg-name="Sonhos S.A." group-title="Filmes | Infantil",Sonhos S.A.
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79758.mp4
+#EXTINF:-1 tvg-name="Sonic: O Filme" group-title="Filmes | Infantil",Sonic: O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/64961.mp4
+#EXTINF:-1 tvg-name="Soul" group-title="Filmes | Infantil",Soul
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76973.mp4
+#EXTINF:-1 tvg-name="Space Jam - O Jogo do Século" group-title="Filmes | Infantil",Space Jam - O Jogo do Século
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51839.mp4
+#EXTINF:-1 tvg-name="Stitch! O Filme" group-title="Filmes | Infantil",Stitch! O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73247.mp4
+#EXTINF:-1 tvg-name="Super Monstros Salvam o Natal" group-title="Filmes | Infantil",Super Monstros Salvam o Natal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63525.mp4
+#EXTINF:-1 tvg-name="Super Monstros Turma Nova" group-title="Filmes | Infantil",Super Monstros Turma Nova
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75965.mp4
+#EXTINF:-1 tvg-name="Superman: Entre a Foice e o Martelo" group-title="Filmes | Infantil",Superman: Entre a Foice e o Martelo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70139.mp4
+#EXTINF:-1 tvg-name="Superman: O Homem do Amanhã" group-title="Filmes | Infantil",Superman: O Homem do Amanhã
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75969.mp4
+#EXTINF:-1 tvg-name="Ta Dando Onda 2" group-title="Filmes | Infantil",Ta Dando Onda 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49813.mp4
+#EXTINF:-1 tvg-name="Tainá 2 - A Aventura Continua" group-title="Filmes | Infantil",Tainá 2 - A Aventura Continua
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48932.mp4
+#EXTINF:-1 tvg-name="Tigrao O Filme" group-title="Filmes | Infantil",Tigrao O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49817.mp4
+#EXTINF:-1 tvg-name="Tito e os Pássaros" group-title="Filmes | Infantil",Tito e os Pássaros
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/57363.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry Rumo a Marte" group-title="Filmes | Infantil",Tom & Jerry Rumo a Marte
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75970.mp4
+#EXTINF:-1 tvg-name="Tom e Jerry" group-title="Filmes | Infantil",Tom e Jerry
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51843.mp4
+#EXTINF:-1 tvg-name="Tom e Jerry - O Dragão Perdido" group-title="Filmes | Infantil",Tom e Jerry - O Dragão Perdido
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51841.mp4
+#EXTINF:-1 tvg-name="Toy Story" group-title="Filmes | Infantil",Toy Story
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77748.mp4
+#EXTINF:-1 tvg-name="Toy Story 2" group-title="Filmes | Infantil",Toy Story 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49827.mp4
+#EXTINF:-1 tvg-name="Toy Story 3" group-title="Filmes | Infantil",Toy Story 3
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49828.mp4
+#EXTINF:-1 tvg-name="Toy Story 4" group-title="Filmes | Infantil",Toy Story 4
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/60476.mp4
+#EXTINF:-1 tvg-name="Toy Story de Terror" group-title="Filmes | Infantil",Toy Story de Terror
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51845.mp4
+#EXTINF:-1 tvg-name="Trolls" group-title="Filmes | Infantil",Trolls
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69303.mp4
+#EXTINF:-1 tvg-name="Trolls 2" group-title="Filmes | Infantil",Trolls 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71538.mp4
+#EXTINF:-1 tvg-name="Trolls: Vamos Festejar" group-title="Filmes | Infantil",Trolls: Vamos Festejar
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/69304.mp4
+#EXTINF:-1 tvg-name="Turma da Mônica: Laços" tvg-logo="https://i.imgur.com/PGnZhC8.png" group-title="Filmes | Infantil",Turma da Mônica: Laços
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63108.mp4
+#EXTINF:-1 tvg-name="Tá Chovendo Hambúrguer" group-title="Filmes | Infantil",Tá Chovendo Hambúrguer
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75401.mp4
+#EXTINF:-1 tvg-name="Tá Chovendo Hambúrguer  2" group-title="Filmes | Infantil",Tá Chovendo Hambúrguer  2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56931.mp4
+#EXTINF:-1 tvg-name="Tá Dando Onda" group-title="Filmes | Infantil",Tá Dando Onda
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81650.mp4
+#EXTINF:-1 tvg-name="Tô de Férias 2" group-title="Filmes | Infantil",Tô de Férias 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75971.mp4
+#EXTINF:-1 tvg-name="UP Altas Aventuras Dublado" group-title="Filmes | Infantil",UP Altas Aventuras Dublado
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48535.mp4
+#EXTINF:-1 tvg-name="UglyDolls" group-title="Filmes | Infantil",UglyDolls
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/61953.mp4
+#EXTINF:-1 tvg-name="Um Espião Animal" group-title="Filmes | Infantil",Um Espião Animal
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/66003.mp4
+#EXTINF:-1 tvg-name="Um.Lobo em Pele de Cordeiro [2017]" group-title="Filmes | Infantil",Um.Lobo em Pele de Cordeiro [2017]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49820.mp4
+#EXTINF:-1 tvg-name="Uma Aventura Lego 2" group-title="Filmes | Infantil",Uma Aventura Lego 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77156.mp4
+#EXTINF:-1 tvg-name="Uma Familia Feliz" group-title="Filmes | Infantil",Uma Familia Feliz
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49821.mp4
+#EXTINF:-1 tvg-name="Up  Altas Aventuras [2009]" group-title="Filmes | Infantil",Up  Altas Aventuras [2009]
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49823.mp4
+#EXTINF:-1 tvg-name="Upa - Meu Monstro Favorito" group-title="Filmes | Infantil",Upa - Meu Monstro Favorito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49098.mp4
+#EXTINF:-1 tvg-name="Valente" group-title="Filmes | Infantil",Valente
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/75842.mp4
+#EXTINF:-1 tvg-name="Vida de Inseto" group-title="Filmes | Infantil",Vida de Inseto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80113.mp4
+#EXTINF:-1 tvg-name="Viva - A Vida é uma Festa" group-title="Filmes | Infantil",Viva - A Vida é uma Festa
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/51849.mp4
+#EXTINF:-1 tvg-name="Voando Alto" group-title="Filmes | Infantil",Voando Alto
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63459.mp4
+#EXTINF:-1 tvg-name="Vombate ao Combate" group-title="Filmes | Infantil",Vombate ao Combate
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76828.mp4
+#EXTINF:-1 tvg-name="Wall E" group-title="Filmes | Infantil",Wall E
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48566.mp4
+#EXTINF:-1 tvg-name="WiFi Ralph: Quebrando A Internet" group-title="Filmes | Infantil",WiFi Ralph: Quebrando A Internet
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56184.mp4
+#EXTINF:-1 tvg-name="Xico, O Cachorro Mágico" group-title="Filmes | Infantil", O Cachorro Mágico
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77995.mp4
+#EXTINF:-1 tvg-name="Zootopia - Essa cidade é o bixo" group-title="Filmes | Infantil",Zootopia - Essa cidade é o bixo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70545.mp4
+#EXTINF:-1 tvg-name="pinoquio" group-title="Filmes | Infantil",pinoquio
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77938.mp4
+
+
+#EXTINF:-1 tvg-name="A Cabeça de Gumercindo Saraiva" group-title="Filmes | Faroeste",A Cabeça de Gumercindo Saraiva
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78994.mp4
+#EXTINF:-1 tvg-name="A Dificil Vingança" group-title="Filmes | Faroeste",A Dificil Vingança
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63450.mp4
+#EXTINF:-1 tvg-name="A Fistful of Dollars" group-title="Filmes | Faroeste",A Fistful of Dollars
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48502.mp4
+#EXTINF:-1 tvg-name="A Lenda de Wild Bill" group-title="Filmes | Faroeste",A Lenda de Wild Bill
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48981.mp4
+#EXTINF:-1 tvg-name="A Qualquer Custo" group-title="Filmes | Faroeste",A Qualquer Custo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78572.mp4
+#EXTINF:-1 tvg-name="A Salvação" group-title="Filmes | Faroeste",A Salvação
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70937.mp4
+#EXTINF:-1 tvg-name="A Vingança de Lefty Brown" group-title="Filmes | Faroeste",A Vingança de Lefty Brown
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70942.mp4
+#EXTINF:-1 tvg-name="A balada do Buster Scruggs" group-title="Filmes | Faroeste",A balada do Buster Scruggs
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48503.mp4
+#EXTINF:-1 tvg-name="Alma de Cowboy" group-title="Filmes | Faroeste",Alma de Cowboy
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79311.mp4
+#EXTINF:-1 tvg-name="Amaldiçoada" group-title="Filmes | Faroeste",Amaldiçoada
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81853.mp4
+#EXTINF:-1 tvg-name="Bater ou Correr" group-title="Filmes | Faroeste",Bater ou Correr
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63451.mp4
+#EXTINF:-1 tvg-name="Big Kill - A Cidade do Medo" group-title="Filmes | Faroeste",Big Kill - A Cidade do Medo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70936.mp4
+#EXTINF:-1 tvg-name="Califórnia" group-title="Filmes | Faroeste",Califórnia
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79600.mp4
+#EXTINF:-1 tvg-name="Corrida Selvagem" group-title="Filmes | Faroeste",Corrida Selvagem
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63452.mp4
+#EXTINF:-1 tvg-name="Deadwood: O Filme" group-title="Filmes | Faroeste",Deadwood: O Filme
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63453.mp4
+#EXTINF:-1 tvg-name="Django" group-title="Filmes | Faroeste",Django
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/73978.mp4
+#EXTINF:-1 tvg-name="Django Livre" group-title="Filmes | Faroeste",Django Livre
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48498.mp4
+#EXTINF:-1 tvg-name="Era uma Vez no Oeste" group-title="Filmes | Faroeste",Era uma Vez no Oeste
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48996.mp4
+#EXTINF:-1 tvg-name="Hostis" group-title="Filmes | Faroeste",Hostis
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48499.mp4
+#EXTINF:-1 tvg-name="Inferno na Fronteira" group-title="Filmes | Faroeste",Inferno na Fronteira
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70859.mp4
+#EXTINF:-1 tvg-name="Inferno no Faroeste 2" group-title="Filmes | Faroeste",Inferno no Faroeste 2
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49741.mp4
+#EXTINF:-1 tvg-name="Jesse James - O Roubo do Trem Negro" group-title="Filmes | Faroeste",Jesse James - O Roubo do Trem Negro
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63455.mp4
+#EXTINF:-1 tvg-name="Joe Kidd" group-title="Filmes | Faroeste",Joe Kidd
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49008.mp4
+#EXTINF:-1 tvg-name="Jonah Hex - Caçador de Recompensas" group-title="Filmes | Faroeste",Jonah Hex - Caçador de Recompensas
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63456.mp4
+#EXTINF:-1 tvg-name="Mar de Fogo" group-title="Filmes | Faroeste",Mar de Fogo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79400.mp4
+#EXTINF:-1 tvg-name="McQuade: O Lobo Solitário" group-title="Filmes | Faroeste",McQuade: O Lobo Solitário
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/71123.mp4
+#EXTINF:-1 tvg-name="Meu Nome E Ninguem" group-title="Filmes | Faroeste",Meu Nome E Ninguem
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48998.mp4
+#EXTINF:-1 tvg-name="O Cavaleiro Solitário" group-title="Filmes | Faroeste",O Cavaleiro Solitário
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48500.mp4
+#EXTINF:-1 tvg-name="O Álamo" group-title="Filmes | Faroeste",O Álamo
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49040.mp4
+#EXTINF:-1 tvg-name="Oeste Sem Lei" group-title="Filmes | Faroeste",Oeste Sem Lei
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63524.mp4
+#EXTINF:-1 tvg-name="Os Imperdoáveis" group-title="Filmes | Faroeste",Os Imperdoáveis
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48501.mp4
+#EXTINF:-1 tvg-name="Por uns Dólares a Mais" group-title="Filmes | Faroeste",Por uns Dólares a Mais
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79383.mp4
+#EXTINF:-1 tvg-name="Resgate no Oeste" group-title="Filmes | Faroeste",Resgate no Oeste
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/56397.mp4
+#EXTINF:-1 tvg-name="Sete Homens e Um Destino" group-title="Filmes | Faroeste",Sete Homens e Um Destino
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79154.mp4
+#EXTINF:-1 tvg-name="Terra dos Bravos" group-title="Filmes | Faroeste",Terra dos Bravos
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/80753.mp4
+#EXTINF:-1 tvg-name="Texas Rangers - Acima da Lei" group-title="Filmes | Faroeste",Texas Rangers - Acima da Lei
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76864.mp4
+#EXTINF:-1 tvg-name="Três Homens Em Conflito" group-title="Filmes | Faroeste",Três Homens Em Conflito
+http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48504.mp4
+
+
+
 
 
