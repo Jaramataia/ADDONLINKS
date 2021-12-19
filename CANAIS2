@@ -2,10 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - 4" tvg-logo="https://jpimg.com.br/uploads/2021/08/design-sem-nome-14.jpg" group-title="REALITY SHOW",A FAZENDA 13 - 4
-http://sv1.casaplayer.com.br:8080/879548/364338/58470
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 2021 (Link 1) HD" tvg-logo="https://jpimg.com.br/uploads/2021/08/design-sem-nome-14.jpg" group-title="REALITY SHOW",A Fazenda 2021 (Link 1) HD
-http://sv1.casaplayer.com.br:8080/879548/364338/58466
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC
 http://sv1.casaplayer.com.br:8080/879548/364338/3430
@@ -1643,17 +1639,5 @@ http://sv1.casaplayer.com.br:8080/879548/364338/4970
 http://sv1.casaplayer.com.br:8080/879548/364338/62492
 #EXTINF:-1 tvg-id="" tvg-name="JP NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png" group-title="NOTICIAS",JP NEWS HD
 http://sv1.casaplayer.com.br:8080/879548/364338/62493
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - 4" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 13 - 4
-http://sv1.casaplayer.com.br:8080/879548/364338/62494
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - 2" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 13 - 2
-http://sv1.casaplayer.com.br:8080/879548/364338/62495
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - 3" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 13 - 3
-http://sv1.casaplayer.com.br:8080/879548/364338/62496
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - 5" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 13 - 5
-http://sv1.casaplayer.com.br:8080/879548/364338/62497
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - 6" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 13 - 6
-http://sv1.casaplayer.com.br:8080/879548/364338/62498
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - 7" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 13 - 7
-http://sv1.casaplayer.com.br:8080/879548/364338/62499
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - 8" tvg-logo="" group-title="REALITY SHOW",A FAZENDA 13 - 8
-http://sv1.casaplayer.com.br:8080/879548/364338/62500
+
+
