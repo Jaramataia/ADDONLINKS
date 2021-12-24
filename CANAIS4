@@ -5,7 +5,7 @@
 ===FILMES MMM=====================================================================================
 
 #EXTINF:-1 tvg-name="Homem Aranha" group-title="Filmes | Lançamentos 2021",Homem Aranha: Sem volta para casa
-http://127.0.0.1:19575/stream?token=25863bd564cd8a1e780c738a5f3fa3293f2a8e56&localauth=localapi25a354ed436e93be:&sid=5e4fc0a8555147f8e396c44d3e4088b5d891a270&file=0&ts=235.6&accept=video/mp4;%20codecs=%22avc1.640020,%20mp4a.40.2%22&audio=1&session=2326255
+http://localhost:54321/streaming?t=1
 
 #EXTINF:-1 tvg-name="2067" group-title="Filmes | Lançamentos 2021",2067
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79852.mp4
