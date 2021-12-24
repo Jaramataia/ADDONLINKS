@@ -4,11 +4,11 @@
 
 ===FILMES MMM=====================================================================================
 
-#EXTINF:-1 tvg-logo="" group-title=" Lançamentos 2021" LANÇAMENTOS 2021
 
 
-#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="Filmes, RIO ARARA AZUL DESENHO ANIMADO
-https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChSYOPGr5FIXILaWzG1SkDvWGT_UwRAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2dMQRReVkEDE1AWPTs1HTwiZAxcA3JSIAwZQiI8QQYPCQZMIxIdbhNQHhdtFE19Aw&response-content-disposition=attachment;%20filename=%22FILME%20RIO%2C%20COMPLETO%20DUBLADO%202020.mp4%22&ngsw-bypass=1
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="Filmes, LANÇAMENTOS 2021
+
 
 
 
@@ -217,7 +217,8 @@ http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/81211.mp4
 #EXTINF:-1 tvg-name="Zona de Combate" group-title="Filmes | Lançamentos 2021",Zona de Combate
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77356.mp4
 
-#EXTINF:-1 tvg-logo="" group-title=" Filmes | Nacionais" NACIONAIS
+
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="Filmes, NACIONAIS
 
 #EXTINF:-1 tvg-name="1 Contra Todos" group-title="Filmes | Nacionais",1 Contra Todos
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48897.mp4
@@ -399,8 +400,8 @@ http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77609.mp4
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48423.mp4
 #EXTINF:-1 tvg-name="Ó Pai, Ó" group-title="Filmes | Nacionais", Ó
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/79991.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes | Terror" TERROR
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="Filmes, TERROR
 
 #EXTINF:-1 tvg-name="Harbinger Down - Terror no Gelo" group-title="Filmes | Terror",Harbinger Down - Terror no Gelo
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/63896.mp4
@@ -1698,7 +1699,8 @@ http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/70545.mp4
 #EXTINF:-1 tvg-name="pinoquio" group-title="Filmes | Infantil",pinoquio
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/77938.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes | Faroeste" FAROESTE
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="Filmes, FAROESTE
 
 #EXTINF:-1 tvg-name="A Cabeça de Gumercindo Saraiva" group-title="Filmes | Faroeste",A Cabeça de Gumercindo Saraiva
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/78994.mp4
@@ -1775,7 +1777,7 @@ http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/76864.mp4
 #EXTINF:-1 tvg-name="Três Homens Em Conflito" group-title="Filmes | Faroeste",Três Homens Em Conflito
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48504.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes | Acao/Aventura/Guerra" ACAO/AVENTURA/GUERRA
+#EXTINF:-1 tvg-ID="" tvg-logo=" " group-title="Filmes, ACAO/AVENTURA/GUERRA
 
 #EXTINF:-1 tvg-name="007  Operacao Skyfall" group-title="Filmes | Acao/Aventura/Guerra",007  Operacao Skyfall
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/48343.mp4
@@ -3533,6 +3535,8 @@ http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/67457.mp4
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49024.mp4
 #EXTINF:-1 tvg-name="Único sobrevivente" group-title="Filmes | Acao/Aventura/Guerra",Único sobrevivente
 http://tv.minhalista.me/movie/5GRtRwWyVb/factoryiptv/49021.mp4
+
+
 
 
 
