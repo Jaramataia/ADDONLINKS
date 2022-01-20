@@ -5,8 +5,18 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 18.12.2021 
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 10.01.2022 
 http://127.0.0.2 
+
+
+############################################ BBB22
+
+#EXTINF:-1 tvg-id="BBB CAM 1 (S)" tvg-name="BBB CAM 1 (S)" tvg-logo="https://i.imgur.com/4L6Wjvl.png" group-title="Big Brother Brasil 2022",BBB CAM 1 (S)
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/84933.ts
+
+#EXTINF:-1 tvg-id="BBB CASA 1 (P)" tvg-name="BBB CASA 1 (P)" tvg-logo="https://i.imgur.com/4L6Wjvl.png" group-title="Big Brother Brasil 2022",BBB CASA 1 (P)
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/84921.ts
+
 
 
 
