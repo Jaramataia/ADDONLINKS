@@ -1,6 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 18.12.2021 
+#EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **",LISTA ATUALIZADA EM 11.01.2022 
+
+
+#EXTINF:-1 tvg-id="BBB 22" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/62794.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 1" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 1
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68757.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 1" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 1
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/66224.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 10" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 10
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68758.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 11" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 11
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68759.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 2" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 2
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68760.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 2" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 2
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/66220.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 3" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 3
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68761.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 3" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 3
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/66221.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 4" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 4
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68762.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 4" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 4
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/66222.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 5" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 5
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68763.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 5" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 5
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/66223.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 6" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 6
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68764.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 7" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 7
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68765.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - CAM 8" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 8
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68766.m3u8
+#EXTINF:-1 tvg-id="BBB 22 - MOSAICO" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - MOSAICO
+http://cms-eu-01.casap2p.online:8080/live/879548/364338/68767.m3u8
+
 
 ===FILMES MMM=====================================================================================
 
