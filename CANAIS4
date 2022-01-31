@@ -38,6 +38,7 @@ http://cms-eu-01.casap2p.online:8080/live/879548/364338/68766.m3u8
 #EXTINF:-1 tvg-id="BBB 22 - MOSAICO" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - MOSAICO
 http://cms-eu-01.casap2p.online:8080/live/879548/364338/68767.m3u8
 
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml" url-tvg="https://i.mjh.nz/PlutoTV/br.xml" refresh="3600" 
 
 #EXTINF:-1 tvg-name="************** BR PLUTO *********" group-title="PLUTO BR",************** BR PLUTO *********
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1&deviceId=5fa97a8a75cc210007c9041d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
