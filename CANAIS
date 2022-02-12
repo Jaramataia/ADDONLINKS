@@ -341,6 +341,11 @@ https://novo.bitstreaming.info:1936/tvvitoriape/tvvitoriape/playlist.m3u8
 
 ############################################## VARIEDADES E MÚSICAS
 
+
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Variedades e Músicas",Viva
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36997.ts
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Variedades e Músicas",Viva HD
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36931.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4tjwOdC.png" group-title="Variedades e Músicas",TV Portal Ativo
 https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3mro3cV.png" group-title="Variedades e Músicas",TV Imagem
@@ -472,6 +477,9 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/mas
 
 
 #############################################DOCUMENTARIOS
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36985.ts
 
 #EXTINF:-1 tvg-id="LoveNature.eu" tvg-logo="https://i.imgur.com/sEU9F2h.png" group-title="Documentários",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
