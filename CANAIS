@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Informa??es da Lista" tvg-logo="https://i.imgur.com/OalUKZI.png",Atualizado: 20/09/2022
-
+http://0.0.0.0
 #EXTINF:-1,TV Globo Bhaia
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
