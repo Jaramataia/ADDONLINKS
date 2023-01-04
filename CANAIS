@@ -1,14 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Infor da Lista" tvg-logo="https://i.imgur.com/OalUKZI.png",.Atualizado: 09/12/2022
-http://0.0.0.0
+#EXTINF:-1 group-title="Informações da Lista" tvg-logo="https://i.imgur.com/OalUKZI.png",.Atualizado: 03.01.2023
 
+http://0.0.0.0
 
 #EXTINF:-1 group-title="ABERTO" ,Globo Minas HD
 http://168.205.87.198:8555/live/shirley/123456/70.ts
 
+#EXTINF:-1 group-title="ABERTO" ,Intertv Cabugi 
+http://170.80.157.9:8000/play/a01g
+
 #EXTINF:-1 group-title="ABERTO" ,Band Mais
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
+
+#EXTINF:-1 group-title="ABERTO" ,Band RN
+http://170.80.157.9:8000/play/a01e
 
 #EXTINF:-1 group-title="ABERTO" ,RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
@@ -19,6 +25,9 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="ABERTO" ,SBT 
 https://youtu.be/gopsOL8tCzs
 
+#EXTINF:-1 group-title="ABERTO" ,TV Assembleia RN
+http://177.54.149.15:1935/assembleiarn/assembleiarn/playlist.m3u8
+
 #EXTINF:-1 group-title="ABERTO" ,TV CN Agitos RN
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 
@@ -27,6 +36,9 @@ https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 group-title="ABERTO" ,TV Seridor RN
 https://srv1.video.xradios.com.br/tvseridorn/tvseridorn/chunklist_w1495752899.m3u8
+
+#EXTINF:-1 group-title="ABERTO" ,TV Caico RN
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 
 #EXTINF:-1 group-title="ABERTO" ,TV Sidys RN
 https://canal4stream.sidys.com.br/hls/canal4.m3u8
@@ -39,6 +51,12 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 
 #EXTINF:-1 group-title="ABERTO" , TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 group-title="ABERTO" , TV Nordeste
+https://cdn.jmvstream.com/w/AVJ-10557/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="ABERTO" , TV Ponta dos Seixas
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
 
 #EXTINF:-1 group-title="ABERTO" ,TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -124,6 +142,12 @@ http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:-1 group-title="INFANTIL",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
+#EXTINF:-1 group-title="INFANTIL",Nick classico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 group-title="INFANTIL",Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 group-title="FILME",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
@@ -136,6 +160,27 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 group-title="FILME",Star Channel
 http://187.85.237.3:8220/ipvt_002
 
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (01)
+https://tinyurl.com/FORMIGAtv12122022/20.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (02)
+https://tinyurl.com/FORMIGAtv12122022/21.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (03)
+https://tinyurl.com/FORMIGAtv12122022/22.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (04)
+https://tinyurl.com/FORMIGAtv12122022/23.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (05)
+https://tinyurl.com/FORMIGAtv12122022/24.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (06)
+https://tinyurl.com/FORMIGAtv12122022/25.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (07)
+https://tinyurl.com/FORMIGAtv12122022/26.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (08)
+https://tinyurl.com/FORMIGAtv12122022/27.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (09)
+https://tinyurl.com/FORMIGAtv12122022/28.m3u8
+#EXTINF:-1 group-title="CINESKY",Sky Cinema (10)
+https://tinyurl.com/FORMIGAtv12122022/29.m3u8
+
 #EXTINF:-1 group-title="DOC",History 2
 http://cdn.connectbr.com.br/h2/playlist.m3u8
 
@@ -147,3 +192,33 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 
 #EXTINF:-1 group-title="DOC" ,NASA 2 TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 group-title="DOC" ,Estação Espacial Internacional 
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title="DOC" ,DOCUMENTÁRIOS 1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 group-title="DOC" ,DOCUMENTÁRIOS 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 group-title="DOC" ,Natal RN Meu pedaço do Brasi
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChTy3SPLrlJlBG0tOwcA-llkz_KZihAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DY21ORRNeUkoDE1AWPTs1HTwiZCJKAVQ2FmdYNAoJMhAEKQRJEQFJTA1vMicqEi4DYmos&ngsw-bypass=1
+
+#EXTINF:-1 group-title="DOC" ,6 Cidades Mais Isoladas do Mundo
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/wCO7uq/1_q5DQ/mp4/ChSkL_1WdM6UJfOp2UgEsvzo4ofnDhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1673466031&Signature=UPhYP7%2FE7djEg5kftn2f9ggsB58%3D&ngsw-bypass=1
+
+#EXTINF:-1 group-title="DOC" ,Clima Mundial 
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/wCO7uq/1_q5DQ/mp4/ChTX73-6v8i_47hq1G4zf2mOFeK5OhAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DY21IRRZTVU0DE1AWPTs1HTwiZF1xPkEKMzgQNys3GhNtOzNpIg9KbnNBMwEcFE19Aw&ngsw-bypass=1
+
+#EXTINF:-1 group-title="VARIEDADES" ,Viva TV
+https://tinyurl.com/FORMIGATV1120/31631.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" ,Turbo TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 group-title="VARIEDADES" ,CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
+
+
