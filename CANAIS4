@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Lista 01.02.2023
 #EXTINF:-1 ,TV Bahia Salvador
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:-1 ,Band Mais
@@ -26,8 +25,6 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
 #EXTINF:-1 ,O Dia TV
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 ,Rede Fam�lia
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 ,RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 ,SBT Interior SP
@@ -50,8 +47,6 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/playlist.m3u8
 #EXTINF:-1 ,TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 ,TV Capital
-https://stmv1.srvif.com/rbc/rbc/playlist.m3u8
 #EXTINF:-1 ,TV Difusora
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 ,TV Difusora Leste
@@ -80,8 +75,6 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 ,TV Pantanal
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 ,TV Plan
-http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,TV Po�os
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 #EXTINF:-1 ,TV Thathi
@@ -124,8 +117,6 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 ,Santa Cec�lia TV
 http://flash1.crossdigital.com.br:1935/2063/2063/playlist.m3u8
-#EXTINF:-1 ,TV Mackenzie
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 ,TV UFG
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 #EXTINF:-1 ,TV Aberta SP
@@ -254,8 +245,6 @@ https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 ,Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-#EXTINF:-1 ,TV 19
-https://stmv1.srvstm.com/bruno4723/bruno4723/playlist.m3u8
 #EXTINF:-1 ,TVN Brasil
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 ,TV Alagoinha
@@ -328,8 +317,6 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:-1 ,Inspire
 http://cdn.connectbr.com.br/Inspire/index.m3u8
-#EXTINF:-1 ,Loading
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 ,MTV
 http://cdn2.connectbr.com.br/mtv/index.m3u8
 #EXTINF:-1 ,Rede Mosaico
@@ -486,8 +473,6 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 ,Multimedios TV Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 ,Multivisi�n Federal
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 ,NET TV Argentina
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 ,Promar TV
@@ -720,14 +705,10 @@ http://cast4.audiostream.com.br:8655/mp3
 http://stm2.pousadavirtual.com.br:7110/stream
 #EXTINF:-1 ,R�dio Mania FM
 http://shout35.crossradio.com.br:8086/1/;
-#EXTINF:-1 ,R�dio Monte Mor 95.1 FM
-http://stm28.srvaudio.com.br:10606/stream
 #EXTINF:-1 ,R�dio Novo Tempo
 http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
 #EXTINF:-1 ,R�dio Pampa
 http://cast4.audiostream.com.br:8653/mp3
-#EXTINF:-1 ,R�dio Sagres
-https://c1.audiostream.com.br:20029/stream
 #EXTINF:-1 ,R�dio Super Not�cia
 https://9134.brasilstream.com.br/stream
 #EXTINF:-1 ,Universit�ria Natal
